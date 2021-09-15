@@ -1,0 +1,10 @@
+@mixin padding ($top: null, $right: null, $bottom: null, $left: null) {
+  padding-top: $top;
+  padding-right: $right;
+  padding-bottom: $bottom;
+  padding-left: $left;
+}
+
+@mixin padding-default ($property) {
+  padding: $property;
+}

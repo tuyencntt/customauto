@@ -1,0 +1,43 @@
+.tz-remove{
+    display: none;
+    padding: 10px;
+    background: red;
+    border: 0;
+}
+.tz-remove-block{
+    display: block;
+}
+.tzpreview{
+    padding: 10px;
+    background: #f0f0f0;
+    margin: 10px 0 30px;
+}
+.tzpreview span{
+    background-color: #f7f7f9;
+    color: #d14;
+    display: block;
+    font-size: 14px;
+    line-height: 25px;
+}
+.tzpreview span.shortcode-preview-c{
+    padding-left: 20px;
+}
+.image-upload-value{
+    width: 65%;
+    height: 32px;
+    margin-top: 2px;
+}
+.create_image_item{
+    margin-bottom: 15px;
+    position: relative;
+}
+.tzupload-image{
+    height: 32px;
+    border-radius: 0;
+    -moz-border-radius: 0;
+    -webkit-border-radius: 0;
+    -ms-border-radius: 0;
+    -o-border-radius: 0;
+    border: 1px solid #bbbbb9;
+    cursor: pointer;
+}

@@ -1,0 +1,12 @@
+@mixin column-1 {
+  grid-template-columns: auto;
+}
+@mixin column-2 {
+  grid-template-columns: auto auto;
+}
+@mixin column-3 {
+  grid-template-columns: auto auto auto;
+}
+@mixin column-4 {
+  grid-template-columns: auto auto auto auto;
+}

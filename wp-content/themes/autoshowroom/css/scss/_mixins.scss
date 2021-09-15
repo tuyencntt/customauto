@@ -1,0 +1,18 @@
+@import "mixins/background";
+@import "mixins/border";
+@import "mixins/border-radius";
+@import 'mixins/box-shadow';
+@import "mixins/opacity";;
+@import "mixins/placeholder-color";
+@import "mixins/position";
+@import 'mixins/transition';
+@import 'mixins/transform';
+@import 'mixins/sub-property';
+@import 'mixins/margin';
+@import 'mixins/padding';
+@import 'mixins/filter';
+@import "mixins/gird-column";
+
+/*import variables*/
+@import 'mixins/_variables/color';
+@import 'mixins/_variables/fonts';

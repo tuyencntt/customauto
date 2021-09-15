@@ -1,0 +1,10 @@
+@mixin margin($top: null, $right: null, $bottom: null, $left: null) {
+  margin-top: $top;
+  margin-right: $right;
+  margin-bottom: $bottom;
+  margin-left: $left;
+}
+
+@mixin margin-default($properties) {
+  margin: $properties;
+}

@@ -1,0 +1,167 @@
+/*import variables*/
+/*Start font  Saira*/
+/*End font  Saira/
+/*Start font  Saira Semi Condensed*/
+/*End font Saira Semi Condensed**/
+/*Start font  Saira Semi Condensed*/
+/*End font Saira Semi Condensed**/
+/*Start font  Saira Semi Condensed*/
+/*End font Saira Semi Condensed**/
+header.tz_hservice {
+  border: none;
+}
+header.tz_hservice .tz-menu-header {
+  position: absolute;
+  left: 0;
+  right: 0;
+  z-index: 2;
+  background: transparent;
+}
+header.tz_hservice .tz-menu-header nav ul.navbar-nav li > a {
+  font-weight: 600;
+  color: #ffffff;
+}
+header.tz_hservice .tz-menu-header .container {
+  padding-right: 0;
+  padding-left: 0;
+}
+header.tz_hservice .tzmenu_fixed.menu_fixed {
+  position: fixed;
+  background: rgba(0, 0, 0, 0.7);
+}
+header.tz_hservice .tz-top-header .textwidget ul li a {
+  color: #888888;
+  font-weight: 400;
+}
+header.tz_hservice .tz-top-header p {
+  color: #888888;
+  font-weight: 400;
+}
+header.tz_hservice .tz-top-header .container {
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.tz_button.tz_btn_align_center {
+  text-align: center;
+}
+
+.tz_button.tz_btn_align_right {
+  text-align: right;
+}
+
+.tz_button a {
+  display: inline-block;
+  background: #333336;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  font-weight: 700;
+  font-size: 14px;
+  text-transform: uppercase;
+  color: #fff;
+  font-family: "Montserrat", sans-serif;
+}
+
+.vc_row-o-equal-height.vc_row-o-content-middle .row {
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  align-items: center;
+}
+
+.autoshowroom-list ul li, .autoshowroom-title.autoshowroom-title-left p {
+  font-weight: 400;
+}
+
+.autoshowroom-title h2 b {
+  color: #ff5400;
+}
+
+.tz_custom_img {
+  position: relative;
+  left: 70px;
+}
+.tz_custom_img img {
+  width: auto;
+  max-width: unset !important;
+}
+
+.autoshowroom-ads.autoshowroom-ads-type3 .autoshowroom-ads-image {
+  width: 48%;
+}
+.autoshowroom-ads.autoshowroom-ads-type3 .autoshowroom-ads-text {
+  width: 52%;
+}
+.autoshowroom-ads.autoshowroom-ads-type3 .autoshowroom-ads-image img {
+  object-fit: cover;
+  height: 100%;
+}
+.autoshowroom-ads.autoshowroom-ads-type3 .autoshowroom-ads-text .autoshowroom-ads-text-box {
+  padding: 0;
+  letter-spacing: -0.05px;
+}
+.autoshowroom-ads.autoshowroom-ads-type3 .autoshowroom-ads-text .autoshowroom-ads-text-box h2 span, .autoshowroom-ads.autoshowroom-ads-type3 .autoshowroom-ads-text .autoshowroom-ads-text-box h3 span, .autoshowroom-ads.autoshowroom-ads-type3 .autoshowroom-ads-text .autoshowroom-ads-text-box h4 span {
+  line-height: 2em;
+}
+.autoshowroom-ads.autoshowroom-ads-type3 .autoshowroom-ads-text .autoshowroom-ads-text-box p {
+  margin-top: 5px;
+  width: 85%;
+  font-weight: 400;
+  letter-spacing: 0.5px;
+}
+.autoshowroom-ads.autoshowroom-ads-type3 .autoshowroom-button {
+  margin-top: 0;
+}
+.autoshowroom-ads.autoshowroom-ads-type3 .autoshowroom-button a {
+  background-color: #222222 !important;
+  border: none;
+  padding: 13px 20px;
+  font-size: 14px;
+}
+
+.autoshowroom-ads.autoshowroom-ads-type3.autoshowroom-ads-image-text .autoshowroom-ads-image img {
+  object-position: right;
+}
+
+.autoshowroom-ads.autoshowroom-ads-type3.autoshowroom-ads-text-image .autoshowroom-ads-image img {
+  object-position: left;
+}
+.autoshowroom-ads.autoshowroom-ads-type3.autoshowroom-ads-text-image .autoshowroom-ads-text {
+  padding-left: 60px;
+}
+.autoshowroom-ads.autoshowroom-ads-type3.autoshowroom-ads-text-image .autoshowroom-ads-text .autoshowroom-ads-text-box p {
+  width: 90%;
+}
+
+.autoshowroom-ads .tz_newsletter form {
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+}
+.autoshowroom-ads .tz_newsletter form label {
+  display: none;
+}
+.autoshowroom-ads .tz_newsletter form input {
+  height: 40px;
+  border: none;
+  background: #fff;
+  font-size: 14px;
+  font-weight: 400;
+  color: #868686;
+}
+.autoshowroom-ads .tz_newsletter form input.tnp-email {
+  width: 260px;
+  padding-left: 20px;
+}
+.autoshowroom-ads .tz_newsletter form input.submit {
+  width: 100px;
+  text-align: center;
+}
+
+/*# sourceMappingURL=update.css.map */

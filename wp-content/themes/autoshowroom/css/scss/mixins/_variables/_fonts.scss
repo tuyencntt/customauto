@@ -1,0 +1,295 @@
+@mixin Opensans_light ($size:13px, $height:1.5em, $spacing: null ) {
+  font-size: $size;
+  font-family: 'Open Sans', sans-serif;
+  line-height: $height;
+  font-weight: 300;
+  letter-spacing: $spacing;
+}
+@mixin Opensans_regular ($size:13px, $height:1.5em , $spacing: null) {
+  font-size: $size;
+  font-family: 'Open Sans', sans-serif;
+  line-height: $height;
+  font-weight: 400;
+  letter-spacing: $spacing;
+}
+@mixin Opensans_semibold ($size:13px, $height:1.5em, $spacing: null) {
+  font-size: $size;
+  font-family: 'Open Sans', sans-serif;
+  line-height: $height;
+  font-weight: 600;
+  letter-spacing: $spacing;
+}
+@mixin Opensans_bold ($size:13px, $height:1.5em, $spacing: null ) {
+  font-size: $size;
+  font-family: 'Open Sans', sans-serif;
+  line-height: $height;
+  font-weight: 700;
+  letter-spacing: $spacing;
+}
+@mixin Opensans_extrabold ($size:13px, $height:1.5em, $spacing: null ) {
+  font-size: $size;
+  font-family: 'Open Sans', sans-serif;
+  line-height: $height;
+  font-weight: 800;
+  letter-spacing: $spacing;
+}
+/*Start font  Saira*/
+@mixin Saira_thin ($size:13px, $height:1.5em, $spacing: null ) {
+  font-size: $size;
+  font-family: 'Saira', sans-serif;
+  line-height: $height;
+  font-weight: 100;
+  letter-spacing: $spacing;
+}
+@mixin Saira_extralight ($size:13px, $height:1.5em , $spacing: null) {
+  font-size: $size;
+  font-family: 'Saira', sans-serif;
+  line-height: $height;
+  font-weight: 200;
+  letter-spacing: $spacing;
+}
+@mixin Saira_light ($size:13px, $height:1.5em , $spacing: null) {
+  font-size: $size;
+  font-family: 'Saira', sans-serif;
+  line-height: $height;
+  font-weight: 300;
+  letter-spacing: $spacing;
+}
+@mixin Saira_regular ($size:13px, $height:1.5em , $spacing: null) {
+  font-size: $size;
+  font-family: 'Saira', sans-serif;
+  line-height: $height;
+  font-weight: 400;
+  letter-spacing: $spacing;
+}
+@mixin Saira_medium ($size:13px, $height:1.5em , $spacing: null) {
+  font-size: $size;
+  font-family: 'Saira', sans-serif;
+  line-height: $height;
+  font-weight: 500;
+  letter-spacing: $spacing;
+}
+@mixin Saira_semibold ($size:13px, $height:1.5em, $spacing: null) {
+  font-size: $size;
+  font-family: 'Saira', sans-serif;
+  line-height: $height;
+  font-weight: 600;
+  letter-spacing: $spacing;
+}
+@mixin Saira_bold ($size:13px, $height:1.5em, $spacing: null ) {
+  font-size: $size;
+  font-family: 'Saira', sans-serif;
+  line-height: $height;
+  font-weight: 700;
+  letter-spacing: $spacing;
+}
+@mixin Saira_extrabold ($size:13px, $height:1.5em, $spacing: null ) {
+  font-size: $size;
+  font-family: 'Saira', sans-serif;
+  line-height: $height;
+  font-weight: 800;
+  letter-spacing: $spacing;
+}
+@mixin Saira_black ($size:13px, $height:1.5em, $spacing: null ) {
+  font-size: $size;
+  font-family: 'Saira', sans-serif;
+  line-height: $height;
+  font-weight: 900;
+  letter-spacing: $spacing;
+}
+/*End font  Saira/
+/*Start font  Saira Semi Condensed*/
+@mixin Saira_Semi_Condensed_thin ($size:13px, $height:1.5em, $spacing: null ) {
+  font-size: $size;
+  font-family: 'Saira Semi Condensed', sans-serif;
+  line-height: $height;
+  font-weight: 100;
+  letter-spacing: $spacing;
+}
+@mixin Saira_Semi_Condensed_extralight ($size:13px, $height:1.5em , $spacing: null) {
+  font-size: $size;
+  font-family: 'Saira Semi Condensed', sans-serif;
+  line-height: $height;
+  font-weight: 200;
+  letter-spacing: $spacing;
+}
+@mixin Saira_Semi_Condensed_light ($size:13px, $height:1.5em , $spacing: null) {
+  font-size: $size;
+  font-family: 'Saira Semi Condensed', sans-serif;
+  line-height: $height;
+  font-weight: 300;
+  letter-spacing: $spacing;
+}
+@mixin Saira_Semi_Condensed_regular ($size:13px, $height:1.5em , $spacing: null) {
+  font-size: $size;
+  font-family: 'Saira Semi Condensed', sans-serif;
+  line-height: $height;
+  font-weight: 400;
+  letter-spacing: $spacing;
+}
+@mixin Saira_Semi_Condensed_medium ($size:13px, $height:1.5em , $spacing: null) {
+  font-size: $size;
+  font-family: 'Saira Semi Condensed', sans-serif;
+  line-height: $height;
+  font-weight: 500;
+  letter-spacing: $spacing;
+}
+@mixin Saira_Semi_Condensed_semibold ($size:13px, $height:1.5em, $spacing: null) {
+  font-size: $size;
+  font-family: 'Saira Semi Condensed', sans-serif;
+  line-height: $height;
+  font-weight: 600;
+  letter-spacing: $spacing;
+}
+@mixin Saira_Semi_Condensed_bold ($size:13px, $height:1.5em, $spacing: null ) {
+  font-size: $size;
+  font-family: 'Saira Semi Condensed', sans-serif;
+  line-height: $height;
+  font-weight: 700;
+  letter-spacing: $spacing;
+}
+@mixin Saira_Semi_Condensed_extrabold ($size:13px, $height:1.5em, $spacing: null ) {
+  font-size: $size;
+  font-family: 'Saira Semi Condensed', sans-serif;
+  line-height: $height;
+  font-weight: 800;
+  letter-spacing: $spacing;
+}
+@mixin Saira_Semi_Condensed_black ($size:13px, $height:1.5em, $spacing: null ) {
+  font-size: $size;
+  font-family: 'Saira Semi Condensed', sans-serif;
+  line-height: $height;
+  font-weight: 900;
+  letter-spacing: $spacing;
+}
+/*End font Saira Semi Condensed**/
+/*Start font  Saira Semi Condensed*/
+@mixin IronfieldCF-Thin ($size:13px, $height:1.5em, $spacing: null ) {
+  font-size: $size;
+  font-family: 'IronfieldCF-Thin', sans-serif;
+  line-height: $height;
+  font-weight: 100;
+  letter-spacing: $spacing;
+}
+@mixin IronfirldCF-Light ($size:13px, $height:1.5em , $spacing: null) {
+  font-size: $size;
+  font-family: 'IronfirldCF-Light', sans-serif;
+  line-height: $height;
+  font-weight: 300;
+  letter-spacing: $spacing;
+}
+@mixin IronfieldCF-Regular ($size:13px, $height:1.5em , $spacing: null) {
+  font-size: $size;
+  font-family: 'IronfieldCF-Regular', sans-serif;
+  line-height: $height;
+  font-weight: 400;
+  letter-spacing: $spacing;
+}
+@mixin IronfieldCF-Bold ($size:13px, $height:1.5em, $spacing: null ) {
+  font-size: $size;
+  font-family: 'IronfieldCF-Bold', sans-serif;
+  line-height: $height;
+  font-weight: 700;
+  letter-spacing: $spacing;
+}
+@mixin IronfieldCF-Black ($size:13px, $height:1.5em, $spacing: null ) {
+  font-size: $size;
+  font-family: 'IronfieldCF-Black', sans-serif;
+  line-height: $height;
+  font-weight: 900;
+  letter-spacing: $spacing;
+}
+/*End font Saira Semi Condensed**/
+/*Start font  Saira Semi Condensed*/
+@mixin IronfieldCF-ThinOblique ($size:13px, $height:1.5em, $spacing: null ) {
+  font-size: $size;
+  font-family: 'IronfieldCF-ThinOblique', sans-serif;
+  line-height: $height;
+  font-weight: 100;
+  letter-spacing: $spacing;
+}
+@mixin IronfieldCF-LightOblique ($size:13px, $height:1.5em , $spacing: null) {
+  font-size: $size;
+  font-family: 'IronfieldCF-LightOblique', sans-serif;
+  line-height: $height;
+  font-weight: 300;
+  letter-spacing: $spacing;
+}
+@mixin IronfieldCF-RegularOblique ($size:13px, $height:1.5em , $spacing: null) {
+  font-size: $size;
+  font-family: 'IronfieldCF-RegularOblique', sans-serif;
+  line-height: $height;
+  font-weight: 400;
+  letter-spacing: $spacing;
+}
+@mixin IronfieldCF-BoldOblique ($size:13px, $height:1.5em, $spacing: null ) {
+  font-size: $size;
+  font-family: 'IronfieldCF-BoldOblique', sans-serif;
+  line-height: $height;
+  font-weight: 700;
+  letter-spacing: $spacing;
+}
+@mixin IronfieldCF-BlackOblique ($size:13px, $height:1.5em, $spacing: null ) {
+  font-size: $size;
+  font-family: 'IronfieldCF-BlackOblique', sans-serif;
+  line-height: $height;
+  font-weight: 900;
+  letter-spacing: $spacing;
+}
+/*End font Saira Semi Condensed**/
+@mixin roboto_light ($size:13px, $height:1.5em, $spacing: null ) {
+  font-size: $size;
+  font-family: 'roboto', sans-serif;
+  line-height: $height;
+  font-weight: 300;
+  letter-spacing: $spacing;
+}
+@mixin roboto_regular ($size:13px, $height:1.5em, $spacing: null ) {
+  font-size: $size;
+  font-family: 'roboto', sans-serif;
+  line-height: $height;
+  font-weight: 400;
+  letter-spacing: $spacing;
+}
+@mixin roboto_semibold ($size:13px, $height:1.5em, $spacing: null ) {
+  font-size: $size;
+  font-family: 'roboto', sans-serif;
+  line-height: $height;
+  font-weight: 600;
+}
+@mixin roboto_bold ($size:13px, $height:1.5em, $spacing: null ) {
+  font-size: $size;
+  font-family: 'roboto', sans-serif;
+  line-height: $height;
+  font-weight: 700;
+  letter-spacing: $spacing;
+}
+@mixin roboto_black ($size:13px, $height:1.5em, $spacing: null ) {
+  font-size: $size;
+  font-family: 'roboto', sans-serif;
+  line-height: $height;
+  font-weight: 900;
+  letter-spacing: $spacing;
+}
+@mixin Muli_light ($size:13px, $height:1.5em, $spacing: null ) {
+  font-size: $size;
+  font-family: 'Muli', sans-serif;
+  line-height: $height;
+  font-weight: 300;
+  letter-spacing: $spacing;
+}
+@mixin Muli_regular ($size:13px, $height:1.5em, $spacing: null ) {
+  font-size: $size;
+  font-family: 'Muli', sans-serif;
+  line-height: $height;
+  font-weight: 400;
+  letter-spacing: $spacing;
+}
+@mixin Montserrat_bold ($size:13px, $height:1.5em, $spacing: null ) {
+  font-size: $size;
+  font-family: 'Muli', sans-serif;
+  line-height: $height;
+  font-weight: 700;
+  letter-spacing: $spacing;
+}
+$linearicons: 'Linearicons';

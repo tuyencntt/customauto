@@ -1,0 +1,1814 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: TZ Autoshowroom\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-01-25 16:35+0700\n"
+"PO-Revision-Date: 2020-01-21 08:54+0000\n"
+"Last-Translator: tzwordpress <tuyennv@templaza.com>\n"
+"Language-Team: Español\n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.1; wp-5.3.2"
+
+#: admin/post-type/agency-post-type.php:11
+msgctxt "Agency General Name"
+msgid "Agency"
+msgstr ""
+
+#: admin/post-type/agency-post-type.php:12
+msgctxt "Agency Singular Name"
+msgid "Agency Item"
+msgstr ""
+
+#: admin/post-type/agency-post-type.php:13
+msgctxt "Add New Agency Name"
+msgid "Add New"
+msgstr ""
+
+#: admin/post-type/agency-post-type.php:14
+msgid "Add New Agency"
+msgstr ""
+
+#: admin/post-type/agency-post-type.php:15
+msgid "Edit Agency"
+msgstr ""
+
+#: admin/post-type/agency-post-type.php:16
+msgid "New Agency"
+msgstr ""
+
+#: admin/post-type/agency-post-type.php:17
+msgid "View Agency"
+msgstr ""
+
+#: admin/post-type/agency-post-type.php:18
+msgid "Search Agency"
+msgstr "Agencia de búsqueda"
+
+#: admin/post-type/agency-post-type.php:19
+#: admin/post-type/ourteam-post-type.php:19
+#: admin/post-type/portfolio-post-type.php:19
+msgid "Nothing found"
+msgstr ""
+
+#: admin/post-type/agency-post-type.php:20
+#: admin/post-type/ourteam-post-type.php:20
+#: admin/post-type/portfolio-post-type.php:20
+msgid "Nothing found in Trash"
+msgstr ""
+
+#: admin/post-type/ourteam-post-type.php:11
+msgctxt "Team Members General Name"
+msgid "Team Members"
+msgstr ""
+
+#: admin/post-type/ourteam-post-type.php:12
+msgctxt "Team Members Singular Name"
+msgid "Ourteam Item"
+msgstr ""
+
+#: admin/post-type/ourteam-post-type.php:13
+msgctxt "Add New Team Members"
+msgid "Add New"
+msgstr ""
+
+#: admin/post-type/ourteam-post-type.php:14
+msgid "Add New Team Members"
+msgstr ""
+
+#: admin/post-type/ourteam-post-type.php:15
+msgid "Edit Team Members"
+msgstr ""
+
+#: admin/post-type/ourteam-post-type.php:16
+msgid "New Team Members"
+msgstr ""
+
+#: admin/post-type/ourteam-post-type.php:17
+msgid "View Team Members"
+msgstr ""
+
+#: admin/post-type/ourteam-post-type.php:18
+msgid "Search Team Members"
+msgstr ""
+
+#: admin/post-type/portfolio-post-type.php:11
+msgctxt "Portfolio General Name"
+msgid "Portfolio"
+msgstr ""
+
+#: admin/post-type/portfolio-post-type.php:12
+msgctxt "Portfolio Singular Name"
+msgid "Portfolio Item"
+msgstr ""
+
+#: admin/post-type/portfolio-post-type.php:13
+msgctxt "Add New Portfolio Name"
+msgid "Add New"
+msgstr "Añadir nuevo"
+
+#: admin/post-type/portfolio-post-type.php:14
+msgid "Add New Portfolio"
+msgstr "Agregar nueva cartera"
+
+#: admin/post-type/portfolio-post-type.php:15
+msgid "Edit Portfolio"
+msgstr ""
+
+#: admin/post-type/portfolio-post-type.php:16
+msgid "New Portfolio"
+msgstr ""
+
+#: admin/post-type/portfolio-post-type.php:17
+msgid "View Portfolio"
+msgstr ""
+
+#: admin/post-type/portfolio-post-type.php:18
+msgid "Search Portfolio"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_custom/custom_vc.php:7
+msgid "Row Type"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_custom/custom_vc.php:11
+msgid "Full Width"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_custom/custom_vc.php:12
+msgid "In Grid"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_custom/custom_vc.php:19
+#: admin/vc-extension/visual-composer/vc_custom/custom_vc.php:25
+msgid "Gradient"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_custom/custom_vc.php:20
+msgid "Select button display style."
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_custom/custom_vc.php:24
+msgid "None"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_custom/custom_vc.php:26
+msgid "Gradient Custom"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_custom/custom_vc.php:33
+#: admin/vc-extension/visual-composer/vc_custom/custom_vc.php:66
+msgid "Gradient Color 1"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_custom/custom_vc.php:35
+#: admin/vc-extension/visual-composer/vc_custom/custom_vc.php:68
+msgid "Select first color for gradient."
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_custom/custom_vc.php:49
+#: admin/vc-extension/visual-composer/vc_custom/custom_vc.php:81
+msgid "Gradient Color 2"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_custom/custom_vc.php:51
+#: admin/vc-extension/visual-composer/vc_custom/custom_vc.php:83
+msgid "Select second color for gradient."
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_custom/custom_vc.php:112
+msgid "Type Quote"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_custom/custom_vc.php:116
+#: admin/vc-extension/visual-composer/vc_theme/advertise/vc-theme-ads.php:18
+msgid "Type 1"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_custom/custom_vc.php:117
+#: admin/vc-extension/visual-composer/vc_theme/advertise/vc-theme-ads.php:19
+msgid "Type 2"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_custom/custom_vc.php:125
+msgid "Center Mode"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_custom/custom_vc.php:127
+msgid "Enables centered view. Use with odd numbered slidesToShow counts."
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_custom/custom_vc.php:129
+#: admin/vc-extension/visual-composer/vc_theme/our-process/vc-theme-process.php:44
+#: admin/vc-extension/visual-composer/vc_theme/post-slider/vc-theme-post-slider.php:184
+#: admin/vc-extension/visual-composer/vc_theme/post-slider/vc-theme-post-slider.php:197
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-portfolio-sold/vc-theme-vehicle-portfolio-sold.php:218
+msgid "Yes"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_custom/custom_vc.php:130
+#: admin/vc-extension/visual-composer/vc_theme/our-process/vc-theme-process.php:45
+#: admin/vc-extension/visual-composer/vc_theme/post-slider/vc-theme-post-slider.php:185
+#: admin/vc-extension/visual-composer/vc_theme/post-slider/vc-theme-post-slider.php:198
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-portfolio-sold/vc-theme-vehicle-portfolio-sold.php:219
+msgid "No"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_custom/custom_vc.php:137
+#: admin/vc-extension/visual-composer/vc_custom/custom_vc.php:190
+msgid "Number Item Desktop"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_custom/custom_vc.php:141
+#: admin/vc-extension/visual-composer/vc_custom/custom_vc.php:154
+#: admin/vc-extension/visual-composer/vc_custom/custom_vc.php:167
+#: admin/vc-extension/visual-composer/vc_custom/custom_vc.php:180
+#: admin/vc-extension/visual-composer/vc_custom/custom_vc.php:196
+#: admin/vc-extension/visual-composer/vc_custom/custom_vc.php:212
+#: admin/vc-extension/visual-composer/vc_custom/custom_vc.php:228
+#: admin/vc-extension/visual-composer/vc_custom/custom_vc.php:242
+#: admin/vc-extension/visual-composer/vc_theme/blog/vc-theme-blog.php:68
+msgid "3"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_custom/custom_vc.php:142
+#: admin/vc-extension/visual-composer/vc_custom/custom_vc.php:155
+#: admin/vc-extension/visual-composer/vc_custom/custom_vc.php:168
+#: admin/vc-extension/visual-composer/vc_custom/custom_vc.php:181
+#: admin/vc-extension/visual-composer/vc_custom/custom_vc.php:198
+#: admin/vc-extension/visual-composer/vc_custom/custom_vc.php:214
+msgid "5"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_custom/custom_vc.php:150
+#: admin/vc-extension/visual-composer/vc_custom/custom_vc.php:206
+msgid "Number Item Tablet Landscape"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_custom/custom_vc.php:163
+#: admin/vc-extension/visual-composer/vc_custom/custom_vc.php:222
+msgid "Number Item Tablet Portrait"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_custom/custom_vc.php:176
+#: admin/vc-extension/visual-composer/vc_custom/custom_vc.php:236
+msgid "Number Item Mobile"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_custom/custom_vc.php:194
+#: admin/vc-extension/visual-composer/vc_custom/custom_vc.php:210
+#: admin/vc-extension/visual-composer/vc_custom/custom_vc.php:226
+#: admin/vc-extension/visual-composer/vc_custom/custom_vc.php:240
+msgid "1"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_custom/custom_vc.php:195
+#: admin/vc-extension/visual-composer/vc_custom/custom_vc.php:211
+#: admin/vc-extension/visual-composer/vc_custom/custom_vc.php:227
+#: admin/vc-extension/visual-composer/vc_custom/custom_vc.php:241
+#: admin/vc-extension/visual-composer/vc_theme/blog/vc-theme-blog.php:67
+msgid "2"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_custom/custom_vc.php:197
+#: admin/vc-extension/visual-composer/vc_custom/custom_vc.php:213
+#: admin/vc-extension/visual-composer/vc_theme/blog/vc-theme-blog.php:69
+msgid "4"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_custom/custom_vc.php:251
+#: admin/vc-extension/visual-composer/vc_theme/advertise/vc-theme-ads.php:161
+#: admin/vc-extension/visual-composer/vc_theme/counter/vc-theme-counter.php:65
+#: admin/vc-extension/visual-composer/vc_theme/list/vc-theme-list.php:39
+#: admin/vc-extension/visual-composer/vc_theme/our-process/vc-theme-process.php:117
+#: admin/vc-extension/visual-composer/vc_theme/post-slider/vc-theme-post-slider.php:207
+#: admin/vc-extension/visual-composer/vc_theme/service/vc-theme-service.php:132
+#: admin/vc-extension/visual-composer/vc_theme/sign-up/vc-theme-sign-up.php:69
+#: admin/vc-extension/visual-composer/vc_theme/sign-up/vc-theme-sign-up.php:85
+#: admin/vc-extension/visual-composer/vc_theme/text-box/vc-theme-text.php:42
+#: admin/vc-extension/visual-composer/vc_theme/title/vc-theme-title.php:56
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-portfolio/vc-theme-vehicle-portfolio.php:329
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-portfolio-sold/vc-theme-vehicle-portfolio-sold.php:227
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-search/vc-theme-vehicle-search.php:146
+msgid "Css Animation"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_custom/custom_vc.php:255
+#: admin/vc-extension/visual-composer/vc_theme/advertise/vc-theme-ads.php:165
+#: admin/vc-extension/visual-composer/vc_theme/counter/vc-theme-counter.php:69
+#: admin/vc-extension/visual-composer/vc_theme/list/vc-theme-list.php:43
+#: admin/vc-extension/visual-composer/vc_theme/our-process/vc-theme-process.php:121
+#: admin/vc-extension/visual-composer/vc_theme/post-slider/vc-theme-post-slider.php:211
+#: admin/vc-extension/visual-composer/vc_theme/service/vc-theme-service.php:136
+#: admin/vc-extension/visual-composer/vc_theme/sign-up/vc-theme-sign-up.php:73
+#: admin/vc-extension/visual-composer/vc_theme/sign-up/vc-theme-sign-up.php:89
+#: admin/vc-extension/visual-composer/vc_theme/text-box/vc-theme-text.php:46
+#: admin/vc-extension/visual-composer/vc_theme/title/vc-theme-title.php:60
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-portfolio/vc-theme-vehicle-portfolio.php:333
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-portfolio-sold/vc-theme-vehicle-portfolio-sold.php:231
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-search/vc-theme-vehicle-search.php:150
+msgid "No animation"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_custom/custom_vc.php:256
+#: admin/vc-extension/visual-composer/vc_theme/advertise/vc-theme-ads.php:166
+#: admin/vc-extension/visual-composer/vc_theme/counter/vc-theme-counter.php:70
+#: admin/vc-extension/visual-composer/vc_theme/list/vc-theme-list.php:44
+#: admin/vc-extension/visual-composer/vc_theme/our-process/vc-theme-process.php:122
+#: admin/vc-extension/visual-composer/vc_theme/post-slider/vc-theme-post-slider.php:212
+#: admin/vc-extension/visual-composer/vc_theme/service/vc-theme-service.php:137
+#: admin/vc-extension/visual-composer/vc_theme/sign-up/vc-theme-sign-up.php:74
+#: admin/vc-extension/visual-composer/vc_theme/sign-up/vc-theme-sign-up.php:90
+#: admin/vc-extension/visual-composer/vc_theme/text-box/vc-theme-text.php:47
+#: admin/vc-extension/visual-composer/vc_theme/title/vc-theme-title.php:61
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-portfolio/vc-theme-vehicle-portfolio.php:334
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-portfolio-sold/vc-theme-vehicle-portfolio-sold.php:232
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-search/vc-theme-vehicle-search.php:151
+msgid "Top to bottom"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_custom/custom_vc.php:257
+#: admin/vc-extension/visual-composer/vc_theme/advertise/vc-theme-ads.php:167
+#: admin/vc-extension/visual-composer/vc_theme/counter/vc-theme-counter.php:71
+#: admin/vc-extension/visual-composer/vc_theme/list/vc-theme-list.php:45
+#: admin/vc-extension/visual-composer/vc_theme/our-process/vc-theme-process.php:123
+#: admin/vc-extension/visual-composer/vc_theme/post-slider/vc-theme-post-slider.php:213
+#: admin/vc-extension/visual-composer/vc_theme/service/vc-theme-service.php:138
+#: admin/vc-extension/visual-composer/vc_theme/sign-up/vc-theme-sign-up.php:75
+#: admin/vc-extension/visual-composer/vc_theme/sign-up/vc-theme-sign-up.php:91
+#: admin/vc-extension/visual-composer/vc_theme/text-box/vc-theme-text.php:48
+#: admin/vc-extension/visual-composer/vc_theme/title/vc-theme-title.php:62
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-portfolio/vc-theme-vehicle-portfolio.php:335
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-portfolio-sold/vc-theme-vehicle-portfolio-sold.php:233
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-search/vc-theme-vehicle-search.php:152
+msgid "Bottom to top"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_custom/custom_vc.php:258
+#: admin/vc-extension/visual-composer/vc_theme/advertise/vc-theme-ads.php:168
+#: admin/vc-extension/visual-composer/vc_theme/counter/vc-theme-counter.php:72
+#: admin/vc-extension/visual-composer/vc_theme/list/vc-theme-list.php:46
+#: admin/vc-extension/visual-composer/vc_theme/our-process/vc-theme-process.php:124
+#: admin/vc-extension/visual-composer/vc_theme/post-slider/vc-theme-post-slider.php:214
+#: admin/vc-extension/visual-composer/vc_theme/service/vc-theme-service.php:139
+#: admin/vc-extension/visual-composer/vc_theme/sign-up/vc-theme-sign-up.php:76
+#: admin/vc-extension/visual-composer/vc_theme/sign-up/vc-theme-sign-up.php:92
+#: admin/vc-extension/visual-composer/vc_theme/text-box/vc-theme-text.php:49
+#: admin/vc-extension/visual-composer/vc_theme/title/vc-theme-title.php:63
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-portfolio/vc-theme-vehicle-portfolio.php:336
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-portfolio-sold/vc-theme-vehicle-portfolio-sold.php:234
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-search/vc-theme-vehicle-search.php:153
+msgid "Left to right"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_custom/custom_vc.php:259
+#: admin/vc-extension/visual-composer/vc_theme/advertise/vc-theme-ads.php:169
+#: admin/vc-extension/visual-composer/vc_theme/counter/vc-theme-counter.php:73
+#: admin/vc-extension/visual-composer/vc_theme/list/vc-theme-list.php:47
+#: admin/vc-extension/visual-composer/vc_theme/our-process/vc-theme-process.php:125
+#: admin/vc-extension/visual-composer/vc_theme/post-slider/vc-theme-post-slider.php:215
+#: admin/vc-extension/visual-composer/vc_theme/service/vc-theme-service.php:140
+#: admin/vc-extension/visual-composer/vc_theme/sign-up/vc-theme-sign-up.php:77
+#: admin/vc-extension/visual-composer/vc_theme/sign-up/vc-theme-sign-up.php:93
+#: admin/vc-extension/visual-composer/vc_theme/text-box/vc-theme-text.php:50
+#: admin/vc-extension/visual-composer/vc_theme/title/vc-theme-title.php:64
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-portfolio/vc-theme-vehicle-portfolio.php:337
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-portfolio-sold/vc-theme-vehicle-portfolio-sold.php:235
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-search/vc-theme-vehicle-search.php:154
+msgid "Right to left"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_custom/custom_vc.php:260
+#: admin/vc-extension/visual-composer/vc_theme/advertise/vc-theme-ads.php:170
+#: admin/vc-extension/visual-composer/vc_theme/counter/vc-theme-counter.php:74
+#: admin/vc-extension/visual-composer/vc_theme/list/vc-theme-list.php:48
+#: admin/vc-extension/visual-composer/vc_theme/our-process/vc-theme-process.php:126
+#: admin/vc-extension/visual-composer/vc_theme/post-slider/vc-theme-post-slider.php:216
+#: admin/vc-extension/visual-composer/vc_theme/service/vc-theme-service.php:141
+#: admin/vc-extension/visual-composer/vc_theme/sign-up/vc-theme-sign-up.php:78
+#: admin/vc-extension/visual-composer/vc_theme/sign-up/vc-theme-sign-up.php:94
+#: admin/vc-extension/visual-composer/vc_theme/text-box/vc-theme-text.php:51
+#: admin/vc-extension/visual-composer/vc_theme/title/vc-theme-title.php:65
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-portfolio/vc-theme-vehicle-portfolio.php:338
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-portfolio-sold/vc-theme-vehicle-portfolio-sold.php:236
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-search/vc-theme-vehicle-search.php:155
+msgid "Appear from center"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_custom/custom_vc.php:281
+msgid "Image Author"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_custom/custom_vc.php:283
+msgid "Upload image author of quote."
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_custom/custom_vc.php:310
+msgid "Quote Content"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_custom/custom_vc.php:326
+msgid "Gallery Type"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_custom/custom_vc.php:330
+msgid "Flex slider fade"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_custom/custom_vc.php:331
+msgid "Flex slider slide"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_custom/custom_vc.php:332
+msgid "Nivo slider"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_custom/custom_vc.php:333
+msgid "Image grid"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_custom/custom_vc.php:334
+msgid "Owl Carousel"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_custom/custom_vc.php:335
+msgid "Autoshowroom grid"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_custom/custom_vc.php:342
+msgid "Number Items Slider"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/advertise/vc-theme-ads.php:3
+msgid "Advertise"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/advertise/vc-theme-ads.php:9
+#: admin/vc-extension/visual-composer/vc_theme/blog/vc-theme-blog.php:10
+#: admin/vc-extension/visual-composer/vc_theme/counter/vc-theme-counter.php:10
+#: admin/vc-extension/visual-composer/vc_theme/light-gallery/vc-theme-light-gallery.php:10
+#: admin/vc-extension/visual-composer/vc_theme/list/vc-theme-list.php:9
+#: admin/vc-extension/visual-composer/vc_theme/newletter/vc-theme-letter.php:10
+#: admin/vc-extension/visual-composer/vc_theme/our-process/vc-theme-process.php:9
+#: admin/vc-extension/visual-composer/vc_theme/post-slider/vc-theme-post-slider.php:35
+#: admin/vc-extension/visual-composer/vc_theme/scroll-object/vc-theme-scroll-object.php:10
+#: admin/vc-extension/visual-composer/vc_theme/service/vc-theme-service.php:10
+#: admin/vc-extension/visual-composer/vc_theme/sign-up/vc-theme-sign-up.php:9
+#: admin/vc-extension/visual-composer/vc_theme/text-box/vc-theme-text.php:9
+#: admin/vc-extension/visual-composer/vc_theme/title/vc-theme-title.php:9
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-portfolio/vc-theme-vehicle-portfolio.php:172
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-portfolio-sold/vc-theme-vehicle-portfolio-sold.php:106
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-top-dealer/vc-theme-top-dealer.php:9
+msgid "TZ AutoShowroom"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/advertise/vc-theme-ads.php:15
+msgid "Advertise Type"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/advertise/vc-theme-ads.php:21
+msgid "Select Type Advertise."
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/advertise/vc-theme-ads.php:28
+msgid "Style Ads"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/advertise/vc-theme-ads.php:31
+msgid "Image - Text"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/advertise/vc-theme-ads.php:32
+msgid "Text - Image"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/advertise/vc-theme-ads.php:34
+#: admin/vc-extension/visual-composer/vc_theme/advertise/vc-theme-ads.php:153
+msgid "Select image alignment."
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/advertise/vc-theme-ads.php:41
+msgid "Height(px)"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/advertise/vc-theme-ads.php:52
+#: admin/vc-extension/visual-composer/vc_theme/blog/vc-theme-blog.php:79
+#: admin/vc-extension/visual-composer/vc_theme/counter/vc-theme-counter.php:57
+#: admin/vc-extension/visual-composer/vc_theme/post-slider/vc-theme-post-slider.php:131
+#: admin/vc-extension/visual-composer/vc_theme/service/vc-theme-service.php:51
+#: admin/vc-extension/visual-composer/vc_theme/sign-up/vc-theme-sign-up.php:16
+#: admin/vc-extension/visual-composer/vc_theme/title/vc-theme-title.php:3
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-portfolio/vc-theme-vehicle-portfolio.php:251
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-portfolio-sold/vc-theme-vehicle-portfolio-sold.php:142
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-quote/vc-theme-vehicle-quote.php:118
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-search/vc-theme-vehicle-search.php:49
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-taxonomy/vc-theme-taxonomy-vehicle.php:23
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-top-dealer/vc-theme-top-dealer.php:39
+msgid "Title"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/advertise/vc-theme-ads.php:63
+msgid "Title Link"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/advertise/vc-theme-ads.php:74
+#: admin/vc-extension/visual-composer/vc_theme/our-process/vc-theme-process.php:79
+#: admin/vc-extension/visual-composer/vc_theme/service/vc-theme-service.php:60
+#: admin/vc-extension/visual-composer/vc_theme/text-box/vc-theme-text.php:26
+#: admin/vc-extension/visual-composer/vc_theme/title/vc-theme-title.php:35
+#: admin/widgets/contact-info.php:64
+msgid "Description"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/advertise/vc-theme-ads.php:86
+msgid "Button Title"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/advertise/vc-theme-ads.php:101
+msgid "Button Link"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/advertise/vc-theme-ads.php:116
+msgid "Background Color"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/advertise/vc-theme-ads.php:118
+msgid "You can set background color for element."
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/advertise/vc-theme-ads.php:124
+#: admin/vc-extension/visual-composer/vc_theme/service/vc-theme-service.php:21
+msgid "Image"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/advertise/vc-theme-ads.php:127
+msgid "Select image from media library."
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/advertise/vc-theme-ads.php:133
+msgid "Image size"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/advertise/vc-theme-ads.php:136
+msgid "Thumbnail"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/advertise/vc-theme-ads.php:137
+msgid "Medium"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/advertise/vc-theme-ads.php:138
+msgid "Large"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/advertise/vc-theme-ads.php:139
+msgid "Full"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/advertise/vc-theme-ads.php:141
+msgid "Select image size."
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/advertise/vc-theme-ads.php:146
+msgid "Image alignment"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/advertise/vc-theme-ads.php:149
+#: admin/vc-extension/visual-composer/vc_theme/our-process/vc-theme-process.php:70
+#: admin/vc-extension/visual-composer/vc_theme/title/vc-theme-title.php:49
+msgid "Left"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/advertise/vc-theme-ads.php:150
+#: admin/vc-extension/visual-composer/vc_theme/our-process/vc-theme-process.php:72
+#: admin/vc-extension/visual-composer/vc_theme/title/vc-theme-title.php:50
+msgid "Right"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/advertise/vc-theme-ads.php:151
+#: admin/vc-extension/visual-composer/vc_theme/our-process/vc-theme-process.php:71
+#: admin/vc-extension/visual-composer/vc_theme/title/vc-theme-title.php:48
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-feature/vc-theme-feature-vehicle.php:140
+#: admin/vc-extension/visual-composer/vc_theme/vehicles-condition/vc-theme-condition-vehicle.php:97
+msgid "Center"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/blog/theme-blog.php:123
+#: admin/vc-extension/visual-composer/vc_theme/blog/theme-blog.php:132
+msgid "Posted by"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/blog/theme-blog.php:140
+msgid "Comments"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/blog/vc-theme-blog.php:4
+msgid "Post Column"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/blog/vc-theme-blog.php:17
+#: admin/vc-extension/visual-composer/vc_theme/newletter/vc-theme-letter.php:21
+#: admin/vc-extension/visual-composer/vc_theme/service/vc-theme-service.php:125
+msgid "Style 1"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/blog/vc-theme-blog.php:18
+#: admin/vc-extension/visual-composer/vc_theme/newletter/vc-theme-letter.php:22
+#: admin/vc-extension/visual-composer/vc_theme/service/vc-theme-service.php:126
+msgid "Style 2"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/blog/vc-theme-blog.php:27
+#: admin/vc-extension/visual-composer/vc_theme/blog/vc-theme-blog.php:34
+msgid "Category Post"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/blog/vc-theme-blog.php:28
+msgid "Title Post"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/blog/vc-theme-blog.php:42
+msgid "Include Title Post"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/blog/vc-theme-blog.php:56
+#: admin/vc-extension/visual-composer/vc_theme/post-slider/vc-theme-post-slider.php:91
+#: admin/vc-extension/visual-composer/vc_theme/post-slider/vc-theme-post-slider.php:103
+msgid "Limit Post"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/blog/vc-theme-blog.php:78
+#: admin/vc-extension/visual-composer/vc_theme/post-slider/vc-theme-post-slider.php:130
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-portfolio/vc-theme-vehicle-portfolio.php:251
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-portfolio-sold/vc-theme-vehicle-portfolio-sold.php:142
+msgid "ID"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/blog/vc-theme-blog.php:80
+#: admin/vc-extension/visual-composer/vc_theme/our-process/vc-theme-process.php:25
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-quote/vc-theme-vehicle-quote.php:66
+msgid "Name"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/blog/vc-theme-blog.php:81
+#: admin/vc-extension/visual-composer/vc_theme/post-slider/vc-theme-post-slider.php:129
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-portfolio/vc-theme-vehicle-portfolio.php:251
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-portfolio-sold/vc-theme-vehicle-portfolio-sold.php:142
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-quote/vc-theme-vehicle-quote.php:65
+msgid "Date"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/blog/vc-theme-blog.php:90
+msgid "ASC"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/blog/vc-theme-blog.php:91
+msgid "DESC"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/counter/vc-theme-counter.php:4
+msgid "Counter"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/counter/vc-theme-counter.php:15
+msgid "Counter Style"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/counter/vc-theme-counter.php:24
+#: admin/vc-extension/visual-composer/vc_theme/list/vc-theme-list.php:13
+#: admin/vc-extension/visual-composer/vc_theme/service/vc-theme-service.php:20
+#: admin/vc-extension/visual-composer/vc_theme/service/vc-theme-service.php:26
+msgid "Icon"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/counter/vc-theme-counter.php:35
+#: admin/vc-extension/visual-composer/vc_theme/list/vc-theme-list.php:24
+#: admin/vc-extension/visual-composer/vc_theme/our-process/vc-theme-process.php:60
+#: admin/vc-extension/visual-composer/vc_theme/service/vc-theme-service.php:37
+msgid "Select icon from library."
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/counter/vc-theme-counter.php:41
+msgid "Count"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/counter/vc-theme-counter.php:49
+msgid "Step Count "
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/header/theme-header.php:127
+#: admin/vc-extension/visual-composer/vc_theme/header/theme-header.php:164
+#: admin/vc-extension/visual-composer/vc_theme/header/theme-header.php:282
+#: admin/vc-extension/visual-composer/vc_theme/header/theme-header.php:319
+#: admin/vc-extension/visual-composer/vc_theme/header/theme-header.php:441
+#: admin/vc-extension/visual-composer/vc_theme/header/theme-header.php:478
+#: admin/vc-extension/visual-composer/vc_theme/header/theme-header.php:599
+#: admin/vc-extension/visual-composer/vc_theme/header/theme-header.php:636
+#: admin/vc-extension/visual-composer/vc_theme/header/theme-header.php:732
+#: admin/vc-extension/visual-composer/vc_theme/header/theme-header.php:769
+#: admin/vc-extension/visual-composer/vc_theme/header/theme-header.php:901
+#: admin/vc-extension/visual-composer/vc_theme/header/theme-header.php:938
+#: admin/vc-extension/visual-composer/vc_theme/header/theme-header.php:1046
+#: admin/vc-extension/visual-composer/vc_theme/header/theme-header.php:1083
+msgid "Your browser does not support SVG"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/header/theme-header.php:1002
+msgid "Add your Item"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/header/theme-header.php:1114
+msgid "CALL US:"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/header/theme-header.php:1123
+msgid "MAIL US:"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/header/theme-header.php:1132
+msgid "OPENING HOURS:"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/header/theme-header.php:1189
+msgid "My Account"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/header/vc-theme-header.php:8
+msgid "Header Option"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/header/vc-theme-header.php:16
+msgid "Choose type header"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/header/vc-theme-header.php:33
+msgid "Top Sidebar"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/header/vc-theme-header.php:44
+msgid "Choose type Logo"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/header/vc-theme-header.php:45
+msgid ""
+"<small>If you select Default, your logo will be logo when you configure in "
+"Theme Option</small>"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/header/vc-theme-header.php:57
+msgid "Logo Image"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/header/vc-theme-header.php:66
+msgid "Logo Top Position"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/header/vc-theme-header.php:69
+msgid "<small>Enter Digital Number (example:15)</small>"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/header/vc-theme-header.php:76
+msgid "Logo Text"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/header/vc-theme-header.php:85
+msgid "Select Menu"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/header/vc-theme-header.php:93
+msgid "Add Car"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/header/vc-theme-header.php:106
+msgid "Add Car Link"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/header/vc-theme-header.php:116
+msgid "Top Header"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/header/vc-theme-header.php:129
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-quote/theme-vehicle-quote.php:52
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-quote/vc-theme-vehicle-quote.php:67
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-top-dealer/vc-theme-top-dealer.php:65
+msgid "Phone"
+msgstr "Teléfono"
+
+#: admin/vc-extension/visual-composer/vc_theme/header/vc-theme-header.php:138
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-quote/theme-vehicle-quote.php:53
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-quote/vc-theme-vehicle-quote.php:68
+msgid "Email"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/header/vc-theme-header.php:147
+msgid "Hour"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/header/vc-theme-header.php:155
+#: admin/vc-extension/visual-composer/vc_theme/text-box/vc-theme-text.php:33
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-top-dealer/vc-theme-top-dealer.php:75
+msgid "CSS box"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/header/vc-theme-header.php:157
+msgid "Sidebar Design"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/light-gallery/vc-theme-light-gallery.php:4
+msgid "Light Gallery"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/light-gallery/vc-theme-light-gallery.php:14
+msgid "Images"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/light-gallery/vc-theme-light-gallery.php:16
+msgid "Select images from media library."
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/light-gallery/vc-theme-light-gallery.php:22
+#: admin/vc-extension/visual-composer/vc_theme/motorbike-feature/vc-theme-feature-motorbike.php:120
+#: admin/vc-extension/visual-composer/vc_theme/post-slider/vc-theme-post-slider.php:115
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-dealer-feature/vc-theme-dealer-feature.php:141
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-feature/vc-theme-feature-vehicle.php:118
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-portfolio/vc-theme-vehicle-portfolio.php:240
+#: admin/vc-extension/visual-composer/vc_theme/vehicles-condition/vc-theme-condition-vehicle.php:75
+msgid "Image Size"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/light-gallery/vc-theme-light-gallery.php:24
+msgid ""
+"Enter image size. Example: thumbnail, medium, large, full or other sizes "
+"defined by current theme.\n"
+"             Alternatively enter image size in pixels: 200x100 (Width x "
+"Height). Leave empty to use \"thumbnail\" size."
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/light-gallery/vc-theme-light-gallery.php:31
+msgid "Columns"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/light-gallery/vc-theme-light-gallery.php:34
+msgid "1 Column"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/light-gallery/vc-theme-light-gallery.php:35
+msgid "2 Columns"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/light-gallery/vc-theme-light-gallery.php:36
+msgid "3 Columns"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/light-gallery/vc-theme-light-gallery.php:37
+msgid "4 Columns"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/light-gallery/vc-theme-light-gallery.php:38
+msgid "6 Columns"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/light-gallery/vc-theme-light-gallery.php:44
+msgid "Border Radius"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/light-gallery/vc-theme-light-gallery.php:46
+msgid "Enter Border radius value"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/light-gallery/vc-theme-light-gallery.php:52
+msgid "Padding item"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/light-gallery/vc-theme-light-gallery.php:54
+msgid "Enter Padding value"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/list/vc-theme-list.php:3
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-portfolio/vc-theme-vehicle-portfolio.php:191
+msgid "List"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/list/vc-theme-list.php:30
+#: admin/vc-extension/visual-composer/vc_theme/scroll-object/vc-theme-scroll-object.php:15
+msgid "Content"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/motorbike-feature/theme-feature-motorbike.php:77
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-dealer-feature/theme-dealer-feature.php:91
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-feature/theme-feature-vehicle.php:73
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-portfolio/theme-vehicle-portfolio.php:270
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-portfolio/theme-vehicle-portfolio.php:331
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-portfolio/vc-theme-vehicle-portfolio.php:105
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-portfolio-sold/theme-vehicle-portfolio-sold.php:196
+#: admin/vc-extension/visual-composer/vc_theme/vehicles-condition/theme-condition-vehicle.php:73
+msgid "SOLD"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/motorbike-feature/theme-feature-motorbike.php:82
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-dealer-feature/theme-dealer-feature.php:96
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-feature/theme-feature-vehicle.php:78
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-portfolio/theme-vehicle-portfolio.php:275
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-portfolio/theme-vehicle-portfolio.php:336
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-portfolio/vc-theme-vehicle-portfolio.php:110
+#: admin/vc-extension/visual-composer/vc_theme/vehicles-condition/theme-condition-vehicle.php:78
+msgid "Upcoming"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/motorbike-feature/vc-theme-feature-motorbike.php:39
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-dealer-feature/vc-theme-dealer-feature.php:51
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-feature/vc-theme-feature-vehicle.php:50
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-slider/vc-theme-vehicle-slider.php:38
+msgid "Include Vehicles"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/motorbike-feature/vc-theme-feature-motorbike.php:42
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-dealer-feature/vc-theme-dealer-feature.php:54
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-feature/vc-theme-feature-vehicle.php:53
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-slider/vc-theme-vehicle-slider.php:41
+msgid "Add Vehicles by title."
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/motorbike-feature/vc-theme-feature-motorbike.php:54
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-dealer-feature/vc-theme-dealer-feature.php:67
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-feature/vc-theme-feature-vehicle.php:65
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-slider/vc-theme-vehicle-slider.php:53
+#: admin/vc-extension/visual-composer/vc_theme/vehicles-condition/vc-theme-condition-vehicle.php:13
+msgid "Vehicle Title"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/motorbike-feature/vc-theme-feature-motorbike.php:65
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-dealer-feature/vc-theme-dealer-feature.php:78
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-feature/vc-theme-feature-vehicle.php:76
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-slider/vc-theme-vehicle-slider.php:64
+#: admin/vc-extension/visual-composer/vc_theme/vehicles-condition/vc-theme-condition-vehicle.php:36
+msgid "Vehicle Description"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/motorbike-feature/vc-theme-feature-motorbike.php:75
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-feature/vc-theme-feature-vehicle.php:87
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-portfolio/vc-theme-vehicle-portfolio.php:319
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-portfolio-sold/vc-theme-vehicle-portfolio-sold.php:206
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-slider/vc-theme-vehicle-slider.php:74
+#: admin/vc-extension/visual-composer/vc_theme/vehicles-condition/vc-theme-condition-vehicle.php:46
+msgid "Limit Description"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/motorbike-feature/vc-theme-feature-motorbike.php:84
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-dealer-feature/vc-theme-dealer-feature.php:89
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-feature/vc-theme-feature-vehicle.php:97
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-slider/vc-theme-vehicle-slider.php:83
+#: admin/vc-extension/visual-composer/vc_theme/vehicles-condition/vc-theme-condition-vehicle.php:55
+msgid "Vehicle Specifications"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/motorbike-feature/vc-theme-feature-motorbike.php:95
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-dealer-feature/vc-theme-dealer-feature.php:100
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-feature/vc-theme-feature-vehicle.php:109
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-portfolio/vc-theme-vehicle-portfolio.php:312
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-portfolio-sold/vc-theme-vehicle-portfolio-sold.php:199
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-slider/vc-theme-vehicle-slider.php:94
+#: admin/vc-extension/visual-composer/vc_theme/vehicles-condition/vc-theme-condition-vehicle.php:66
+msgid "Choose Specifications"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/motorbike-feature/vc-theme-feature-motorbike.php:103
+msgid "Label View All"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/motorbike-feature/vc-theme-feature-motorbike.php:111
+msgid "Link View All"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/motorbike-feature/vc-theme-feature-motorbike.php:122
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-dealer-feature/vc-theme-dealer-feature.php:143
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-feature/vc-theme-feature-vehicle.php:120
+#: admin/vc-extension/visual-composer/vc_theme/vehicles-condition/vc-theme-condition-vehicle.php:77
+msgid ""
+"Enter image size. Example: thumbnail, medium, large, full or other sizes "
+"defined by current theme. Alternatively enter image size in pixels: 200x100 "
+"(Width x Height). Leave empty to use \"large\" size."
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/motorbike-feature/vc-theme-feature-motorbike.php:129
+#: admin/vc-extension/visual-composer/vc_theme/motorbike-feature/vc-theme-feature-motorbike.php:140
+#: admin/vc-extension/visual-composer/vc_theme/motorbike-feature/vc-theme-feature-motorbike.php:149
+#: admin/vc-extension/visual-composer/vc_theme/motorbike-feature/vc-theme-feature-motorbike.php:158
+#: admin/vc-extension/visual-composer/vc_theme/motorbike-feature/vc-theme-feature-motorbike.php:170
+#: admin/vc-extension/visual-composer/vc_theme/motorbike-feature/vc-theme-feature-motorbike.php:182
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-feature/vc-theme-feature-vehicle.php:127
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-feature/vc-theme-feature-vehicle.php:139
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-feature/vc-theme-feature-vehicle.php:150
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-feature/vc-theme-feature-vehicle.php:159
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-feature/vc-theme-feature-vehicle.php:168
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-feature/vc-theme-feature-vehicle.php:181
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-feature/vc-theme-feature-vehicle.php:192
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-feature/vc-theme-feature-vehicle.php:204
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-slider/vc-theme-vehicle-slider.php:103
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-slider/vc-theme-vehicle-slider.php:114
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-slider/vc-theme-vehicle-slider.php:123
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-slider/vc-theme-vehicle-slider.php:132
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-slider/vc-theme-vehicle-slider.php:142
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-slider/vc-theme-vehicle-slider.php:155
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-slider/vc-theme-vehicle-slider.php:165
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-slider/vc-theme-vehicle-slider.php:177
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-slider/vc-theme-vehicle-slider.php:189
+#: admin/vc-extension/visual-composer/vc_theme/vehicles-condition/vc-theme-condition-vehicle.php:84
+#: admin/vc-extension/visual-composer/vc_theme/vehicles-condition/vc-theme-condition-vehicle.php:96
+#: admin/vc-extension/visual-composer/vc_theme/vehicles-condition/vc-theme-condition-vehicle.php:107
+#: admin/vc-extension/visual-composer/vc_theme/vehicles-condition/vc-theme-condition-vehicle.php:116
+#: admin/vc-extension/visual-composer/vc_theme/vehicles-condition/vc-theme-condition-vehicle.php:125
+#: admin/vc-extension/visual-composer/vc_theme/vehicles-condition/vc-theme-condition-vehicle.php:138
+#: admin/vc-extension/visual-composer/vc_theme/vehicles-condition/vc-theme-condition-vehicle.php:149
+#: admin/vc-extension/visual-composer/vc_theme/vehicles-condition/vc-theme-condition-vehicle.php:161
+msgid "Slider Option"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/motorbike-feature/vc-theme-feature-motorbike.php:130
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-feature/vc-theme-feature-vehicle.php:128
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-slider/vc-theme-vehicle-slider.php:104
+#: admin/vc-extension/visual-composer/vc_theme/vehicles-condition/vc-theme-condition-vehicle.php:85
+msgid "Slider Layout"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/motorbike-feature/vc-theme-feature-motorbike.php:141
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-feature/vc-theme-feature-vehicle.php:151
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-slider/vc-theme-vehicle-slider.php:115
+#: admin/vc-extension/visual-composer/vc_theme/vehicles-condition/vc-theme-condition-vehicle.php:108
+msgid "Number items"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/motorbike-feature/vc-theme-feature-motorbike.php:150
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-feature/vc-theme-feature-vehicle.php:160
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-slider/vc-theme-vehicle-slider.php:124
+#: admin/vc-extension/visual-composer/vc_theme/vehicles-condition/vc-theme-condition-vehicle.php:117
+msgid "Margin items"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/motorbike-feature/vc-theme-feature-motorbike.php:160
+#: admin/vc-extension/visual-composer/vc_theme/post-slider/vc-theme-post-slider.php:155
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-feature/vc-theme-feature-vehicle.php:170
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-slider/vc-theme-vehicle-slider.php:167
+#: admin/vc-extension/visual-composer/vc_theme/vehicles-condition/vc-theme-condition-vehicle.php:127
+msgid "Next/Preview"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/motorbike-feature/vc-theme-feature-motorbike.php:172
+#: admin/vc-extension/visual-composer/vc_theme/post-slider/vc-theme-post-slider.php:194
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-feature/vc-theme-feature-vehicle.php:194
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-slider/vc-theme-vehicle-slider.php:179
+#: admin/vc-extension/visual-composer/vc_theme/vehicles-condition/vc-theme-condition-vehicle.php:151
+msgid "Loop"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/motorbike-feature/vc-theme-feature-motorbike.php:184
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-feature/vc-theme-feature-vehicle.php:206
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-slider/vc-theme-vehicle-slider.php:191
+#: admin/vc-extension/visual-composer/vc_theme/vehicles-condition/vc-theme-condition-vehicle.php:163
+msgid "AutoPlay"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/motorbike-feature/vc-theme-feature-motorbike.php:194
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-dealer-feature/vc-theme-dealer-feature.php:149
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-feature/vc-theme-feature-vehicle.php:216
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-search/vc-theme-vehicle-search.php:160
+#: admin/vc-extension/visual-composer/vc_theme/vehicles-condition/vc-theme-condition-vehicle.php:173
+msgid "Extra class name"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/newletter/vc-theme-letter.php:4
+msgid "Newletter"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/newletter/vc-theme-letter.php:16
+msgid "Newsletter Style"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/newletter/vc-theme-letter.php:18
+msgid "Choose style of newsletter"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/newletter/vc-theme-letter.php:29
+msgid "Newletter title"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/newletter/vc-theme-letter.php:31
+msgid "Enter title"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/newletter/vc-theme-letter.php:38
+msgid "Newletter description"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/newletter/vc-theme-letter.php:40
+msgid "Enter description"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/our-process/vc-theme-process.php:3
+msgid "Our Process"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/our-process/vc-theme-process.php:15
+msgid "Number"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/our-process/vc-theme-process.php:34
+#: admin/vc-extension/visual-composer/vc_theme/title/vc-theme-title.php:26
+msgid "Color Title"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/our-process/vc-theme-process.php:41
+#: admin/vc-extension/visual-composer/vc_theme/our-process/vc-theme-process.php:49
+msgid "Icon Background"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/our-process/vc-theme-process.php:66
+msgid "iCon align"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/our-process/vc-theme-process.php:88
+#: admin/vc-extension/visual-composer/vc_theme/service/vc-theme-service.php:70
+msgid "Readmore Option"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/our-process/vc-theme-process.php:92
+#: admin/vc-extension/visual-composer/vc_theme/post-slider/vc-theme-post-slider.php:158
+#: admin/vc-extension/visual-composer/vc_theme/post-slider/vc-theme-post-slider.php:171
+#: admin/vc-extension/visual-composer/vc_theme/service/vc-theme-service.php:75
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-portfolio/vc-theme-vehicle-portfolio.php:202
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-portfolio/vc-theme-vehicle-portfolio.php:213
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-portfolio/vc-theme-vehicle-portfolio.php:225
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-portfolio-sold/vc-theme-vehicle-portfolio-sold.php:124
+msgid "Show"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/our-process/vc-theme-process.php:93
+#: admin/vc-extension/visual-composer/vc_theme/post-slider/vc-theme-post-slider.php:159
+#: admin/vc-extension/visual-composer/vc_theme/post-slider/vc-theme-post-slider.php:172
+#: admin/vc-extension/visual-composer/vc_theme/service/vc-theme-service.php:74
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-portfolio/vc-theme-vehicle-portfolio.php:203
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-portfolio/vc-theme-vehicle-portfolio.php:214
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-portfolio/vc-theme-vehicle-portfolio.php:224
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-portfolio-sold/vc-theme-vehicle-portfolio-sold.php:125
+msgid "Hide"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/our-process/vc-theme-process.php:98
+#: admin/vc-extension/visual-composer/vc_theme/service/vc-theme-service.php:81
+msgid "Readmore Text"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/our-process/vc-theme-process.php:107
+#: admin/vc-extension/visual-composer/vc_theme/service/vc-theme-service.php:91
+msgid "Readmore Link"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/post-slider/theme-post-slider.php:127
+msgid "Post by "
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/post-slider/theme-post-slider.php:145
+msgid "Read More &raquo;"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/post-slider/theme-post-slider.php:232
+msgid "By "
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/post-slider/vc-theme-post-slider.php:29
+msgid "Post Slider"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/post-slider/vc-theme-post-slider.php:40
+msgid "Post Style"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/post-slider/vc-theme-post-slider.php:52
+msgid "Type Get Post"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/post-slider/vc-theme-post-slider.php:55
+#: admin/vc-extension/visual-composer/vc_theme/post-slider/vc-theme-post-slider.php:65
+msgid "Category"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/post-slider/vc-theme-post-slider.php:56
+msgid "All Post"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/post-slider/vc-theme-post-slider.php:68
+msgid "Choose category."
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/post-slider/vc-theme-post-slider.php:74
+msgid "Include Post"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/post-slider/vc-theme-post-slider.php:77
+msgid "Add Post by title."
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/post-slider/vc-theme-post-slider.php:117
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-portfolio/vc-theme-vehicle-portfolio.php:242
+msgid ""
+"Enter image size. Example: thumbnail, medium, large, full. Leave empty to "
+"use \"large\" size."
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/post-slider/vc-theme-post-slider.php:125
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-portfolio/vc-theme-vehicle-portfolio.php:249
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-portfolio-sold/vc-theme-vehicle-portfolio-sold.php:140
+msgid "Order by"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/post-slider/vc-theme-post-slider.php:128
+msgid "choose order by"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/post-slider/vc-theme-post-slider.php:140
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-portfolio/vc-theme-vehicle-portfolio.php:258
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-portfolio-sold/vc-theme-vehicle-portfolio-sold.php:149
+msgid "Order"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/post-slider/vc-theme-post-slider.php:143
+msgid "choose order"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/post-slider/vc-theme-post-slider.php:144
+msgid "desc"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/post-slider/vc-theme-post-slider.php:145
+msgid "asc"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/post-slider/vc-theme-post-slider.php:168
+msgid "Navigation"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/post-slider/vc-theme-post-slider.php:181
+msgid "Autoplay"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/scroll-object/vc-theme-scroll-object.php:4
+msgid "Scroll Object"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/scroll-object/vc-theme-scroll-object.php:17
+msgid "Define a description for the section(optional)"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/scroll-object/vc-theme-scroll-object.php:23
+msgid "Scrolling start and end"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/scroll-object/vc-theme-scroll-object.php:26
+msgid "From top of object"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/scroll-object/vc-theme-scroll-object.php:27
+msgid "From bottom of object"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/scroll-object/vc-theme-scroll-object.php:33
+msgid "Easing"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/scroll-object/vc-theme-scroll-object.php:36
+msgid "easeout"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/scroll-object/vc-theme-scroll-object.php:37
+msgid "easein"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/scroll-object/vc-theme-scroll-object.php:38
+msgid "easeinout"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/scroll-object/vc-theme-scroll-object.php:39
+msgid "linear"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/scroll-object/vc-theme-scroll-object.php:44
+#: admin/vc-extension/visual-composer/vc_theme/scroll-object/vc-theme-scroll-object.php:52
+#: admin/vc-extension/visual-composer/vc_theme/scroll-object/vc-theme-scroll-object.php:60
+#: admin/vc-extension/visual-composer/vc_theme/scroll-object/vc-theme-scroll-object.php:68
+#: admin/vc-extension/visual-composer/vc_theme/scroll-object/vc-theme-scroll-object.php:76
+#: admin/vc-extension/visual-composer/vc_theme/scroll-object/vc-theme-scroll-object.php:84
+#: admin/vc-extension/visual-composer/vc_theme/scroll-object/vc-theme-scroll-object.php:92
+#: admin/vc-extension/visual-composer/vc_theme/scroll-object/vc-theme-scroll-object.php:100
+#: admin/vc-extension/visual-composer/vc_theme/scroll-object/vc-theme-scroll-object.php:108
+#: admin/vc-extension/visual-composer/vc_theme/scroll-object/vc-theme-scroll-object.php:116
+#: admin/vc-extension/visual-composer/vc_theme/scroll-object/vc-theme-scroll-object.php:124
+msgid "Animation"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/scroll-object/vc-theme-scroll-object.php:45
+msgid "Opacity"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/scroll-object/vc-theme-scroll-object.php:47
+msgid "<span>Value: 0 – 1</span>"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/scroll-object/vc-theme-scroll-object.php:53
+msgid "Scale"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/scroll-object/vc-theme-scroll-object.php:55
+#: admin/vc-extension/visual-composer/vc_theme/scroll-object/vc-theme-scroll-object.php:63
+#: admin/vc-extension/visual-composer/vc_theme/scroll-object/vc-theme-scroll-object.php:71
+#: admin/vc-extension/visual-composer/vc_theme/scroll-object/vc-theme-scroll-object.php:79
+msgid "<span>Value: Scaling factor</span>"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/scroll-object/vc-theme-scroll-object.php:61
+msgid "Scale X"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/scroll-object/vc-theme-scroll-object.php:69
+msgid "Scale Y"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/scroll-object/vc-theme-scroll-object.php:77
+msgid "Scale Z"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/scroll-object/vc-theme-scroll-object.php:85
+msgid "Rotate X"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/scroll-object/vc-theme-scroll-object.php:87
+#: admin/vc-extension/visual-composer/vc_theme/scroll-object/vc-theme-scroll-object.php:95
+#: admin/vc-extension/visual-composer/vc_theme/scroll-object/vc-theme-scroll-object.php:103
+msgid "<span>Value: angle of rotation in degrees</span>"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/scroll-object/vc-theme-scroll-object.php:93
+msgid "Rotate Y"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/scroll-object/vc-theme-scroll-object.php:101
+msgid "Rotate Z"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/scroll-object/vc-theme-scroll-object.php:109
+msgid "Translate X"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/scroll-object/vc-theme-scroll-object.php:111
+#: admin/vc-extension/visual-composer/vc_theme/scroll-object/vc-theme-scroll-object.php:119
+#: admin/vc-extension/visual-composer/vc_theme/scroll-object/vc-theme-scroll-object.php:127
+msgid "<span>Value: distance in pixels</span>"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/scroll-object/vc-theme-scroll-object.php:117
+msgid "Translate Y"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/scroll-object/vc-theme-scroll-object.php:125
+msgid "Translate Z"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/service/vc-theme-service.php:4
+msgid "Service Item"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/service/vc-theme-service.php:16
+msgid "Type Icon Services"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/service/vc-theme-service.php:42
+msgid "Image Services"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/service/vc-theme-service.php:44
+msgid "Upload Image Icon.  "
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/service/vc-theme-service.php:102
+msgid "Padding Top(px)"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/service/vc-theme-service.php:112
+msgid "Padding Bottom(px)"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/service/vc-theme-service.php:121
+msgid "Style "
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/sign-up/vc-theme-sign-up.php:3
+msgid "Sign Up"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/sign-up/vc-theme-sign-up.php:28
+msgid "Subtitle"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/sign-up/vc-theme-sign-up.php:38
+msgid "Sign Up Image"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/sign-up/vc-theme-sign-up.php:48
+msgid "Position-right"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/sign-up/vc-theme-sign-up.php:59
+msgid "Position-top"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/sign-up/vc-theme-sign-up.php:71
+msgid "Animation of Image"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/sign-up/vc-theme-sign-up.php:87
+msgid "Animation of Element"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/text-box/vc-theme-text.php:3
+msgid "Text Box"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/text-box/vc-theme-text.php:16
+#: admin/vc-extension/visual-composer/vc_theme/title/vc-theme-title.php:16
+msgid "Section Title"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/text-box/vc-theme-text.php:35
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-top-dealer/vc-theme-top-dealer.php:77
+msgid "Design Options"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/title/vc-theme-title.php:28
+msgid "You can set color of title."
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/title/vc-theme-title.php:44
+msgid "Text Align"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-dealer-feature/vc-theme-dealer-feature.php:41
+msgid "Type Dealer"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-dealer-feature/vc-theme-dealer-feature.php:109
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-top-dealer/vc-theme-top-dealer.php:29
+msgid "Limit Item"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-dealer-feature/vc-theme-dealer-feature.php:118
+msgid "Oder By"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-dealer-feature/vc-theme-dealer-feature.php:130
+msgid "Oder"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-feature/vc-theme-feature-vehicle.php:41
+msgid "Vehicles Type"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-feature/vc-theme-feature-vehicle.php:182
+#: admin/vc-extension/visual-composer/vc_theme/vehicles-condition/vc-theme-condition-vehicle.php:139
+msgid "Dots"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-portfolio/theme-vehicle-portfolio.php:86
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-portfolio-sold/theme-vehicle-portfolio-sold.php:71
+msgid "All"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-portfolio/theme-vehicle-portfolio.php:299
+msgid "In Compare List"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-portfolio/theme-vehicle-portfolio.php:302
+msgid "Add to Compare"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-portfolio/theme-vehicle-portfolio.php:306
+msgid "View More"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-portfolio/vc-theme-vehicle-portfolio.php:166
+msgid "Portfolio vehicle"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-portfolio/vc-theme-vehicle-portfolio.php:178
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-portfolio-sold/vc-theme-vehicle-portfolio-sold.php:112
+msgid "Vehicle Make"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-portfolio/vc-theme-vehicle-portfolio.php:181
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-portfolio-sold/vc-theme-vehicle-portfolio-sold.php:115
+msgid "Select Vehicle Make"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-portfolio/vc-theme-vehicle-portfolio.php:187
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-taxonomy/vc-theme-taxonomy-vehicle.php:112
+msgid "Layout"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-portfolio/vc-theme-vehicle-portfolio.php:190
+msgid "Grid"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-portfolio/vc-theme-vehicle-portfolio.php:198
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-portfolio-sold/vc-theme-vehicle-portfolio-sold.php:121
+msgid "Show Vehicle Make"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-portfolio/vc-theme-vehicle-portfolio.php:210
+msgid "Show Vehicle Sold"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-portfolio/vc-theme-vehicle-portfolio.php:221
+msgid "Show Pagination"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-portfolio/vc-theme-vehicle-portfolio.php:232
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-portfolio-sold/vc-theme-vehicle-portfolio-sold.php:132
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-taxonomy/vc-theme-taxonomy-vehicle.php:103
+msgid "Limit"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-portfolio/vc-theme-vehicle-portfolio.php:260
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-portfolio-sold/vc-theme-vehicle-portfolio-sold.php:151
+msgid "Z --> A"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-portfolio/vc-theme-vehicle-portfolio.php:260
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-portfolio-sold/vc-theme-vehicle-portfolio-sold.php:151
+msgid "A --> Z"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-portfolio/vc-theme-vehicle-portfolio.php:267
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-portfolio/vc-theme-vehicle-portfolio.php:278
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-portfolio/vc-theme-vehicle-portfolio.php:289
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-portfolio/vc-theme-vehicle-portfolio.php:300
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-portfolio-sold/vc-theme-vehicle-portfolio-sold.php:158
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-portfolio-sold/vc-theme-vehicle-portfolio-sold.php:168
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-portfolio-sold/vc-theme-vehicle-portfolio-sold.php:178
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-portfolio-sold/vc-theme-vehicle-portfolio-sold.php:188
+msgid "Responsive"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-portfolio/vc-theme-vehicle-portfolio.php:269
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-portfolio-sold/vc-theme-vehicle-portfolio-sold.php:160
+msgid "Number Column Of Desktop"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-portfolio/vc-theme-vehicle-portfolio.php:280
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-portfolio-sold/vc-theme-vehicle-portfolio-sold.php:170
+msgid "Number Column Of Tablet Portrait"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-portfolio/vc-theme-vehicle-portfolio.php:291
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-portfolio-sold/vc-theme-vehicle-portfolio-sold.php:180
+msgid "Number Column Of Mobile Landscape"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-portfolio/vc-theme-vehicle-portfolio.php:302
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-portfolio-sold/vc-theme-vehicle-portfolio-sold.php:190
+msgid "Number column of Mobile"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-portfolio-sold/vc-theme-vehicle-portfolio-sold.php:100
+msgid "Vehicle Sold"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-portfolio-sold/vc-theme-vehicle-portfolio-sold.php:215
+msgid "Only Vehicle Sold"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-quote/theme-vehicle-quote.php:30
+msgid "Mileage:"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-quote/theme-vehicle-quote.php:34
+msgid "Date:"
+msgstr "Fecha:"
+
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-quote/theme-vehicle-quote.php:51
+msgid "Your Name"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-quote/theme-vehicle-quote.php:54
+msgid "Your message"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-quote/vc-theme-vehicle-quote.php:33
+msgid "Please check captcha!"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-quote/vc-theme-vehicle-quote.php:56
+msgid "Get A Quote"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-quote/vc-theme-vehicle-quote.php:61
+msgid "Vehicle Type"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-quote/vc-theme-vehicle-quote.php:62
+msgid "Make"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-quote/vc-theme-vehicle-quote.php:63
+msgid "Model"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-quote/vc-theme-vehicle-quote.php:64
+msgid "Mileage"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-quote/vc-theme-vehicle-quote.php:69
+msgid "Massage"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-quote/vc-theme-vehicle-quote.php:89
+msgid "Success"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-quote/vc-theme-vehicle-quote.php:127
+msgid "Quotes Fields"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-quote/vc-theme-vehicle-quote.php:138
+msgid "Button Submit"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-quote/vc-theme-vehicle-quote.php:146
+msgid "Captcha Settings"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-quote/vc-theme-vehicle-quote.php:157
+msgid "Key Google Captcha"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-search/vc-theme-vehicle-search.php:39
+msgid "Search Type"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-search/vc-theme-vehicle-search.php:59
+msgid "Search Layout"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-search/vc-theme-vehicle-search.php:69
+msgid "Include Search fields"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-search/vc-theme-vehicle-search.php:72
+msgid ""
+"<small>Type to include search fields. vehicle_type,make,model,registration,"
+"milage,condition,color,interior,transmission,engine,drivetrain,horsepower,"
+"fuel,keyword,order</small>"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-search/vc-theme-vehicle-search.php:84
+#: admin/vc-extension/visual-composer/vc_theme/vehicles-condition/vc-theme-condition-vehicle.php:24
+msgid "Condition"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-search/vc-theme-vehicle-search.php:98
+msgid "Label"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-search/vc-theme-vehicle-search.php:108
+msgid "Button Search"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-search/vc-theme-vehicle-search.php:118
+msgid "Position"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-search/vc-theme-vehicle-search.php:135
+msgid "Position Value"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-search/vc-theme-vehicle-search.php:136
+msgid "<small>Default 150 (unit: px)</small>"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-slider/theme-vehicle-slider.php:84
+msgid "MSRP FROM"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-slider/theme-vehicle-slider.php:97
+msgid "Condition:"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-slider/theme-vehicle-slider.php:99
+msgid "Exterior Color:"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-slider/theme-vehicle-slider.php:101
+msgid "Interior Color:"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-slider/vc-theme-vehicle-slider.php:133
+msgid "Top Title"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-slider/vc-theme-vehicle-slider.php:144
+msgid "Height"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-slider/vc-theme-vehicle-slider.php:156
+msgid "Height Value"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-taxonomy/vc-theme-taxonomy-vehicle.php:13
+msgid "Taxonomy Style"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-taxonomy/vc-theme-taxonomy-vehicle.php:31
+msgid "Custom link text"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-taxonomy/vc-theme-taxonomy-vehicle.php:39
+msgid "Custom link url"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-taxonomy/vc-theme-taxonomy-vehicle.php:48
+msgid "Taxonomy type"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-taxonomy/vc-theme-taxonomy-vehicle.php:58
+msgid "Excludes taxonomy"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-taxonomy/vc-theme-taxonomy-vehicle.php:60
+msgid "Input taxonomy id example: 12,13,14..."
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-taxonomy/vc-theme-taxonomy-vehicle.php:68
+msgid "Show number"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-taxonomy/vc-theme-taxonomy-vehicle.php:79
+msgid "Vehicle Make/Type is empty:"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-taxonomy/vc-theme-taxonomy-vehicle.php:80
+msgid "Show or hide Vehicle Makes/Types which do not have vehicles available"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-taxonomy/vc-theme-taxonomy-vehicle.php:91
+msgid "Show image"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-taxonomy/vc-theme-taxonomy-vehicle.php:104
+msgid "<small>0 to display all</small> "
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-top-dealer/theme-top-dealer.php:260
+msgid "Reviews"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-top-dealer/vc-theme-top-dealer.php:3
+msgid "Top Dealer"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-top-dealer/vc-theme-top-dealer.php:16
+msgid "Layout Display"
+msgstr ""
+
+#: admin/vc-extension/visual-composer/vc_theme/vehicle-top-dealer/vc-theme-top-dealer.php:52
+msgid "Map"
+msgstr ""
+
+#: admin/widgets/contact-info.php:10
+msgid "Contact info"
+msgstr ""
+
+#: admin/widgets/contact-info.php:11
+msgid "Display Contact info"
+msgstr ""
+
+#: admin/widgets/contact-info.php:60
+msgid "Title:"
+msgstr ""
+
+#: admin/widgets/contact-info.php:68
+msgid "Address:"
+msgstr ""
+
+#: admin/widgets/contact-info.php:72
+msgid "Phone:"
+msgstr ""
+
+#: admin/widgets/contact-info.php:76
+msgid "Email:"
+msgstr ""

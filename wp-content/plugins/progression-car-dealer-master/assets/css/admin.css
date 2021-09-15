@@ -1,0 +1,78 @@
+#postbox-container-2 #acf_acf_specs .inside {
+  padding: 5px;
+}
+#postbox-container-2 #acf_acf_specs .field {
+  border-bottom: none;
+  float: left;
+  width: 30%;
+}
+#postbox-container-2 #acf_acf_specs:before,
+#postbox-container-2 #acf_acf_specs:after {
+  content: " ";
+  display: table;
+}
+#postbox-container-2 #acf_acf_specs:after {
+  clear: both;
+}
+#postbox-container-2 #acf_acf_specs .label {
+  -webkit-break-after: avoid-column;
+}
+.acf_postbox .field[id*="acf-pcd"] {
+  clear: both;
+}
+.acf_postbox .field[id*="acf-pcd"] select {
+  width: auto !important;
+}
+.acf_postbox .field[id*="acf-pcd"].field_type-number {
+  max-width: 400px;
+}
+.acf_postbox .field[id*="acf-pcd"].field_type-taxonomy p.label,
+.acf_postbox .field[id*="acf-pcd"].field_type-wysiwyg p.label,
+.acf_postbox .field[id*="acf-pcd"].field_type-number p.label,
+.acf_postbox .field[id*="acf-pcd"].field_type-radio p.label,
+.acf_postbox .field[id*="acf-pcd"].field_type-select p.label {
+  font-size: 13px;
+  line-height: 1.5;
+  float: left;
+  width: 160px;
+  clear: left;
+  text-align: right;
+  margin-right: 30px !important;
+}
+.acf_postbox.no_box .acf-flexible-content .field {
+  padding-left: 15px;
+  padding-right: 15px;
+}
+ul.acf-radio-list,
+ul.checkbox_list,
+.acf-taxonomy-field,
+.acf_wysiwyg {
+  overflow: hidden;
+}
+.field_key-field_get_shortcode {
+  line-height: 2;
+  font-size: 13px;
+}
+#featured_vehicles {
+  font-size: 22px;
+  font-weight: normal;
+}
+.quote-delete {
+  cursor: pointer;
+}
+.wp-core-ui select.vehicle_type[multiple="multiple"],
+.wp-core-ui select.make[multiple="multiple"],
+.wp-core-ui select#acf-field-vehicle_type[multiple="multiple"],
+.wp-core-ui select#acf-field-make[multiple="multiple"] {
+  min-width: 150px;
+  min-height: 250px;
+}
+#acf-pricerental,
+#acf-time_rental {
+  display: none;
+}
+#acf-pricerental.acf-tab_group-show.active,
+#acf-time_rental.acf-tab_group-show.active {
+  display: block;
+}
+/*# sourceMappingURL=admin.css.map */

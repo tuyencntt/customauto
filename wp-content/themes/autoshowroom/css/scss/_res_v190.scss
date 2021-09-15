@@ -1,0 +1,2041 @@
+@import "mixins";
+
+@media screen and (min-width: 1601px) and (max-width: 1799px) {
+  .landing_page {
+    .powerful_option {
+      .autoshowroom-title {
+        @include padding-default(0 440px);
+      }
+    }
+  }
+}
+
+@media screen and (min-width: 1400px) and (max-width: 1600px) {
+  .landing_page {
+    .powerful_option {
+      .autoshowroom-title {
+        @include padding-default(0 340px);
+      }
+    }
+  }
+}
+
+@media screen and (min-width: 1401px) {
+  .service2 .service_title {
+    p {
+      padding-right: 500px;
+      padding-left: 500px;
+    }
+  }
+
+  .service2 .tzElement_viewService {
+    padding-right: 250px;
+    padding-left: 250px;
+
+  }
+}
+
+@media screen and (max-width: 1400px) {
+  .landing_page {
+    .img-demo,
+    .img-demo-3 {
+      display: none;
+    }
+
+  }
+  .landing_page #demo {
+    padding-top: 200px;
+    padding-bottom: 80px;
+  }
+  .service2 .service_process_text {
+    img {
+      width: 359px;
+    }
+  }
+  .tz_revolution {
+    .tz_title {
+      font-size: 55px !important;
+      position: relative;
+      top: 3px;
+    }
+  }
+}
+
+@media screen and (min-width: 1300px) {
+  .landing_page {
+    .container {
+      width: 1290px;
+    }
+  }
+}
+
+@media screen and (max-width: 1300px) {
+  .landing_page .img-demo {
+    margin-top: 135px;
+    margin-left: 50px;
+  }
+  .landing_page .ourdemos__item.comingsoon h3 {
+    font-size: 30px;
+  }
+  .landing_page .dealer-1 {
+    margin-left: 45px;
+  }
+  .landing_page .autoshowroom-banner .content img {
+    max-width: 420px;
+  }
+  .landing_page .autoshowroom-banner .content h3 {
+    font-size: 40px;
+  }
+  .tz_revolution {
+    .tz_title {
+      font-size: 50px !important;
+      position: relative;
+      top: 10px;
+    }
+    .tz_description {
+      font-size: 14px !important;
+      width: 500px !important;
+      line-height: 1.7em !important;
+    }
+    .tz_button {
+      font-size: 12px !important;
+    }
+  }
+}
+
+@media screen and (min-width: 1200px) and (max-width: 1399px) {
+  .landing_page .ourdemos__item.comingsoon h3 {
+    font-size: 30px;
+  }
+  .landing_page {
+    .powerful_option {
+      .autoshowroom-title {
+        @include padding-default(0 240px);
+      }
+    }
+  }
+}
+
+@media screen and (max-width: 1200px) {
+  .autoshowroom-counter.autoshowroom-counter-style3.font-size-medium {
+    justify-items: center;
+  }
+  .autoshowroom-counter.autoshowroom-counter-style3.font-size-medium .autoshowroom-counter-content {
+    margin-left: 30px;
+  }
+  .vehicle-detail .vehicle-box .pcd-specs div label {
+    width: 55%;
+  }
+  .vehicle-detail .vehicle-box .pcd-specs div span {
+    width: 45%;
+  }
+  .about-us .autoshowroom-lightgallery ul li img.light-thumb {
+    min-height: auto;
+  }
+  .about-us .autoshowroom_member_image .autoshowroom_member_content h6 {
+    font-size: 9px;
+  }
+  .about-us .autoshowroom_member_image .autoshowroom_member_content p {
+    font-size: 9px;
+    padding-top: 3px;
+  }
+  .service2 .service_process_text {
+    img {
+      width: 359px;
+    }
+  }
+}
+
+@media screen and (max-width: 1199px) {
+  .tz_margin-rp {
+    .vc_column-inner {
+      padding-left: 45px !important;
+    }
+  }
+  .tz_custom_img {
+    top: 5px;
+  }
+  .autoshowroom-ads.autoshowroom-ads-type1.autoshowroom-ads-image-text .autoshowroom-ads-text .autoshowroom-ads-text-box {
+    right: -10px;
+  }
+  .tz-header.tz_hservice {
+    .container.tz_Fwidth {
+      width: 100%;
+      padding: 0 20px;
+    }
+  }
+
+  .autoshowroom-title {
+    h2.AutoshowroomTitle {
+      font-size: 22px;
+    }
+    p {
+      font-size: 13px;
+    }
+  }
+  .autoshowroom-list {
+    ul li {
+      font-size: 12px;
+    }
+  }
+  .tz_button a {
+    padding-left: 28px;
+    padding-right: 28px;
+    padding-top: 13px;
+    padding-bottom: 13px;
+    font-size: 12px;
+  }
+  .tz_blogservice .blog_content__item.blog-style-3 {
+    .blog_content__author {
+      font-size: 12px;
+      margin: 12px 0 15px;
+    }
+    p {
+      font-size: 13px;
+    }
+    img {
+      width: 100%;
+      height: 220px;
+    }
+  }
+  .autoshowroom-quote-type4 {
+    .autoshowroom-quote-item {
+      max-width: 820px;
+      padding-left: 20px;
+      padding-right: 20px;
+    }
+    h3 {
+      font-size: 14px;
+    }
+    .autoshowroom-quote-info > img {
+      margin: 15px auto 40px;
+    }
+    .autoshowroom-quote-content {
+      h2, h3, h4 {
+        font-size: 22px;
+      }
+      p {
+        margin: 10px 0 30px;
+      }
+    }
+    .autoshowroom-quote-image-box img {
+      width: 75px;
+    }
+    .autoshowroom-quote-employment {
+      font-size: 12px;
+    }
+  }
+  .tzView_Service_Grid .tzView_Service_Content h3, .speaker_box h4, .autoshowroom-quote-type4 .autoshowroom-quote-content p, .tz_blogservice .blog_content__item.blog-style-3 h3 a {
+    font-size: 16px;
+  }
+  .tzView_Service_Grid .tzView_Service_Content p, .speaker_box h5 {
+    font-size: 12px;
+  }
+  .tzView_Service_Grid {
+
+    .tzView_Service_Slide_Item {
+      &:hover {
+        .tzView_Service_Content {
+          padding: 15px 20px 20px;
+        }
+      }
+    }
+    .tzView_Service_Content {
+      padding: 10px 20px;
+      @include transform(translate(0, -46px));
+      a {
+        font-size: 11px;
+      }
+    }
+  }
+}
+@media screen and (max-width: 1000px) {
+  .tz-header.tz-header-8 .tz-menu-header .tz-megamenu-wrap .tz-right .tz-header-login{
+    margin-left: auto;
+    margin-right: 100px;
+    z-index: 2;
+  }
+  .tz-header.tz_hservice {
+    .container.tz_Fwidth {
+      .tz-megamenu {
+        height: 100%;
+        position: absolute;
+        display: inline-block;
+      }
+    }
+    .tz_logo img {
+      height: 42px;
+      width: auto;
+    }
+  }
+  .tz-header {
+    .tz-megamenu {
+      width: 100%;
+      position: absolute;
+      height: 100%;
+      right: 0;
+    }
+    div.tz-header-cart {
+      right: 110px;
+    }
+    #mega-menu-wrap-primary {
+      #mega-menu-primary > li.mega-menu-item > a.mega-menu-link {
+        font-size: 13px;
+      }
+    }
+    #mega-menu-wrap-primary-home-9 {
+      .mega-menu-toggle + #mega-menu-primary-home-9 {
+        margin-top: 10px;
+      }
+    }
+    #mega-menu-wrap-primary-home-9 #mega-menu-primary-home-9 > li.mega-menu-flyout ul.mega-sub-menu li.mega-menu-item {
+      padding-left: 20px;
+    }
+
+  }
+  body header.tz-header-2 .tz-top-header {
+    .tz-top-header-left {
+      a {
+        color: #868686;
+        i {
+          color: $main-color;
+        }
+      }
+    }
+  }
+  header.tz-header-3 .tz-top-header .textwidget ul li a {
+    color: #ffffff;
+    i {
+      color: $main-color;
+    }
+  }
+  #mega-menu-wrap-primary-home-6{
+    text-align: right;
+    .mega-menu-toggle{
+
+    }
+    #mega-menu-primary-home-6 > li.mega-menu-item > a.mega-menu-link{
+      padding: 0 15px;
+    }
+
+    #mega-menu-primary-home-6 li.mega-menu-item.mega-toggle-on > ul.mega-sub-menu{
+      padding-left: 20px;
+    }
+  }
+  .tz-header.tz-header-6.show_cart .tz-megamenu{
+    padding-right:15px;
+  }
+}
+
+@media screen and (min-width: 1001px) and (max-width: 1199px) {
+  #mega-menu-wrap-primary #mega-menu-primary > li.mega-menu-item > a.mega-menu-link,
+  #mega-menu-wrap-primary-home-2 #mega-menu-primary > li.mega-menu-item > a.mega-menu-link,
+  #mega-menu-wrap-primary-home-3 #mega-menu-primary > li.mega-menu-item > a.mega-menu-link,
+  #mega-menu-wrap-primary #mega-menu-primary-home-2 > li.mega-menu-item > a.mega-menu-link,
+  #mega-menu-wrap-primary-home-2 #mega-menu-primary-home-2 > li.mega-menu-item > a.mega-menu-link,
+  #mega-menu-wrap-primary-home-3 #mega-menu-primary-home-2 > li.mega-menu-item > a.mega-menu-link,
+  #mega-menu-wrap-primary #mega-menu-primary-home-3 > li.mega-menu-item > a.mega-menu-link,
+  #mega-menu-wrap-primary-home-2 #mega-menu-primary-home-3 > li.mega-menu-item > a.mega-menu-link,
+  #mega-menu-wrap-primary-home-3 #mega-menu-primary-home-3 > li.mega-menu-item > a.mega-menu-link,
+  #mega-menu-wrap-primary-home-6 #mega-menu-primary-home-6 > li.mega-menu-item > a.mega-menu-link,
+  #mega-menu-wrap-primary-home-9 #mega-menu-primary-home-9 > li.mega-menu-item > a.mega-menu-link {
+    padding-left: 13px !important;
+    padding-right: 13px !important;
+  }
+  #mega-menu-wrap-primary-home-6 #mega-menu-primary-home-6 > li.mega-menu-item > a.mega-menu-link {
+    padding-bottom: 39px;
+  }
+  .tz-header.tz-header-6 .tz-add-car {
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: 10px;
+  }
+  .tz-header.tz_hservice.show_cart .tz-megamenu nav.nav-collapse {
+    padding-right: 30px;
+  }
+}
+
+@media screen and (max-width: 1024px) {
+  .about-us .autoshowroom-lightgallery ul li img.light-thumb {
+    min-height: auto;
+  }
+  .about-us .autoshowroom_member_image .autoshowroom_member_content h6 {
+    font-size: 9px;
+  }
+  .about-us .autoshowroom_member_image .autoshowroom_member_content p {
+    font-size: 9px;
+    padding-top: 3px;
+  }
+}
+
+@media screen and (min-width: 992px) and (max-width: 1199px) {
+  .tz-header.tz_hservice {
+    .tz-top-header {
+      .tz-top-header-left {
+        text-align: left;
+      }
+      .tz-top-header-right {
+        text-align: right;
+      }
+    }
+  }
+  .landing_page {
+    #tools,
+    #demo,
+    .endless_header,
+    .online_store {
+      .autoshowroom-title {
+        padding: 0 100px;
+      }
+    }
+
+    .powerful_option {
+      .autoshowroom-title {
+        padding: 0 200px;
+      }
+    }
+    .pro-car {
+      .autoshowroom-title {
+        padding: 0;
+      }
+    }
+  }
+  .landing_image::before {
+    background: linear-gradient(to bottom, rgba(0, 0, 0, 0.9) 0%, rgba(0, 0, 0, 0.65) 70%, rgba(0, 0, 0, 0) 85%);
+  }
+  .landing_page .about_theme p {
+    padding: 0 15%;
+  }
+}
+
+@media screen and (min-width: 992px) and (max-width: 1024px) {
+  .service2 .service_title {
+    p {
+      padding-right: 10%;
+      padding-left: 10%;
+    }
+
+  }
+
+  .service2 .service_process_text {
+    img {
+      width: 300px !important;
+    }
+  }
+
+  .service2 .tzElement_viewService .tzView_Service_Slide .tzView_Service_Slide_Item .tzView_Service_Image img {
+    height: auto;
+    min-height: 190px;
+  }
+}
+
+@media screen and (max-width: 992px) {
+
+  .tz-header.tz-header-7 .tz-menu-header .tz-add-car {
+    font-size: 10px;
+    padding-right: 15px;
+    padding-left: 15px;
+  }
+  .tz-header.tz_hservice .container.tz_Fwidth .tz-megamenu {
+    display: block;
+    right: 0;
+  }
+  .autoshowroom-ads.autoshowroom-ads-type1.autoshowroom-ads-text-image .autoshowroom-ads-text {
+    padding-left: 20px;
+  }
+  .autoshowroom-ads.autoshowroom-ads-type1 .autoshowroom-ads-image img {
+    width: 100%;
+  }
+  body .tz-header.tz-header-2 .tz-header-cart {
+    right: 110px;
+  }
+  .TZ-Vehicle-Search-Vertical {
+    top: 0 !important;
+    position: relative;
+    width: 100%;
+    left: 0;
+    display: inline-block;
+    margin: 0 auto;
+  }
+  .TZ-Vehicle-Search-Vertical h3 {
+    text-align: center;
+  }
+  .vehicle-search-form {
+    margin: 0 auto;
+  }
+  .TZ-Vehicle-Search-Vertical {
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+  }
+  .tz_revolution {
+    .tz_title {
+      font-size: 45px !important;
+      position: relative;
+      top: 15px;
+    }
+    .tz_description {
+      font-size: 14px !important;
+      width: 500px !important;
+    }
+    .tz_button {
+      font-size: 12px !important;
+    }
+  }
+  .autoshowroom-footer-service .autoshowroom-footer-bottom {
+    .autoshowroom-footer-bottom-left, .autoshowroom-footer-bottom-right {
+      text-align: center;
+    }
+    .autoshowroom-footer-bottom-right {
+      padding-top: 18px;
+    }
+  }
+  .autoshowroom-footer-service .autoshowroom-footer-bottom .autoshowroom-footer-bottom-right .menu li:first-child {
+    a {
+      margin-left: 0;
+    }
+  }
+}
+
+@media screen and (max-width: 991px) {
+  .tz_custombox__one {
+    .tz-row {
+      display: block !important;
+      .tz_margin-rp {
+        padding-top: 80px;
+      }
+    }
+  }
+  .tz_margin-rp {
+    .vc_column-inner {
+      padding-left: 15px !important;
+    }
+  }
+  .tz_blogservice .blog_content__item.tz_height img {
+    height: auto;
+  }
+  .autoshowroom-ads.autoshowroom-ads-type1.autoshowroom-ads-text-image .autoshowroom-ads-text {
+    padding-left: 0;
+  }
+  .autoshowroom-ads.autoshowroom-ads-type1.autoshowroom-ads-image-text .autoshowroom-ads-text .autoshowroom-ads-text-box {
+    width: 100%;
+    left: 20px;
+  }
+  #mega-menu-wrap-primary-home-6 {
+    text-align: left;
+  }
+
+}
+
+@media screen and (max-width: 768px) {
+
+  #mega-menu-wrap-primary-home-6 {
+    text-align: right;
+  }
+  .tz_margin-rp {
+    .tz_button {
+      padding-left: 20px;
+    }
+  }
+  .footer-bottom {
+    .textwidget {
+      @include flex-box(flex);
+      justify-content: center;
+      -webkit-justify-content: center;
+    }
+  }
+  .autoshowroom-footer-service .autoshowroom-footer-bottom {
+    .autoshowroom-footer-bottom-left, .autoshowroom-footer-bottom-right {
+      margin: 0;
+    }
+  }
+  .tz_revolution {
+    .tz_title {
+      font-size: 35px !important;
+      top: 25px;
+    }
+    .tz_button {
+      font-size: 12px !important;
+    }
+  }
+  .autoshowroom-service.style3 {
+    margin-left: 20px;
+  }
+  .autoshowroom-counter.autoshowroom-counter-style3.font-size-medium {
+    @include flex-box(flex);
+    justify-content: center;
+    -webkit-justify-content: center;
+    margin-left: 0;
+    .autoshowroom-counter-content {
+      margin-left: 20px;
+      min-width: 110px;
+    }
+  }
+  .autoshowroom-ads.autoshowroom-ads-type1 {
+    .autoshowroom-ads-text {
+      .autoshowroom-ads-text-box {
+        h2, h3, h4 {
+          span {
+            line-height: 1.3em;
+            display: block;
+          }
+        }
+      }
+    }
+  }
+  .autoshowroom-ads .tz_newsletter {
+    form {
+      input.tnp-button {
+        margin-right: 35px;
+      }
+      input.tnp-email {
+        width: 225px;
+      }
+    }
+  }
+}
+
+@media screen and (min-width: 768px) and (max-width: 991px) {
+  .landing_page #demo {
+    padding-top: 190px;
+    padding-bottom: 80px;
+  }
+  .landing_page .various-title {
+    padding-top: 80px;
+  }
+  .landing_page .one-click-img-1 {
+    margin-top: -250px;
+
+    img {
+      padding-right: 50px;
+      padding-left: 50px;
+    }
+  }
+  .landing_page .powerful_option .autoshowroom-title p {
+    padding: 0 15px;
+  }
+  .landing_page .online_store .autoshowroom-service.style3 {
+    margin-top: 0;
+  }
+  .landing_page .autoshowroom-service.style3 .autoshowroom-service-icon {
+    margin-bottom: 0;
+  }
+  .landing_page .autoshowroom-service.style3 .autoshowroom-service-icon img {
+    width: 35%;
+  }
+  .landing_page .autoshowroom-service.style3 h3.autoshowroom-service-title {
+    margin-bottom: 7px;
+  }
+  .landing_page .blog .autoshowroom-title {
+    padding-top: 70px;
+    padding-right: 0;
+  }
+  .landing_page {
+    #demo,
+    #tools,
+    #features,
+    #support,
+    #customers_say,
+    .endless_header,
+    .pro-car {
+      .autoshowroom-title h2.AutoshowroomTitle {
+        font-size: 45px;
+      }
+    }
+  }
+  .landing_page .pro-car .autoshowroom-title p {
+    padding: 0 20px;
+  }
+  .landing_header .nav-menu a {
+    font-size: 14px;
+    @include padding-default(0 10px);
+  }
+
+  .landing_page {
+    #demo,
+    #tools,
+    .endless_header,
+    .powerful_option,
+    .online_store,
+    .pro-car {
+      .autoshowroom-title {
+        padding: 0;
+      }
+    }
+
+  }
+  .landing_page .about_theme h1 {
+    font-size: 35px;
+  }
+  .landing_page .about_theme h1 span {
+    font-size: 40px;
+  }
+  .landing_page .about_theme p {
+    font-size: 15px;
+    padding: 0 17%;
+  }
+  .landing_header .auto_btn a {
+    padding: 10px 20px;
+  }
+  .landing_page .img-demo {
+    margin-left: 15px;
+  }
+  .landing_page .img-demo-3 {
+    padding-right: 15px;
+  }
+  .landing_page .autoshowroom-title h2.AutoshowroomTitle {
+    font-size: 25px;
+  }
+  .landing_page .autoshowroom-title p {
+    font-size: 16px;
+  }
+  .landing_page .inventory-1 {
+    margin-right: 20px;
+  }
+  .landing_page .inventory-2 {
+    margin-top: -170px;
+    margin-left: 160px;
+  }
+  .landing_page .various-1 {
+    margin-right: 50px;
+  }
+  .landing_page .various-2 {
+    margin-top: -215px;
+    margin-left: 125px;
+  }
+  .landing_page .various-3 {
+    margin-top: -115px;
+    margin-right: 35px;
+  }
+  .landing_page .blog-2 {
+    margin-top: -225px;
+    margin-right: 210px;
+  }
+  .landing_page .blog-3 {
+    margin-top: -580px;
+    margin-right: 0;
+    margin-left: 290px;
+  }
+  .landing_page .responsive-2 {
+    margin-top: -300px;
+    margin-right: 50px;
+    margin-left: 50px;
+  }
+  .landing_page .dealers-responsive {
+    padding-top: 80px;
+    padding-bottom: 250px !important;
+  }
+  .landing_page .dealer-1 {
+    margin-left: 50px;
+  }
+  .landing_page .dealer-2 {
+    margin-top: -150px;
+    margin-right: 120px;
+  }
+  .landing_page .dealer-3 {
+    margin-top: -310px;
+    margin-left: 300px;
+  }
+  .landing_page .dealer-4 {
+    margin-top: -500px;
+  }
+  .landing_page .dealer-title {
+    padding-top: 50px;
+    padding-left: 0;
+  }
+  .landing_page .limit-color-title {
+    padding-top: 50px;
+    padding-right: 0;
+  }
+  .landing_page .limit-color-2 {
+    margin-top: -520px;
+    margin-right: -15px;
+  }
+  .landing_page .autoshowroom-service.style2 .autoshowroom-service-icon {
+    margin-right: 30px;
+  }
+  .landing_page .support-ticket {
+    padding-left: 0;
+  }
+  .landing_page .autoshowroom-service.style3 p {
+    padding: 0;
+  }
+  .our-theme .our-theme-item:hover .img-theme {
+    width: 250px;
+  }
+  .landing_page .autoshowroom-service.style3 {
+    min-height: 350px;
+  }
+  .landing_page .img-light-box-2 {
+    @include margin($top: -170px, $left: 100px);
+  }
+  .landing_page .img-light-box-1 {
+    @include margin($right: 40px);
+  }
+  .landing_page .img-light-box {
+    @include padding($right: 0);
+  }
+  .landing_page .img-light-box-3 {
+    @include margin($top: -570px);
+  }
+  .landing_page .handy-search-form .autoshowroom-title p {
+    padding: 0;
+  }
+  .landing_page .autoshowroom-banner .content img {
+    max-width: 400px;
+  }
+  .landing_page .autoshowroom-banner .content h3 {
+    font-size: 30px;
+    padding-bottom: 50px;
+  }
+  .our-theme {
+    .our-theme-item {
+      &:nth-of-type(1),
+      &:nth-of-type(2),
+      &:nth-of-type(3) {
+        .img-theme {
+          left: 103%;
+          right: auto;
+          z-index: 1;
+        }
+      }
+    }
+  }
+  .landing_page #customers_say .autoshowroom-title h2.AutoshowroomTitle {
+    font-size: 48px;
+    margin-bottom: 50px;
+  }
+  .landing_page .img-search-form {
+    margin-right: 70px;
+    margin-left: 70px;
+  }
+  .landing_page .bg-search-form-1 {
+    margin-bottom: 300px;
+  }
+  .landing_page .light-box-title {
+    padding-top: 80px;
+  }
+
+  .about-us .autoshowroom-service .autoshowroom-service-icon {
+    margin-left: 20px;
+  }
+  .about-us .autoshowroom-lightgallery ul li img.light-thumb {
+    min-height: auto;
+  }
+  .about-us .autoshowroom-service p.autoshowroom-service-description {
+    margin-left: 90px;
+  }
+  .about-us .autoshowroom-service h3.autoshowroom-service-title {
+    margin-left: 90px;
+  }
+  .about-us .speaker_box {
+    width: 175px;
+    height: 290px;
+  }
+  .about-us .autoshowroom_member_image img {
+    height: 210px;
+    min-height: auto;
+  }
+  .about-us .autoshowroom_member_image .autoshowroom_member_content {
+    padding: 45px 4px 20px;
+  }
+  .about-us .autoshowroom_member_image .autoshowroom_member_content h6 {
+    font-size: 9px;
+  }
+  .about-us .autoshowroom_member_image .autoshowroom_member_content p {
+    font-size: 9px;
+    padding-top: 3px;
+  }
+  .about-us .autoshowroom_member_image .autoshowroom_member_content .autoshowroom_social {
+    padding-top: 0;
+  }
+  .about-us .autoshowroom_member_image .autoshowroom_member_content .autoshowroom_social i {
+    font-size: 14px;
+  }
+  .about-us .autoshowroom-contact .autoshowroom-contact-overlay .autoshowroom-contact-content .autoshowroom-contact-message {
+    font-size: 20px;
+    margin-top: 5px;
+  }
+  .about-us .autoshowroom-contact .autoshowroom-contact-overlay .autoshowroom-contact-content a.autoshowroom-contact-button {
+    font-size: 10px;
+  }
+  .service2 .service_title {
+    p {
+      padding-right: 0;
+      padding-left: 0;
+    }
+  }
+
+  .service2 .autoshowroom-title h2.AutoshowroomTitle {
+    margin-bottom: 0;
+  }
+
+  .service2 .autoshowroom-title.autoshowroom-title-left {
+    padding: 0;
+  }
+
+  .service2 .autoshowroom-our-process {
+    padding-left: 0;
+  }
+
+  .service2 .autoshowroom-title p {
+    margin: 0 40px;
+  }
+
+  .service2 .tzElement_viewService {
+    margin: 0;
+    padding: 0;
+
+    .owl-next {
+      display: none !important;
+    }
+
+    .owl-prev {
+      display: none !important;
+    }
+  }
+
+  .service2 .vc_custom_1556005104713 {
+    padding-left: 0 !important;
+  }
+
+  .service2 .autoshowroom-title.autoshowroom-title-left {
+    padding: 0;
+  }
+
+  .service2 .service_process_text {
+    padding-right: 15%;
+    padding-left: 3%;
+    height: auto;
+    display: flex;
+
+    .service_textbox {
+      display: none;
+    }
+  }
+
+  .service2 .autoshowroom-text-box {
+    padding: 210px 0 0;
+  }
+
+  .service2 .service_process_text {
+    .vc_column-inner {
+      padding-left: 0;
+      padding-right: 0;
+    }
+
+    img {
+      width: 290px !important;
+      margin-top: -40px;
+    }
+  }
+
+  .service2 .autoshowroom-our-process .autoshowroom-counter-icon {
+    padding-left: 28px;
+    padding-top: 13px;
+  }
+  rs-module-wrap .Slide02-Title p {
+    font-size: 30px;
+  }
+  .slider_v6_title h3,
+  .v6_title2 h3 {
+    font-size: 40px;
+    line-height: 35px !important;
+    b {
+      font-size: 40px;
+      line-height: 35px !important;
+    }
+  }
+  .Slide07-Title p {
+    font-size: 35px;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .landing_header .nav-menu {
+    display: none;
+  }
+  .landing_page {
+    #demo,
+    #tools,
+    .endless_header,
+    .powerful_option,
+    .online_store,
+    .pro-car {
+      .autoshowroom-title {
+        padding: 0;
+      }
+    }
+  }
+  .landing_page {
+    #demo,
+    #tools,
+    #features,
+    #support,
+    #customers_say,
+    .endless_header,
+    .pro-car {
+      .autoshowroom-title h2.AutoshowroomTitle {
+        font-size: 45px;
+      }
+    }
+  }
+  .landing_page .pro-car .autoshowroom-title p {
+    padding: 0;
+  }
+  .landing_page .about_theme h1 {
+    font-size: 35px;
+  }
+  .landing_page .about_theme h1 span {
+    font-size: 40px;
+  }
+  .landing_page .about_theme p {
+    font-size: 15px;
+    padding: 0 17%;
+  }
+  .landing_header .auto_btn a {
+    padding: 10px 20px;
+  }
+  .landing_page .img-demo {
+    margin-left: 15px;
+  }
+  .landing_page .img-demo-3 {
+    padding-right: 15px;
+  }
+  .landing_page .autoshowroom-title h2.AutoshowroomTitle {
+    font-size: 35px;
+  }
+  .landing_page .autoshowroom-title p {
+    font-size: 16px;
+  }
+  .landing_page .inventory-1 {
+    margin-right: 20px;
+  }
+  .landing_page .inventory-2 {
+    margin-top: -260px;
+  }
+  .landing_page .various-1 {
+    margin-right: 50px;
+  }
+  .landing_page .various-2 {
+    margin-top: -277px;
+  }
+  .landing_page .various-3 {
+    margin-top: -151px;
+    margin-right: 35px;
+  }
+  .landing_page .blog-2 {
+    margin-top: -225px;
+    margin-right: 210px;
+  }
+  .landing_page .blog-3 {
+    margin-top: -580px;
+    margin-right: 0;
+    margin-left: 290px;
+  }
+  .landing_page .responsive-2 {
+    margin-top: -400px;
+  }
+  .landing_page .dealer-1 {
+    margin-left: 50px;
+  }
+  .landing_page .dealer-2 {
+    margin-top: -193px;
+    margin-left: 15px;
+  }
+  .landing_page .dealer-3 {
+    margin-top: -477px;
+  }
+  .landing_page .dealer-4 {
+    margin-top: -500px;
+  }
+  .landing_page .dealers-responsive {
+    padding-bottom: 80px !important;
+  }
+  .landing_page .dealer-title {
+    padding-top: 220px;
+    padding-left: 0;
+  }
+  .landing_page .limit-color-title {
+    padding-top: 50px;
+    padding-bottom: 50px;
+  }
+  .landing_page .limit-color-2 {
+    margin-top: -650px;
+    margin-right: -15px;
+  }
+  .landing_page .autoshowroom-service.style2 .autoshowroom-service-icon {
+    margin-right: 30px;
+  }
+  .landing_page .support-ticket {
+    padding-left: 0;
+  }
+  .landing_page .autoshowroom-service.style3 p {
+    padding: 0;
+  }
+  .our-theme .our-theme-item:hover .img-theme {
+    width: 250px;
+  }
+  .landing_page .autoshowroom-service.style3 {
+    min-height: 350px;
+  }
+  .landing_page .img-light-box-2 {
+    @include margin($top: -220px, $left: 100px, $right: 20px);
+  }
+  .landing_page .img-light-box-1 {
+    @include margin($right: 40px, $left: 20px);
+  }
+  .landing_page .img-light-box {
+    @include padding($right: 0);
+  }
+  .landing_page .img-light-box-3 {
+    @include margin($top: -950px);
+  }
+  .landing_page .handy-search-form {
+    padding-top: 100px;
+  }
+  .landing_page .handy-search-form .autoshowroom-title {
+    padding-bottom: 50px;
+  }
+  .landing_page .handy-search-form .autoshowroom-title p {
+    padding: 0;
+  }
+  .landing_page .autoshowroom-banner .content img {
+    max-width: 400px;
+  }
+  .landing_page .autoshowroom-banner .content h3 {
+    font-size: 30px;
+  }
+  .our-theme {
+    .our-theme-item {
+      &:nth-of-type(1),
+      &:nth-of-type(2),
+      &:nth-of-type(3) {
+        .img-theme {
+          left: 103%;
+          right: auto;
+          z-index: 1;
+        }
+      }
+    }
+  }
+  .inventory-responsive {
+    padding-bottom: 270px !important;
+  }
+  .autoshowroom-service.style5 {
+    margin: 0 15px 30px;
+  }
+  .landing_page .inventory-1 {
+    margin-right: 0;
+    margin-left: 15px;
+  }
+  .left-100 {
+    left: -20px;
+  }
+  .landing_page {
+    .various-title,
+    .blog {
+      .autoshowroom-title h2.AutoshowroomTitle strong {
+        display: inline-block;
+      }
+    }
+    .img-header {
+      padding: 0 15px;
+    }
+  }
+
+  .autoshowroom-counter.autoshowroom-counter-style3.font-size-medium {
+    margin-left: 30px;
+  }
+  .autoshowroom-service.style1 {
+    margin-left: 100px;
+  }
+  .autoshowroom-service.style3 {
+    margin-left: 100px;
+  }
+  .speaker_box.tz_md_modal_show {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: none;
+    height: auto;
+    background: transparent;
+  }
+  .speaker_box.tz_md_modal_show .autoshowroom_our_team_full {
+    box-shadow: 0 1px 2px -2px;
+    height: auto;
+    background: white;
+    width: 360px;
+  }
+  .tel_countdown .container #tel-countdown__timer .tel-countdown__item {
+    margin: 0 20px !important;
+    font-size: 54px !important;
+    width: auto !important;
+  }
+  .autoshowroom-pricing {
+    margin: 30px auto;
+  }
+  .vc_progress_bar.progress_type-1 {
+    padding-left: 30px;
+  }
+  .vc_progress_bar.progress_type-1 .vc_single_bar {
+    max-width: 90%;
+  }
+  .vc_progress_bar.progress_type-2 {
+    padding-left: 30px;
+  }
+  .vc_progress_bar.progress_type-2 .vc_single_bar {
+    max-width: 90%;
+  }
+  .vc_progress_bar.progress_type-3 {
+    padding-left: 30px;
+  }
+  .vc_progress_bar.progress_type-3 .vc_single_bar {
+    max-width: 90%;
+  }
+  .vc_toggle.vc_toggle_default {
+    max-width: 85%;
+    margin-left: 30px;
+  }
+  .vc_tta-accordion.vc_tta-style-classic .vc_tta-panels-container .vc_tta-panels .vc_tta-panel {
+    max-width: 85%;
+    margin-left: 30px;
+  }
+  .vc_tta-accordion.vc_tta-style-normal .vc_tta-panels-container .vc_tta-panels .vc_tta-panel {
+    max-width: 85%;
+    margin-left: 30px;
+  }
+  .vc_tta-tabs.vc_tta-style-flat.vc_tta-shape-rounded {
+    max-width: 85%;
+    margin-left: 30px;
+  }
+
+  .about-us .autoshowroom-lightgallery {
+    margin-top: 0;
+  }
+  .about-us .autoshowroom-lightgallery ul li img.light-thumb {
+    height: 359px;
+    min-height: auto;
+  }
+  .about-us .autoshowroom-service .autoshowroom-service-icon {
+    margin-left: 20px;
+  }
+  .about-us .autoshowroom-service p.autoshowroom-service-description {
+    margin-left: 90px;
+  }
+  .about-us .autoshowroom-service h3.autoshowroom-service-title {
+    margin-left: 90px;
+  }
+  .about-us .speaker_box {
+    width: 265px;
+    height: 330px;
+    margin: 20px auto;
+  }
+  .about-us .autoshowroom_member_image img {
+    height: 245px;
+    min-height: auto;
+  }
+  .about-us .autoshowroom_member_image .autoshowroom_member_content .autoshowroom_social {
+    padding-top: 0;
+  }
+  .about-us .autoshowroom-contact .autoshowroom-contact-overlay .autoshowroom-contact-content .autoshowroom-contact-message {
+    font-size: 20px;
+    margin-top: 5px;
+  }
+  .about-us .autoshowroom-contact .autoshowroom-contact-overlay .autoshowroom-contact-content a.autoshowroom-contact-button {
+    font-size: 10px;
+  }
+  .service2 .service_title {
+    p {
+      padding-right: 0;
+      padding-left: 0;
+    }
+  }
+
+  .service2 .autoshowroom-our-process.yesleft:last-child {
+    padding-bottom: 50px;
+  }
+
+  .service2 .tzElement_viewService {
+    margin: 0;
+    padding: 0;
+
+    .owl-next {
+      display: none !important;
+    }
+
+    .owl-prev {
+      display: none !important;
+    }
+  }
+
+  .service2 .service_process_text {
+    padding-right: 0;
+    padding-left: 0;
+    height: auto;
+
+    .service_textbox {
+      display: none;
+    }
+  }
+
+  .service2 .autoshowroom-title p {
+    margin: 0 40px;
+  }
+
+  .service2 .service_process_text {
+    img {
+      display: none
+    }
+  }
+  .slider_v6_title h3,
+  .v6_title2 h3 {
+    font-size: 22px;
+    b {
+      font-size: 22px;
+    }
+  }
+  .autoshowroom-our-process .autoshowroom-counter-icon {
+    left: 50%;
+    @include transform(translateX(-50%));
+  }
+  .tz_custom_img {
+    display: none;
+  }
+  .tz_overflow {
+    .vc_column-inner {
+      margin-left: 0 !important;
+    }
+  }
+  .autoshowroom-ads.autoshowroom-ads-type1.autoshowroom-ads-image-text .autoshowroom-ads-text .autoshowroom-ads-text-box {
+    max-width: 480px;
+    right: 0;
+    left: unset;
+  }
+  .tz_blogservice .blog_content__item.blog-style-3 img {
+    height: auto;
+  }
+  .autoshowroom-ads .autoshowroom-ads-text .autoshowroom-ads-text-box .autoshowroom-ads-description {
+    h2, h3, h4 {
+      span {
+        font-size: 16px !important;
+      }
+    }
+  }
+  .autoshowroom-quote .slick-track .autoshowroom-quote-item .autoshowroom-quote-info {
+    margin-left: 0;
+  }
+}
+
+@media screen and (min-width: 578px) and (max-width: 767px) {
+  .tzElement_viewService.tz_type-2 .tzView_Service_Slide_Item {
+    width: 50%;
+  }
+}
+
+@media screen and (max-width: 767px) and (max-height: 500px) {
+  .landing_page {
+    .about_theme {
+      h1 {
+        font-size: 25px;
+
+        span {
+          font-size: 42px;
+        }
+      }
+    }
+  }
+  .landing_page {
+    #demo,
+    #tools,
+    #features,
+    #support,
+    #customers_say,
+    .endless_header,
+    .pro-car {
+      .autoshowroom-title h2.AutoshowroomTitle {
+        font-size: 40px;
+      }
+    }
+  }
+  .landing_image::before {
+    bottom: 50px;
+  }
+  .landing_page .blog .autoshowroom-title {
+    padding-left: 0;
+    padding-right: 0;
+  }
+  .landing_page .autoshowroom-service.style3 {
+    margin-left: 0;
+  }
+  .landing_page #support .wpb_single_image {
+    margin: 0 20px 30px;
+  }
+  .landing_page .autoshowroom-service.style2,
+  .customersay {
+    margin-left: 20px;
+    margin-right: 20px;
+  }
+  .landing_page #customers_say .autoshowroom-title h2.AutoshowroomTitle {
+    margin-bottom: 50px;
+  }
+  .landing_page .autoshowroom-banner .content img {
+    max-width: 250px;
+  }
+  .landing_page .autoshowroom-banner .content h3 {
+    font-size: 25px;
+    padding-bottom: 30px;
+  }
+  .landing_page .autoshowroom-banner .content a {
+    padding: 15px 25px;
+    font-size: 16px;
+  }
+
+}
+
+@media screen and (max-width: 575px) {
+  .tz-header.tz-header-8 .tz-menu-header .tz-megamenu-wrap .tz-right .tz-header-login{
+    display: none;
+  }
+  .landing_page #demo {
+    padding-top: 170px;
+    padding-bottom: 60px;
+  }
+  .landing_page {
+    #demo,
+    #tools,
+    .endless_header,
+    .powerful_option,
+    .online_store,
+    .pro-car {
+      .autoshowroom-title {
+        padding: 0 15px;
+      }
+    }
+  }
+  .landing_page .pro-car .autoshowroom-title p {
+    padding: 0;
+  }
+  .landing_page .tz_Image_slide {
+    margin: 0 15px;
+  }
+  .landing_page #demo .autoshowroom-title {
+    padding: 0 15px;
+  }
+  .landing_page .about_theme p {
+    padding: 0 15px;
+  }
+  .landing_page .img-demo {
+    margin-left: 15px;
+  }
+  .landing_page .img-demo-3 {
+    padding-right: 15px;
+  }
+  .landing_page #tools .autoshowroom-title {
+    padding: 0;
+  }
+  .landing_page {
+    #demo,
+    #tools,
+    #features,
+    #support,
+    #customers_say,
+    .endless_header,
+    .pro-car,
+    .powerful_option {
+      .autoshowroom-title h2.AutoshowroomTitle {
+        font-size: 30px;
+      }
+    }
+  }
+  .landing_page .autoshowroom-title {
+    padding: 0 15px;
+  }
+  .landing_page .autoshowroom-title h2.AutoshowroomTitle {
+    font-size: 25px;
+  }
+  .landing_page .autoshowroom-title p {
+    font-size: 14px;
+    padding: 0;
+  }
+  .landing_page {
+    #demo,
+    #tools {
+      .autoshowroom-title p {
+        padding: 0 15px;
+      }
+    }
+
+  }
+  .landing_page .various-2 {
+    margin-top: -280px;
+  }
+  .landing_page .various-3 {
+    margin-top: -145px;
+    margin-right: 100px;
+  }
+  .landing_page .about_theme h1 {
+    font-size: 25px;
+  }
+  .landing_page .about_theme h1 span {
+    font-size: 36px;
+  }
+  .landing_page .various-1 {
+    margin-right: 0;
+  }
+  .landing_page .various-2 {
+    margin-top: -100px;
+    margin-left: 50px;
+  }
+  .landing_page .various-3 {
+    margin-top: -100px;
+    margin-right: 100px;
+  }
+  .landing_page .inventory-2 {
+    margin-top: -100px;
+    margin-left: 100px;
+  }
+  .landing_page .blog-2 {
+    margin-top: -105px;
+    margin-right: 140px;
+  }
+  .landing_page .dealer-1 {
+    margin-left: 40px;
+  }
+  .landing_page .dealer-2 {
+    margin-top: -70px;
+    margin-left: 15px;
+    margin-right: 50px;
+  }
+  .landing_page .dealer-3 {
+    margin-top: -240px;
+    margin-left: 160px;
+  }
+  .landing_page .limit-color-2 {
+    margin-top: -60px;
+    margin-right: -15px;
+  }
+  .landing_page .dealer-title {
+    padding-top: 100px;
+    padding-left: 0;
+  }
+  .landing_page .img-search-form {
+    margin-right: 20px;
+    margin-left: 20px;
+  }
+  .landing_page .bg-search-form {
+    margin-top: -300px;
+  }
+  .landing_page .bg-search-form-1 {
+    margin-bottom: 200px;
+  }
+  .landing_page .handy-search-form {
+    padding-top: 100px;
+    padding-bottom: 100px !important;
+  }
+  .landing_page .img-light-box-3 {
+    margin-top: -440px;
+    margin-left: 100px;
+    margin-right: 20px;
+  }
+  .landing_page .img-light-box-2 {
+    margin-top: -120px;
+  }
+  .landing_page .autoshowroom-service.style3 {
+    margin-left: 15px;
+    margin-right: 15px;
+  }
+  .landing_page .online_store .autoshowroom-service.style3 {
+    margin-top: -40px;
+  }
+  .landing_page #support .wpb_single_image {
+    margin: 0 20px 30px;
+  }
+  .landing_page .autoshowroom-service.style2 {
+    margin: 0 15px 20px;
+  }
+
+  .customersay {
+    margin: 0 20px 30px;
+  }
+  .landing_page .autoshowroom-banner .content h3 {
+    font-size: 25px;
+  }
+  .landing_page .autoshowroom-banner .content img {
+    max-width: 250px;
+  }
+  .our-theme {
+    display: grid;
+    grid-template-columns: auto auto;
+    grid-gap: 30px;
+
+    .our-theme-item {
+      &:nth-of-type(1),
+      &:nth-of-type(3),
+      &:nth-of-type(5) {
+        .img-theme {
+          left: 50%;
+          right: auto;
+          z-index: 1;
+        }
+      }
+
+      &:nth-of-type(2),
+      &:nth-of-type(4),
+      &:nth-of-type(6) {
+        .img-theme {
+          left: auto;
+          right: 50%;
+          z-index: 1;
+        }
+      }
+
+      &:hover {
+        .img-theme {
+          width: 200px;
+        }
+      }
+    }
+  }
+  .landing_page #customers_say .autoshowroom-title h2.AutoshowroomTitle {
+    margin-bottom: 50px;
+  }
+  .landing_page .blog-3 {
+    margin-top: -380px;
+    margin-right: 0;
+    margin-left: 50px;
+  }
+  .landing_page .blog .autoshowroom-title {
+    padding-right: 0;
+    padding-left: 0;
+  }
+  .autoshowroom-banner .content {
+    padding: 0 15px;
+  }
+  .landing_page #features {
+    padding-bottom: 50px;
+  }
+  .landing_page #support .autoshowroom-title p {
+    padding: 0;
+  }
+  .um-member-card {
+    text-align: center;
+  }
+  rs-module-wrap .Slide02-Title p {
+    font-size: 30px;
+  }
+  .Slide07-Title p {
+    font-size: 30px;
+  }
+  .tz-vehicle-search.type2 .vehicle-search-form .car-search-submit {
+    margin-left: 0;
+  }
+  .vehicle-detail .pcd-pricing {
+    text-align: left;
+  }
+  .autoshowroom-ads.autoshowroom-ads-type1.autoshowroom-ads-image-text .autoshowroom-ads-text .autoshowroom-ads-text-box {
+    max-width: 480px;
+    right: unset;
+    left: 30px;
+  }
+  .autoshowroom-ads .autoshowroom-ads-text .autoshowroom-ads-text-box .autoshowroom-ads-description {
+    h2, h3, h4 {
+      margin-bottom: 5px;
+    }
+  }
+  .tz_revolution {
+    .tz_title {
+      font-size: 25px !important;
+      top: 35px;
+    }
+    .tz_description {
+      font-size: 12px !important;
+      width: 320px !important;
+    }
+    .tz_button {
+      font-size: 12px !important;
+    }
+  }
+  header.tz-header.tz-header-6 .tz-menu-header .row .tz-megamenu{
+    margin-right: 0;
+  }
+}
+
+@media screen and (max-width: 575px) and (max-height: 500px) {
+  .landing_page .about_theme {
+    h1 {
+      span {
+        font-size: 29px;
+      }
+      margin-bottom: 12px;
+    }
+    p {
+      margin-bottom: 20px;
+    }
+  }
+  .landing_page .about_theme .about_control a, .landing_page .about_theme .about_control a.auto_btn {
+    padding: 10px 35px;
+  }
+  .landing_image::before {
+    bottom: 50px;
+  }
+}
+
+@media only screen and (max-width: 480px) {
+  .tz-autoshoowroom-vehicle-search .tz-vehicle-search.type3{
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    -moz-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    -o-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    right: unset;
+    margin: 0;
+  }
+  .autoshowroom-service.style1 {
+    margin-left: 50px;
+  }
+  .speaker_box.tz_md_modal_show .autoshowroom_our_team_full {
+    width: auto;
+  }
+  .autoshowroom-contact .autoshowroom-contact-overlay .autoshowroom-contact-content {
+    .autoshowroom-contact-message {
+      font-size: 24px;
+      width: 100%;
+      margin-left: 0;
+      p {
+        font-size: 24px;
+      }
+    }
+  }
+  .autoshowroom-pricing {
+    margin: 30px auto;
+  }
+  .tel_countdown .container #tel-countdown__timer {
+    flex-direction: column;
+    align-items: center;
+  }
+  .tel_countdown .container #tel-countdown__timer .tel-countdown__item {
+    margin: 30px !important;
+    width: auto !important;
+  }
+
+  .about-us .autoshowroom-lightgallery ul li img.light-thumb {
+    height: 223px;
+    min-height: auto;
+  }
+  .about-us .autoshowroom-service .autoshowroom-service-icon {
+    margin-left: 20px;
+  }
+  .about-us .autoshowroom-service p.autoshowroom-service-description {
+    margin-left: 90px;
+  }
+  .about-us .autoshowroom-service h3.autoshowroom-service-title {
+    margin-left: 90px;
+  }
+  .about-us .autoshowroom_member_image img {
+    height: 225px;
+    min-height: auto;
+  }
+  .about-us .autoshowroom_member_image .autoshowroom_member_content {
+    padding-top: 50px;
+  }
+  .about-us .autoshowroom_member_image .autoshowroom_member_content h6 {
+    font-size: 9px;
+  }
+  .about-us .autoshowroom_member_image .autoshowroom_member_content p {
+    font-size: 9px;
+    padding-top: 3px;
+  }
+  .about-us .autoshowroom_member_image .autoshowroom_member_content .autoshowroom_social {
+    padding-top: 0;
+  }
+  .about-us .autoshowroom_member_image .autoshowroom_member_content .autoshowroom_social i {
+    font-size: 14px;
+  }
+  .about-us .autoshowroom-contact .autoshowroom-contact-overlay .autoshowroom-contact-content .autoshowroom-contact-message {
+    font-size: 15px;
+    padding-top: 40px;
+  }
+  .about-us .autoshowroom-contact .autoshowroom-contact-overlay .autoshowroom-contact-content a.autoshowroom-contact-button {
+    font-size: 5px;
+    margin-top: -25px;
+  }
+  .service2 .service_title {
+    p {
+      padding-right: 0;
+      padding-left: 0;
+    }
+  }
+  .service2 .autoshowroom-our-process.yesleft:last-child {
+    padding-bottom: 50px;
+  }
+  .service2 .autoshowroom-title.autoshowroom-title-left {
+    padding: 0;
+  }
+  .service2 .tzElement_viewService {
+    margin: 0;
+    padding: 0;
+    .owl-next {
+      display: none !important;
+    }
+    .owl-prev {
+      display: none !important;
+    }
+  }
+  .service2 .service_process_text {
+    padding-right: 0;
+    padding-left: 0;
+    height: auto;
+    .service_textbox {
+      display: none;
+    }
+  }
+  .service2 .autoshowroom-title p {
+    margin: 0 20px;
+  }
+  .service2 .service_process_text {
+    img {
+      display: none;
+    }
+  }
+  body .slick-list {
+    height: auto !important;
+  }
+  .autoshowroom-blog .autoshowroom-blog-body.autoshowroom-style-grid .grid-col-2 {
+    width: 100%;
+  }
+  .autoshowroom-blog .autoshowroom-blog-body .autoshowroom-blog-item .autoshowroom-blog-item-wrap .autoshowroom-blog-item-content .autoshowroom-blog-item-share {
+    margin-right: 0;
+  }
+  .autoshowroom-our-process .autoshowroom-counter-icon {
+    left: 50%;
+    @include transform(translateX(-50%));
+  }
+  .autoshowroom-ads .tz_newsletter form input.tnp-email {
+    width: 220px;
+    padding-left: 20px;
+  }
+  .autoshowroom-ads.autoshowroom-ads-type1.autoshowroom-ads-text-image .autoshowroom-ads-text .autoshowroom-ads-text-box {
+    padding-left: 15px;
+  }
+  .autoshowroom-ads.autoshowroom-ads-type1.autoshowroom-ads-image-text .autoshowroom-ads-text .autoshowroom-ads-text-box {
+    left: 15px;
+  }
+  .tzView_Service_Grid .tzView_Service_Content h3, .speaker_box h4, .autoshowroom-quote-type4 .autoshowroom-quote-content p, .tz_blogservice .blog_content__item.blog-style-3 h3 a {
+    font-size: 14px;
+  }
+  .tz_blogservice .blog_content__item.blog-style-3 h3 a {
+    display: block;
+    line-height: 1.5em;
+  }
+  .tzView_Service_Grid .tzView_Service_Content {
+    @include transform(translate(0, -42px));
+  }
+  .tz-header {
+    div.tz-header-cart {
+      right: 90px;
+      .widget_shopping_cart {
+        right: -80px;
+      }
+    }
+    .tz_logo img {
+      max-height: 30px;
+    }
+  }
+  .tz-header.tz_hservice {
+    .tz_logo img {
+      max-height: 40px;
+      height: auto;
+      width:auto;
+      max-width:200px;
+    }
+    #mega-menu-wrap-primary .mega-menu-toggle {
+      top: 20px;
+    }
+    #mega-menu-wrap-primary .mega-menu-toggle.mega-menu-open + #mega-menu-primary {
+      margin-top: 82px;
+    }
+  }
+  .autoshowroom-ads .autoshowroom-ads-text .autoshowroom-ads-text-box .autoshowroom-ads-description {
+    width: 100%;
+  }
+  .autoshowroom-quote-type4 {
+    .autoshowroom-quote-image-box img {
+      width: 65px;
+    }
+    .autoshowroom-quote-content {
+      h2, h3, h4 {
+        font-size: 18px;
+        line-height: 1.3em;
+      }
+    }
+    h3 {
+      font-size: 12px;
+    }
+    .autoshowroom-quote-item {
+      padding-bottom: 120px;
+    }
+    .autoshowroom-quote-info > img {
+      width: 40px;
+      height: auto;
+    }
+  }
+  .tz-header {
+    #mega-menu-wrap-primary-home-9 {
+      .mega-menu-toggle {
+        top: 20px;
+      }
+    }
+  }
+
+  .autoshowroom-counter.autoshowroom-counter-style3.font-size-medium {
+    @include flex-box(flex);
+    justify-content: center;
+    -webkit-justify-content: center;
+    margin-left: 0;
+    .autoshowroom-counter-content {
+      margin-left: 15px;
+      min-width: 110px;
+    }
+  }
+  .autoshowroom-ads.autoshowroom-ads-type1 .autoshowroom-ads-text .autoshowroom-ads-text-box p {
+    max-width: 90%;
+  }
+  .autoshowroom-footer-service .footer-bottom .autoshowroom-footer-bottom-right .textwidget {
+    display: block;
+    ul {
+      width: 100%;
+      margin-bottom: 15px;
+    }
+  }
+}
+
+@media screen and (min-width: 400px) and (max-width: 480px) {
+  .landing_page .various-1 {
+    margin-right: 40px;
+  }
+  .landing_page .various-2 {
+    margin-top: -160px;
+    margin-left: 110px;
+  }
+  .landing_page .various-3 {
+    margin-top: -100px;
+    margin-left: 60px;
+    margin-right: 100px;
+  }
+  .landing_page .inventory-2 {
+    margin-top: -140px;
+    margin-left: 130px;
+  }
+  .landing_page .blog-3 {
+    margin-top: -440px;
+    margin-right: 0;
+    margin-left: 110px;
+  }
+  .landing_page .blog-2 {
+    margin-top: -130px;
+    margin-right: 170px;
+  }
+  .landing_page .dealer-3 {
+    margin-top: -270px;
+    margin-left: 240px;
+  }
+  .landing_page .dealer-2 {
+    margin-top: -100px;
+    margin-left: 15px;
+    margin-right: 120px;
+  }
+  .landing_page .dealer-1 {
+    margin-left: 40px;
+    margin-right: 30px;
+  }
+}
+
+@media (max-width: 365px) {
+  .about-us .autoshowroom-lightgallery ul li img.light-thumb {
+    height: 223px;
+    min-height: auto;
+  }
+  .about-us .autoshowroom-service .autoshowroom-service-icon {
+    width: 45px;
+    height: 45px;
+    margin-left: 20px;
+    padding: 13px 0;
+  }
+  .about-us .autoshowroom-service p.autoshowroom-service-description {
+    margin-right: 7px;
+  }
+  .about-us .speaker_box h4 {
+    font-size: 16px;
+  }
+  .about-us .speaker_box h5 {
+    font-size: 12px;
+  }
+  .about-us .autoshowroom_member_image img {
+    height: 225px;
+    min-height: auto;
+  }
+  .about-us .autoshowroom_member_image .autoshowroom_member_content {
+    padding-top: 45px;
+  }
+  .about-us .autoshowroom_member_image .autoshowroom_member_content h6 {
+    font-size: 9px;
+  }
+  .about-us .autoshowroom_member_image .autoshowroom_member_content p {
+    font-size: 9px;
+    padding-top: 3px;
+  }
+  .about-us .autoshowroom_member_image .autoshowroom_member_content .autoshowroom_social {
+    padding-top: 0;
+  }
+  .about-us .autoshowroom_member_image .autoshowroom_member_content .autoshowroom_social i {
+    font-size: 14px;
+  }
+  .about-us .autoshowroom-contact .autoshowroom-contact-overlay .autoshowroom-contact-content .autoshowroom-contact-message {
+    font-size: 10px;
+    padding-top: 0;
+  }
+  .tz_revolution {
+    .tz_title {
+      font-size: 20px !important;
+      top: 45px;
+    }
+    .tz_description {
+      font-size: 12px !important;
+      width: 300px !important;
+    }
+    .tz_button {
+      font-size: 12px !important;
+      height: 36px !important;
+      width: auto !important;
+      line-height: 1em !important;
+      padding: 12px 25px !important;
+      position: relative;
+      top: -15px;
+    }
+  }
+  .autoshowroom-title, .wpb_text_column, .autoshowroom-lightgallery, .autoshowroom-list, .autoshowroom-our-process {
+    padding: 0;
+  }
+  .tz_margin-rp .tz_button {
+    padding-left: 0;
+  }
+  .autoshowroom-ads .autoshowroom-ads-text .autoshowroom-ads-text-box .autoshowroom-ads-description h2 span {
+    width: 90%;
+    margin-bottom: 10px;
+  }
+  .autoshowroom-ads.autoshowroom-ads-type1 .autoshowroom-ads-text .autoshowroom-ads-text-box p{
+    line-height: 1.3em;
+    span{
+      display: block;
+      line-height: 1.3em;
+    }
+  }
+  .autoshowroom-service.style3 {
+    margin-left: 0;
+  }
+  .autoshowroom-ads .tz_newsletter form input.tnp-email {
+    width: 190px;
+  }
+}

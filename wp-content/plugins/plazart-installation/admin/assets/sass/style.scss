@@ -1,0 +1,302 @@
+@import "variable";
+@import "mixins";
+body{
+  background-color: #f1f1f1;
+}
+[class*="plazart-installation_page_plzinst"]{
+  #wpbody-content{
+    padding: 0 30px;
+  }
+  .notice, div.error, div.updated{
+    margin-left: 2px;
+  }
+  .update-nag{
+    margin-bottom: 10px;
+  }
+}
+.plazart-installation__wrap{
+  color: $gb-color;
+  *{
+    @include box-sizing(border-box);
+  }
+  @import "typo";
+  .row{
+    padding: 0;
+  }
+  .plazart-installation__header{
+    margin-bottom: 2.7em;
+    .title{
+      > sup{
+        display: block;
+      }
+    }
+  }
+  .plzinst-nav-bar{
+    padding: 0 15px;
+    background: #fff;
+    //margin-bottom: 25px;
+    border: 1px solid $nav-bd-color;
+    ul{
+      margin: 0;
+    }
+    .plzinst-nav-tab{
+      margin: 0;
+      padding: 0 20px;
+      display: inline-block;
+      &.plzinst-tab-active > a{
+        margin-bottom: -1px;
+        color: $gb-warning-color;
+        border-bottom: 1px solid $gb-warning-color;
+      }
+    }
+    a{
+      padding: 18px 0;
+      font-size: 1.2em;
+      display: inline-block;
+      text-decoration: none;
+      color: $gb-title-color;
+      @include transition(all 0.3s ease-in-out 0s);
+      &:hover, &:focus{
+        outline: none;
+        color: $gb-warning-color;
+        @include box-shadow(none);
+      }
+    }
+  }
+
+  //.toolbar {
+  //  padding: 15px;
+  //  background: #fff;
+  //  border: 1px solid $nav-bd-color;
+  //  > li{
+  //    padding: 0 10px;
+  //    display: inline-block;
+  //  }
+  //}
+  #plzinst-dashboard-widgets-wrap{
+    .btn{
+      @include button-size($btn-padding-y, $btn-padding-x);
+      @include transition($btn-transition);
+    }
+    h4{
+      font-size: 16px;
+      color: $gb-color;
+      font-weight: bold;
+    }
+    //.information{
+      .title{
+        margin-left: 0;
+        margin-right: 0;
+        font-weight: bold;
+        > *{
+          font-weight: normal;
+        }
+      }
+    .postbox,
+    .meta-box-sortables{
+      height: 100%;
+    }
+    [class^=plzinst-col]{
+      margin-bottom: 20px;
+    }
+    .btn{
+      margin-right: 8px;
+      //padding: .7rem 1.5rem;
+    }
+    //}
+    #plzinst-metaboxes__license{
+      .badge{
+        padding-top: 1px;
+        padding-bottom: 2px;
+      }
+    }
+    #plzinst-metaboxes__social{
+      .btn{
+        padding: .5rem .9rem;
+      }
+    }
+    .action{
+      margin-top: 25px;
+    }
+    .meta-box-sortables{
+      margin: 0 -5px;
+    }
+  }
+  .key{
+    //padding: 6px 0;
+    font-weight: 600;
+    //padding-top: 6px;
+    //padding-bottom: 6px;
+  }
+  .badge{
+    margin: 0 5px;
+  }
+  //.label{
+  //  font-size: 12px;
+  //  padding: 0 10px 2px;
+  //}
+  //.label-danger{
+  //  color: #fff;
+  //  background: $label-bg-danger-color;
+  //}
+  .expired{
+    margin-left: 10px;
+  }
+
+  .plzinst-demo-import{
+    //.box{
+    //  background: white;
+    //  margin-bottom: 25px;
+    //  border: 1px solid $nav-bd-color;
+    //}
+    //.box-content{
+    //  padding: 15px;
+    //}
+    &.no-license{
+      opacity: .3;
+      pointer-events: none;
+      -webkit-user-select: none;
+      -moz-user-select: none;
+      -ms-user-select: none;
+      user-select: none;
+    }
+    img{
+      max-width: 100%;
+    }
+    h3{
+      margin: 0;
+    }
+    .card-title{
+      > .badge{
+        font-size: .875rem;
+        position: relative;
+        top: -2px;
+      }
+    }
+  }
+  .custom-checkbox{
+    @include transition(background 0.3s ease-in-out 0s);
+    &:hover{
+      background-color: $checkbox-bg-hover;
+    }
+    .title{
+      font-weight: 600;
+    }
+  }
+  .plzinst-plugin__install{
+    .item{
+      font-weight: 600;
+    }
+    .title{
+      position: relative;
+      &:before{
+        content: "";
+        z-index: 0;
+        left: 0;
+        right: 5px;
+        bottom: 5px;
+        position: absolute;
+        border-bottom: 1px dotted darken($gb-bd-color, 10%);
+      }
+      > .position-relative{
+        z-index: 1;
+        padding-right: 3px;
+      }
+      .badge{
+        position: relative;
+        top: -7px;
+        margin-left: 0;
+        margin-right: 3px;
+      }
+    }
+    a:focus{
+      outline: none;
+      @include box-shadow(none);
+    }
+    .js-plzinst-plugin__install.activated{
+      cursor: default;
+      &:hover,
+      &:focus{
+        text-decoration: none;
+      }
+    }
+    .custom-control-label{
+      &:before, &:after{
+        top: 0.15rem;
+      }
+    }
+    //.custom-control-label{
+    //  top: -4px;
+    //}
+    .plzinst-plugin__actions{
+      > a:not(.d-none){
+        + a:before {
+          content: "|";
+          position: relative;
+          top: -1px;
+          padding: 0 5px 0 3px;
+          color: #6c757d;
+        }
+    }
+    }
+  }
+  .custom-checkbox{
+    &.importing{
+      .custom-control-label{
+          &:before{
+            content: "";
+            @include border-radius(50%);
+            border: 0.15em solid #007bff;
+            border-right-color: transparent;
+            -webkit-animation: spinner-border 0.75s linear infinite;
+            -o-animation: spinner-border 0.75s linear infinite;
+            animation: spinner-border 0.75s linear infinite;
+          }
+      }
+      .custom-control-input:checked~.custom-control-label{
+        &:before{
+          background-color: transparent;
+          border-right-color: transparent;
+        }
+        &:after{
+          background-image: none;
+        }
+      }
+    }
+    &.is-finished{
+      .custom-control-input:checked~.custom-control-label{
+        &:before{
+          background-color: transparent;
+          border-right-color: transparent;
+        }
+      }
+      .custom-control-label{
+        &:before{
+          border-color: transparent;
+          background-color: transparent;
+        }
+        &:after {
+          background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 8 8'%3e%3cpath fill='%235cb85c' d='M2.3 6.73L.6 4.53c-.4-1.04.46-1.4 1.1-.8l1.1 1.4 3.4-3.8c.6-.63 1.6-.27 1.2.7l-4 4.6c-.43.5-.8.4-1.1.1z'/%3e%3c/svg%3e");
+          background-size: .9em;
+          background-position: center right;
+        }
+      }
+    }
+  }
+  .js-plzinst-import{
+    &.importing .spinner-border{
+      display: inherit;
+    }
+    .spinner-border{
+      display: none;
+    }
+  }
+  .modal-footer{
+    .processing-box:not(.d-none) + .action{
+      margin-top: 1rem;
+    }
+  }
+  .plzinst-footer{
+    padding-bottom: 50px;
+  }
+}

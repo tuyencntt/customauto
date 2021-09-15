@@ -1,0 +1,3285 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Progression Car Dealer v1.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2014-04-08 14:51:54+0000\n"
+"Last-Translator: Jan Beck <mail@jancbeck.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: German\n"
+"X-Poedit-Country: GERMANY\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: includes/admin/class-car-dealer-admin.php:78
+#@ progression-car-dealer
+msgid "Edit assoziated Make"
+msgstr "Verknüpfte Marke bearbeiten"
+
+#: includes/admin/class-car-dealer-admin.php:91
+#: includes/class-car-dealer-fields.php:687
+#: includes/class-car-dealer-fields.php:704
+#@ progression-car-dealer
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: includes/admin/class-car-dealer-menu.php:43
+#@ progression-car-dealer
+msgid "Car Dealer Archive"
+msgstr "Fahrzeugarchiv"
+
+#: includes/admin/class-car-dealer-menu.php:56
+#@ default
+msgid "Archive"
+msgstr ""
+
+#: includes/admin/class-car-dealer-menu.php:80
+#@ default
+msgid "Add to Menu"
+msgstr ""
+
+#: includes/class-car-dealer-customs.php:28
+#: includes/class-car-dealer-fields.php:49
+#: includes/class-car-dealer-widgets.php:174
+#@ progression-car-dealer
+msgid "Vehicle Type"
+msgstr "Fahrzeugtyp"
+
+#: includes/class-car-dealer-customs.php:29
+#@ progression-car-dealer
+msgid "Vehicle Types"
+msgstr "Fahrzeugtypen"
+
+#: includes/class-car-dealer-customs.php:37
+#: includes/class-car-dealer-customs.php:60
+#: includes/class-car-dealer-customs.php:83
+#: includes/class-car-dealer-customs.php:117
+#, php-format
+#@ progression-car-dealer
+msgid "Search %s"
+msgstr "Suche %s"
+
+#: includes/class-car-dealer-customs.php:38
+#: includes/class-car-dealer-customs.php:61
+#: includes/class-car-dealer-customs.php:84
+#: includes/class-car-dealer-customs.php:109
+#, php-format
+#@ progression-car-dealer
+msgid "All %s"
+msgstr "Alle %s"
+
+#: includes/class-car-dealer-customs.php:39
+#: includes/class-car-dealer-customs.php:62
+#: includes/class-car-dealer-customs.php:85
+#: includes/class-car-dealer-customs.php:120
+#, php-format
+#@ progression-car-dealer
+msgid "Parent %s"
+msgstr "Eltern-%s"
+
+#: includes/class-car-dealer-customs.php:40
+#: includes/class-car-dealer-customs.php:63
+#: includes/class-car-dealer-customs.php:86
+#, php-format
+#@ progression-car-dealer
+msgid "Parent %s:"
+msgstr "Eltern-%s:"
+
+#: includes/class-car-dealer-customs.php:41
+#: includes/class-car-dealer-customs.php:64
+#: includes/class-car-dealer-customs.php:87
+#: includes/class-car-dealer-customs.php:113
+#, php-format
+#@ progression-car-dealer
+msgid "Edit %s"
+msgstr "%s bearbeiten"
+
+#: includes/class-car-dealer-customs.php:42
+#: includes/class-car-dealer-customs.php:65
+#: includes/class-car-dealer-customs.php:88
+#, php-format
+#@ progression-car-dealer
+msgid "Update %s"
+msgstr "%s aktualisieren"
+
+#: includes/class-car-dealer-customs.php:43
+#: includes/class-car-dealer-customs.php:66
+#: includes/class-car-dealer-customs.php:89
+#, php-format
+#@ progression-car-dealer
+msgid "Add New %s"
+msgstr "Neues %s hinzufügen"
+
+#: includes/class-car-dealer-customs.php:44
+#: includes/class-car-dealer-customs.php:67
+#: includes/class-car-dealer-customs.php:90
+#, php-format
+#@ progression-car-dealer
+msgid "New %s Name"
+msgstr "Neuer Name für %s"
+
+#: includes/class-car-dealer-customs.php:51
+#: includes/class-car-dealer-fields.php:57
+#@ progression-car-dealer
+msgid "Make"
+msgstr "Marke"
+
+#: includes/class-car-dealer-customs.php:52
+#@ progression-car-dealer
+msgid "Makes"
+msgstr "Marken"
+
+#: includes/class-car-dealer-customs.php:74
+#: includes/class-car-dealer-fields.php:66
+#@ progression-car-dealer
+msgid "Model"
+msgstr "Model"
+
+#: includes/class-car-dealer-customs.php:75
+#@ progression-car-dealer
+msgid "Models"
+msgstr "Modelle"
+
+#: includes/class-car-dealer-customs.php:100
+#@ progression-car-dealer
+msgid "Vehicle"
+msgstr "Fahrzeug"
+
+#: includes/class-car-dealer-customs.php:101
+#@ progression-car-dealer
+msgid "Vehicles"
+msgstr "Fahrzeuge"
+
+#: includes/class-car-dealer-customs.php:104
+#@ progression-car-dealer
+msgid "This is where you can create and manage vehicles."
+msgstr "Hier kannst du Fahrzeuge erstellen und verwalten."
+
+#: includes/class-car-dealer-customs.php:110
+#: includes/library/acf/acf.php:487
+#: includes/library/acf-flexible-content/views/options.php:54
+#@ progression-car-dealer
+#@ acf
+msgid "Add New"
+msgstr "Neu hinzufügen"
+
+#: includes/class-car-dealer-customs.php:111
+#, php-format
+#@ progression-car-dealer
+msgid "Add %s"
+msgstr "%s hinzufügen"
+
+#: includes/class-car-dealer-customs.php:112
+#: includes/library/acf/core/fields/image.php:84
+#: includes/library/acf/core/views/meta_box_fields.php:108
+#: includes/library/acf-flexible-content/views/options.php:168
+#: includes/library/acf-gallery/gallery.php:154
+#: includes/library/acf-gallery/gallery.php:205
+#@ progression-car-dealer
+#@ acf
+msgid "Edit"
+msgstr "Bearbeiten"
+
+#: includes/class-car-dealer-customs.php:114
+#, php-format
+#@ progression-car-dealer
+msgid "New %s"
+msgstr "Neues %s"
+
+#: includes/class-car-dealer-customs.php:115
+#: includes/class-car-dealer-customs.php:116
+#, php-format
+#@ progression-car-dealer
+msgid "View %s"
+msgstr "Zeige %s"
+
+#: includes/class-car-dealer-customs.php:118
+#, php-format
+#@ progression-car-dealer
+msgid "No %s found"
+msgstr "Kein %s gefunden"
+
+#: includes/class-car-dealer-customs.php:119
+#, php-format
+#@ progression-car-dealer
+msgid "No %s found in trash"
+msgstr "Kein %s im Papierkorb gefunden"
+
+#: includes/class-car-dealer-customs.php:136
+#@ progression-car-dealer
+msgid "inventory"
+msgstr "Fuhrpark"
+
+#: includes/class-car-dealer-fields.php:28
+#@ progression-car-dealer
+msgid "Silver"
+msgstr "Silber"
+
+#: includes/class-car-dealer-fields.php:29
+#: includes/class-car-dealer-fields.php:40
+#@ progression-car-dealer
+msgid "Black"
+msgstr "Schwarz"
+
+#: includes/class-car-dealer-fields.php:30
+#: includes/class-car-dealer-fields.php:41
+#@ progression-car-dealer
+msgid "White"
+msgstr "Weiß"
+
+#: includes/class-car-dealer-fields.php:31
+#: includes/library/acf/core/fields/radio.php:150
+#@ progression-car-dealer
+#@ acf
+msgid "Red"
+msgstr "Rot"
+
+#: includes/class-car-dealer-fields.php:32
+#: includes/library/acf/core/fields/radio.php:151
+#@ progression-car-dealer
+#@ acf
+msgid "Blue"
+msgstr "Blau"
+
+#: includes/class-car-dealer-fields.php:33
+#@ progression-car-dealer
+msgid "Brown/Beige"
+msgstr "Braun/Beige"
+
+#: includes/class-car-dealer-fields.php:34
+#@ progression-car-dealer
+msgid "Yellow"
+msgstr "Gelb"
+
+#: includes/class-car-dealer-fields.php:35
+#@ progression-car-dealer
+msgid "Green"
+msgstr "Grün"
+
+#: includes/class-car-dealer-fields.php:42
+#@ progression-car-dealer
+msgid "Brown (Leather)"
+msgstr "Braun (Leder)"
+
+#: includes/class-car-dealer-fields.php:75
+#: includes/class-car-dealer-shortcodes.php:311
+#@ progression-car-dealer
+msgid "Price"
+msgstr "Preis"
+
+#: includes/class-car-dealer-fields.php:77
+#@ progression-car-dealer
+msgid "The price that the customer will have to pay."
+msgstr "Der Preis, den der Kunde zu zahlen hat."
+
+#: includes/class-car-dealer-fields.php:92
+#@ progression-car-dealer
+msgid "Use integers to set the listing price."
+msgstr "Benutze ganze Zahlen für den Listenpreis"
+
+#: includes/class-car-dealer-fields.php:105
+#@ progression-car-dealer
+msgid "Registration date"
+msgstr "Zulassung"
+
+#: includes/class-car-dealer-fields.php:108
+#@ progression-car-dealer
+msgid "The year of first registration"
+msgstr "Das Jahr der Erstzulassung"
+
+#: includes/class-car-dealer-fields.php:110
+#@ progression-car-dealer
+msgid "e.g. 2009"
+msgstr "z.B. 2009"
+
+#: includes/class-car-dealer-fields.php:117
+#@ progression-car-dealer
+msgid "Mileage"
+msgstr "Kilometerstand"
+
+#: includes/class-car-dealer-fields.php:120
+#@ progression-car-dealer
+msgid "The number of miles travelled or covered"
+msgstr "Die zurückgelegte Strecke"
+
+#: includes/class-car-dealer-fields.php:122
+#@ progression-car-dealer
+msgid "e.g. 70000"
+msgstr "z.B. 70000"
+
+#: includes/class-car-dealer-fields.php:131
+#@ progression-car-dealer
+msgid "Condition"
+msgstr "Zustand"
+
+#: includes/class-car-dealer-fields.php:136
+#@ progression-car-dealer
+msgid "New"
+msgstr "Neu"
+
+#: includes/class-car-dealer-fields.php:137
+#@ progression-car-dealer
+msgid "Used"
+msgstr "Benutzt"
+
+#: includes/class-car-dealer-fields.php:138
+#@ progression-car-dealer
+msgid "Certified Pre-Owned"
+msgstr "zertifiziert gebraucht"
+
+#: includes/class-car-dealer-fields.php:145
+#@ progression-car-dealer
+msgid "Exterior Color"
+msgstr "Außenfarbe"
+
+#: includes/class-car-dealer-fields.php:156
+#@ progression-car-dealer
+msgid "Interior Color"
+msgstr "Innenfarbe"
+
+#: includes/class-car-dealer-fields.php:167
+#@ progression-car-dealer
+msgid "Transmission"
+msgstr "Gangschaltung"
+
+#: includes/class-car-dealer-fields.php:171
+#@ progression-car-dealer
+msgid "Automatic"
+msgstr "Automatik"
+
+#: includes/class-car-dealer-fields.php:172
+#@ progression-car-dealer
+msgid "Manual"
+msgstr "Schaltung"
+
+#: includes/class-car-dealer-fields.php:179
+#@ progression-car-dealer
+msgid "Engine"
+msgstr "Motor"
+
+#: includes/class-car-dealer-fields.php:190
+#@ progression-car-dealer
+msgid "Drivetrain"
+msgstr "Antrieb"
+
+#: includes/class-car-dealer-fields.php:194
+#@ progression-car-dealer
+msgid "FWD"
+msgstr "Vorderradantrieb"
+
+#: includes/class-car-dealer-fields.php:195
+#@ progression-car-dealer
+msgid "RWD"
+msgstr "Hinterradantrieb"
+
+#: includes/class-car-dealer-fields.php:196
+#@ progression-car-dealer
+msgid "4WD"
+msgstr "Vierradantrieb"
+
+#: includes/class-car-dealer-fields.php:714
+#@ progression-car-dealer
+msgid "Mileage unit"
+msgstr "Einheit für Kilometerstand"
+
+#: includes/class-car-dealer-fields.php:718
+#@ progression-car-dealer
+msgid "Miles (mi)"
+msgstr "Meilen (mi)"
+
+#: includes/class-car-dealer-fields.php:719
+#@ progression-car-dealer
+msgid "Kilometer (km)"
+msgstr "Kilometer (km)"
+
+#: includes/class-car-dealer-fields.php:728
+#@ progression-car-dealer
+msgid "Currency symbol"
+msgstr "Währungssymbol"
+
+#: includes/class-car-dealer-fields.php:744
+#@ progression-car-dealer
+msgid "Symbol placement"
+msgstr "Position des Währungssymbol"
+
+#: includes/class-car-dealer-fields.php:758
+#@ progression-car-dealer
+msgid "Thousands separator"
+msgstr "Tausendertrennzeichen"
+
+#: includes/class-car-dealer-fields.php:762
+#@ progression-car-dealer
+msgid "Space"
+msgstr "Leerzeichen"
+
+#: includes/class-car-dealer-fields.php:763
+#@ progression-car-dealer
+msgid "Comma"
+msgstr "Komma"
+
+#: includes/class-car-dealer-fields.php:764
+#@ progression-car-dealer
+msgid "Dot"
+msgstr "Punkt"
+
+#: includes/class-car-dealer-fields.php:772
+#: includes/library/acf/core/controllers/field_group.php:364
+#: includes/library/acf/core/controllers/field_group.php:395
+#: includes/library/acf/core/controllers/field_group.php:457
+#: includes/library/acf/core/controllers/field_groups.php:148
+#@ progression-car-dealer
+#@ acf
+msgid "Fields"
+msgstr "Felder"
+
+#: includes/class-car-dealer-fields.php:778
+#@ progression-car-dealer
+msgid "Fields to exclude"
+msgstr "Felder ausschließen"
+
+#: includes/class-car-dealer-fields.php:788
+#: includes/class-car-dealer-fields.php:898
+#@ progression-car-dealer
+msgid "Add custom fields"
+msgstr "Eigene Felder hinzufügen"
+
+#: includes/class-car-dealer-fields.php:793
+#@ progression-car-dealer
+msgid "Number field"
+msgstr "Nummernfeld"
+
+#: includes/class-car-dealer-fields.php:801
+#: includes/class-car-dealer-fields.php:864
+#: includes/class-car-dealer-shortcodes.php:312
+#: includes/library/acf/core/controllers/field_groups.php:420
+#: includes/library/acf/core/fields/file.php:109
+#@ progression-car-dealer
+#@ acf
+msgid "Name"
+msgstr "Name"
+
+#: includes/class-car-dealer-fields.php:806
+#@ progression-car-dealer
+msgid "E.g. \"Horsepower\""
+msgstr "z.B. \\\"Pferdestärken\\\""
+
+#: includes/class-car-dealer-fields.php:814
+#@ progression-car-dealer
+msgid "Minimum value"
+msgstr "Mindestwert"
+
+#: includes/class-car-dealer-fields.php:828
+#@ progression-car-dealer
+msgid "Maximum value"
+msgstr "Maximalwert"
+
+#: includes/class-car-dealer-fields.php:842
+#: includes/library/acf/core/fields/email.php:153
+#: includes/library/acf/core/fields/number.php:163
+#: includes/library/acf/core/fields/password.php:135
+#: includes/library/acf/core/fields/text.php:161
+#@ progression-car-dealer
+#@ acf
+msgid "Append"
+msgstr "hinten anfügen"
+
+#: includes/class-car-dealer-fields.php:847
+#@ progression-car-dealer
+msgid "e.g. \"PS\""
+msgstr "z.B. \\\"PS\\\""
+
+#: includes/class-car-dealer-fields.php:856
+#@ progression-car-dealer
+msgid "Options field"
+msgstr "Auswahlfeld"
+
+#: includes/class-car-dealer-fields.php:869
+#@ progression-car-dealer
+msgid "E.g. \"Fuel Type\""
+msgstr "z.B. \\\"Treibstoff\\\""
+
+#: includes/class-car-dealer-fields.php:877
+#: includes/library/acf/core/fields/checkbox.php:146
+#: includes/library/acf/core/fields/radio.php:147
+#: includes/library/acf/core/fields/select.php:177
+#@ progression-car-dealer
+#@ acf
+msgid "Choices"
+msgstr "Auswahlmöglichkeiten"
+
+#: includes/class-car-dealer-fields.php:880
+#@ progression-car-dealer
+msgid "Options separated by comma e.g. Petrol, Diesel, Gas, Hybrid"
+msgstr "Kommagetrennte Werte z.B. Benzin, Diesel, Gas, Hybrid"
+
+#: includes/class-car-dealer-fields.php:892
+#@ acf
+msgid "Add new custom field"
+msgstr "Neues eigenes Feld hinzufügen"
+
+#: includes/class-car-dealer-fields.php:905
+#@ progression-car-dealer
+msgid "Shortcodes"
+msgstr "Shortcodes"
+
+#: includes/class-car-dealer-fields.php:911
+#@ progression-car-dealer
+msgid "1. Select vehicles:"
+msgstr "1. Fahrzeuge auswählen:"
+
+#: includes/class-car-dealer-fields.php:932
+#: includes/class-car-dealer-fields.php:939
+#@ progression-car-dealer
+msgid "Your Shortcode"
+msgstr "Dein Shortcode"
+
+#: includes/class-car-dealer-fields.php:942
+#@ progression-car-dealer
+msgid "3. Paste your shortcode to a text widget or post or page"
+msgstr "3. Füge deinen Shortcode in ein Textwidget, Beitrag oder Seite ein."
+
+#: includes/class-car-dealer-fields.php:969
+#@ progression-car-dealer
+msgid "Make Association"
+msgstr "Markenverknüpfung"
+
+#: includes/class-car-dealer-fields.php:973
+#@ progression-car-dealer
+msgid "Associated Make"
+msgstr "Verknüpfte Marke"
+
+#: includes/class-car-dealer-install.php:33
+#@ progression-car-dealer
+msgid "Car"
+msgstr "Auto"
+
+#: includes/class-car-dealer-install.php:34
+#@ progression-car-dealer
+msgid "Motorcycle"
+msgstr "Motorrad"
+
+#: includes/class-car-dealer-install.php:35
+#@ progression-car-dealer
+msgid "Truck"
+msgstr "LKW"
+
+#: includes/class-car-dealer-fields.php:280
+#: includes/class-car-dealer-shortcodes.php:57
+#: includes/class-car-dealer-shortcodes.php:223
+#: includes/class-car-dealer-shortcodes.php:541
+#@ progression-car-dealer
+msgid "label"
+msgstr "Beschriftung"
+
+#: includes/class-car-dealer-shortcodes.php:109
+#@ progression-car-dealer
+msgid "MSRP.:"
+msgstr "Preisempfehlung:"
+
+#: includes/class-car-dealer-shortcodes.php:112
+#@ progression-car-dealer
+msgid "Our Price:"
+msgstr "Unser Preis:"
+
+#: includes/class-car-dealer-shortcodes.php:136
+#@ progression-car-dealer
+msgid "Search Inventory"
+msgstr "Fuhrpark durchsuchen"
+
+#: includes/class-car-dealer-shortcodes.php:293
+#@ progression-car-dealer
+msgid "Keyword:"
+msgstr "Stichwort:"
+
+#: includes/class-car-dealer-shortcodes.php:294
+#@ progression-car-dealer
+msgid "Search ..."
+msgstr "Suchen ..."
+
+#: includes/class-car-dealer-shortcodes.php:307
+#@ progression-car-dealer
+msgid "Sorting:"
+msgstr "Sortierung:"
+
+#: includes/class-car-dealer-shortcodes.php:309
+#@ progression-car-dealer
+msgid "Order by"
+msgstr "Sortiere nach"
+
+#: includes/class-car-dealer-shortcodes.php:310
+#@ progression-car-dealer
+msgid "Date"
+msgstr "Datum"
+
+#: includes/class-car-dealer-shortcodes.php:315
+#@ progression-car-dealer
+msgid "Sort order"
+msgstr "Reihenfolge"
+
+#: includes/class-car-dealer-shortcodes.php:316
+#@ progression-car-dealer
+msgid "Descending"
+msgstr "Absteigend"
+
+#: includes/class-car-dealer-shortcodes.php:317
+#@ progression-car-dealer
+msgid "Ascending"
+msgstr "Aufsteigend"
+
+#: includes/class-car-dealer-shortcodes.php:547
+#@ progression-car-dealer
+msgid "Lowest value to accept"
+msgstr "Niedrigster akzeptierter Wert"
+
+#: includes/class-car-dealer-shortcodes.php:549
+#: includes/class-car-dealer-shortcodes.php:561
+#@ progression-car-dealer
+msgid "Any"
+msgstr "Alle"
+
+#: includes/class-car-dealer-shortcodes.php:559
+#@ progression-car-dealer
+msgid "Highest value to accept"
+msgstr "Höchster akzeptierter Wert"
+
+#: includes/class-car-dealer-shortcodes.php:234
+#: includes/class-car-dealer-widgets.php:132
+#: includes/library/acf/core/controllers/field_group.php:757
+#: includes/library/acf/core/controllers/field_group.php:778
+#: includes/library/acf/core/controllers/field_group.php:785
+#: includes/library/acf/core/fields/file.php:186
+#: includes/library/acf/core/fields/image.php:170
+#: includes/library/acf/core/fields/page_link.php:109
+#: includes/library/acf/core/fields/post_object.php:274
+#: includes/library/acf/core/fields/post_object.php:298
+#: includes/library/acf/core/fields/relationship.php:601
+#: includes/library/acf/core/fields/relationship.php:625
+#: includes/library/acf/core/fields/user.php:276
+#: includes/library/acf-gallery/gallery.php:269
+#@ progression-car-dealer
+#@ acf
+msgid "All"
+msgstr "Alle"
+
+#: includes/class-car-dealer-widgets.php:155
+#@ progression-car-dealer
+msgid "Display a list of the most recent vehicles on your site."
+msgstr "Zeigt eine Liste der neuesten Fahrzeuge auf der Seite."
+
+#: includes/class-car-dealer-widgets.php:157
+#@ progression-car-dealer
+msgid "Recent Vehicle Listings"
+msgstr "Liste neuester Fahrzeuge"
+
+#: includes/class-car-dealer-widgets.php:161
+#@ progression-car-dealer
+msgid "Recent Vehicles"
+msgstr "Neueste Fahrzeuge"
+
+#: includes/class-car-dealer-widgets.php:162
+#: includes/library/acf/core/controllers/field_groups.php:147
+#: includes/library/acf-gallery/gallery.php:132
+#: includes/library/acf-gallery/gallery.php:183
+#@ progression-car-dealer
+#@ default
+#@ acf
+msgid "Title"
+msgstr "Titel"
+
+#: includes/class-car-dealer-widgets.php:170
+#@ progression-car-dealer
+msgid "Number of vehicles to show"
+msgstr "Anzahl an Fahrzeugen"
+
+#: includes/library/acf/acf.php:485
+#@ acf
+msgid "Field&nbsp;Groups"
+msgstr ""
+
+#: includes/library/acf/acf.php:486
+#: includes/library/acf/core/controllers/field_groups.php:214
+#@ acf
+msgid "Advanced Custom Fields"
+msgstr ""
+
+#: includes/library/acf/acf.php:488
+#@ acf
+msgid "Add New Field Group"
+msgstr ""
+
+#: includes/library/acf/acf.php:489
+#@ acf
+msgid "Edit Field Group"
+msgstr ""
+
+#: includes/library/acf/acf.php:490
+#@ acf
+msgid "New Field Group"
+msgstr ""
+
+#: includes/library/acf/acf.php:491
+#@ acf
+msgid "View Field Group"
+msgstr ""
+
+#: includes/library/acf/acf.php:492
+#@ acf
+msgid "Search Field Groups"
+msgstr ""
+
+#: includes/library/acf/acf.php:493
+#@ acf
+msgid "No Field Groups found"
+msgstr ""
+
+#: includes/library/acf/acf.php:494
+#@ acf
+msgid "No Field Groups found in Trash"
+msgstr ""
+
+#: includes/library/acf/acf.php:579
+#: includes/library/acf/core/views/meta_box_options.php:99
+#@ acf
+msgid "Custom Fields"
+msgstr ""
+
+#: includes/library/acf/acf.php:597
+#: includes/library/acf/acf.php:600
+#@ acf
+msgid "Field group updated."
+msgstr ""
+
+#: includes/library/acf/acf.php:598
+#@ acf
+msgid "Custom field updated."
+msgstr ""
+
+#: includes/library/acf/acf.php:599
+#@ acf
+msgid "Custom field deleted."
+msgstr ""
+
+#. translators: %s: date and time of the revision
+#: includes/library/acf/acf.php:602
+#, php-format
+#@ acf
+msgid "Field group restored to revision from %s"
+msgstr ""
+
+#: includes/library/acf/acf.php:603
+#@ acf
+msgid "Field group published."
+msgstr ""
+
+#: includes/library/acf/acf.php:604
+#@ acf
+msgid "Field group saved."
+msgstr ""
+
+#: includes/library/acf/acf.php:605
+#@ acf
+msgid "Field group submitted."
+msgstr ""
+
+#: includes/library/acf/acf.php:606
+#@ acf
+msgid "Field group scheduled for."
+msgstr ""
+
+#: includes/library/acf/acf.php:607
+#@ acf
+msgid "Field group draft updated."
+msgstr ""
+
+#: includes/library/acf/acf.php:742
+#@ acf
+msgid "Thumbnail"
+msgstr ""
+
+#: includes/library/acf/acf.php:743
+#@ acf
+msgid "Medium"
+msgstr ""
+
+#: includes/library/acf/acf.php:744
+#@ acf
+msgid "Large"
+msgstr ""
+
+#: includes/library/acf/acf.php:745
+#@ acf
+msgid "Full"
+msgstr ""
+
+#: includes/library/acf/core/actions/export.php:26
+#: includes/library/acf/core/views/meta_box_fields.php:58
+#@ acf
+msgid "Error"
+msgstr ""
+
+#: includes/library/acf/core/actions/export.php:33
+#@ acf
+msgid "No ACF groups selected"
+msgstr ""
+
+#: includes/library/acf/core/api.php:1171
+#@ acf
+msgid "Update"
+msgstr ""
+
+#: includes/library/acf/core/api.php:1172
+#@ acf
+msgid "Post updated"
+msgstr ""
+
+#: includes/library/acf/core/controllers/addons.php:42
+#: includes/library/acf/core/controllers/field_groups.php:307
+#@ acf
+msgid "Add-ons"
+msgstr ""
+
+#: includes/library/acf/core/controllers/addons.php:130
+#: includes/library/acf/core/controllers/field_groups.php:429
+#@ acf
+msgid "Repeater Field"
+msgstr ""
+
+#: includes/library/acf/core/controllers/addons.php:131
+#@ acf
+msgid "Create infinite rows of repeatable data with this versatile interface!"
+msgstr ""
+
+#: includes/library/acf/core/controllers/addons.php:137
+#: includes/library/acf/core/controllers/field_groups.php:437
+#@ acf
+msgid "Gallery Field"
+msgstr ""
+
+#: includes/library/acf/core/controllers/addons.php:138
+#@ acf
+msgid "Create image galleries in a simple and intuitive interface!"
+msgstr ""
+
+#: includes/library/acf/core/controllers/addons.php:144
+#: includes/library/acf/core/controllers/field_groups.php:445
+#: includes/library/acf-options-page/acf-options-page.php:200
+#@ acf
+msgid "Options Page"
+msgstr ""
+
+#: includes/library/acf/core/controllers/addons.php:145
+#@ acf
+msgid "Create global data to use throughout your website!"
+msgstr ""
+
+#: includes/library/acf/core/controllers/addons.php:151
+#@ acf
+msgid "Flexible Content Field"
+msgstr ""
+
+#: includes/library/acf/core/controllers/addons.php:152
+#@ acf
+msgid "Create unique designs with a flexible content layout manager!"
+msgstr ""
+
+#: includes/library/acf/core/controllers/addons.php:161
+#@ acf
+msgid "Gravity Forms Field"
+msgstr ""
+
+#: includes/library/acf/core/controllers/addons.php:162
+#@ acf
+msgid "Creates a select field populated with Gravity Forms!"
+msgstr ""
+
+#: includes/library/acf/core/controllers/addons.php:168
+#@ acf
+msgid "Date & Time Picker"
+msgstr ""
+
+#: includes/library/acf/core/controllers/addons.php:169
+#@ acf
+msgid "jQuery date & time picker"
+msgstr ""
+
+#: includes/library/acf/core/controllers/addons.php:175
+#@ acf
+msgid "Location Field"
+msgstr ""
+
+#: includes/library/acf/core/controllers/addons.php:176
+#@ acf
+msgid "Find addresses and coordinates of a desired location"
+msgstr ""
+
+#: includes/library/acf/core/controllers/addons.php:182
+#@ acf
+msgid "Contact Form 7 Field"
+msgstr ""
+
+#: includes/library/acf/core/controllers/addons.php:183
+#@ acf
+msgid "Assign one or more contact form 7 forms to a post"
+msgstr ""
+
+#: includes/library/acf/core/controllers/addons.php:193
+#@ acf
+msgid "Advanced Custom Fields Add-Ons"
+msgstr ""
+
+#: includes/library/acf/core/controllers/addons.php:196
+#@ acf
+msgid "The following Add-ons are available to increase the functionality of the Advanced Custom Fields plugin."
+msgstr ""
+
+#: includes/library/acf/core/controllers/addons.php:197
+#@ acf
+msgid "Each Add-on can be installed as a separate plugin (receives updates) or included in your theme (does not receive updates)."
+msgstr ""
+
+#: includes/library/acf/core/controllers/addons.php:219
+#: includes/library/acf/core/controllers/addons.php:240
+#@ acf
+msgid "Installed"
+msgstr ""
+
+#: includes/library/acf/core/controllers/addons.php:221
+#@ acf
+msgid "Purchase & Install"
+msgstr ""
+
+#: includes/library/acf/core/controllers/addons.php:242
+#: includes/library/acf/core/controllers/field_groups.php:422
+#: includes/library/acf/core/controllers/field_groups.php:431
+#: includes/library/acf/core/controllers/field_groups.php:439
+#: includes/library/acf/core/controllers/field_groups.php:447
+#: includes/library/acf/core/controllers/field_groups.php:455
+#@ acf
+msgid "Download"
+msgstr ""
+
+#: includes/library/acf/core/controllers/export.php:50
+#: includes/library/acf/core/controllers/export.php:159
+#@ acf
+msgid "Export"
+msgstr ""
+
+#: includes/library/acf/core/controllers/export.php:216
+#@ acf
+msgid "Export Field Groups"
+msgstr ""
+
+#: includes/library/acf/core/controllers/export.php:221
+#@ acf
+msgid "Field Groups"
+msgstr ""
+
+#: includes/library/acf/core/controllers/export.php:222
+#@ acf
+msgid "Select the field groups to be exported"
+msgstr ""
+
+#: includes/library/acf/core/controllers/export.php:239
+#: includes/library/acf/core/controllers/export.php:252
+#@ acf
+msgid "Export to XML"
+msgstr ""
+
+#: includes/library/acf/core/controllers/export.php:242
+#: includes/library/acf/core/controllers/export.php:267
+#@ acf
+msgid "Export to PHP"
+msgstr ""
+
+#: includes/library/acf/core/controllers/export.php:253
+#@ acf
+msgid "ACF will create a .xml export file which is compatible with the native WP import plugin."
+msgstr ""
+
+#: includes/library/acf/core/controllers/export.php:254
+#@ acf
+msgid "Imported field groups <b>will</b> appear in the list of editable field groups. This is useful for migrating fields groups between Wp websites."
+msgstr ""
+
+#: includes/library/acf/core/controllers/export.php:256
+#@ acf
+msgid "Select field group(s) from the list and click \"Export XML\""
+msgstr ""
+
+#: includes/library/acf/core/controllers/export.php:257
+#@ acf
+msgid "Save the .xml file when prompted"
+msgstr ""
+
+#: includes/library/acf/core/controllers/export.php:258
+#@ acf
+msgid "Navigate to Tools &raquo; Import and select WordPress"
+msgstr ""
+
+#: includes/library/acf/core/controllers/export.php:259
+#@ acf
+msgid "Install WP import plugin if prompted"
+msgstr ""
+
+#: includes/library/acf/core/controllers/export.php:260
+#@ acf
+msgid "Upload and import your exported .xml file"
+msgstr ""
+
+#: includes/library/acf/core/controllers/export.php:261
+#@ acf
+msgid "Select your user and ignore Import Attachments"
+msgstr ""
+
+#: includes/library/acf/core/controllers/export.php:262
+#@ acf
+msgid "That's it! Happy WordPressing"
+msgstr ""
+
+#: includes/library/acf/core/controllers/export.php:268
+#@ acf
+msgid "ACF will create the PHP code to include in your theme."
+msgstr ""
+
+#: includes/library/acf/core/controllers/export.php:269
+#: includes/library/acf/core/controllers/export.php:310
+#@ acf
+msgid "Registered field groups <b>will not</b> appear in the list of editable field groups. This is useful for including fields in themes."
+msgstr ""
+
+#: includes/library/acf/core/controllers/export.php:270
+#: includes/library/acf/core/controllers/export.php:311
+#@ acf
+msgid "Please note that if you export and register field groups within the same WP, you will see duplicate fields on your edit screens. To fix this, please move the original field group to the trash or remove the code from your functions.php file."
+msgstr ""
+
+#: includes/library/acf/core/controllers/export.php:272
+#@ acf
+msgid "Select field group(s) from the list and click \"Create PHP\""
+msgstr ""
+
+#: includes/library/acf/core/controllers/export.php:273
+#: includes/library/acf/core/controllers/export.php:302
+#@ acf
+msgid "Copy the PHP code generated"
+msgstr ""
+
+#: includes/library/acf/core/controllers/export.php:274
+#: includes/library/acf/core/controllers/export.php:303
+#@ acf
+msgid "Paste into your functions.php file"
+msgstr ""
+
+#: includes/library/acf/core/controllers/export.php:275
+#: includes/library/acf/core/controllers/export.php:304
+#@ acf
+msgid "To activate any Add-ons, edit and use the code in the first few lines."
+msgstr ""
+
+#: includes/library/acf/core/controllers/export.php:295
+#@ acf
+msgid "Export Field Groups to PHP"
+msgstr ""
+
+#: includes/library/acf/core/controllers/export.php:300
+#: includes/library/acf/core/fields/tab.php:65
+#@ acf
+msgid "Instructions"
+msgstr ""
+
+#: includes/library/acf/core/controllers/export.php:309
+#@ acf
+msgid "Notes"
+msgstr ""
+
+#: includes/library/acf/core/controllers/export.php:316
+#@ acf
+msgid "Include in theme"
+msgstr ""
+
+#: includes/library/acf/core/controllers/export.php:317
+#@ acf
+msgid "The Advanced Custom Fields plugin can be included within a theme. To do so, move the ACF plugin inside your theme and add the following code to your functions.php file:"
+msgstr ""
+
+#: includes/library/acf/core/controllers/export.php:323
+#@ acf
+msgid "To remove all visual interfaces from the ACF plugin, you can use a constant to enable lite mode. Add the following code to your functions.php file <b>before</b> the include_once code:"
+msgstr ""
+
+#: includes/library/acf/core/controllers/export.php:331
+#@ acf
+msgid "Back to export"
+msgstr ""
+
+#: includes/library/acf/core/controllers/export.php:400
+#@ acf
+msgid "No field groups were selected"
+msgstr ""
+
+#: includes/library/acf/core/controllers/field_group.php:358
+#@ acf
+msgid "Move to trash. Are you sure?"
+msgstr ""
+
+#: includes/library/acf/core/controllers/field_group.php:359
+#@ acf
+msgid "checked"
+msgstr ""
+
+#: includes/library/acf/core/controllers/field_group.php:360
+#@ acf
+msgid "No toggle fields available"
+msgstr ""
+
+#: includes/library/acf/core/controllers/field_group.php:361
+#@ acf
+msgid "Field group title is required"
+msgstr ""
+
+#: includes/library/acf/core/controllers/field_group.php:362
+#@ acf
+msgid "copy"
+msgstr ""
+
+#: includes/library/acf/core/controllers/field_group.php:363
+#: includes/library/acf/core/views/meta_box_location.php:62
+#: includes/library/acf/core/views/meta_box_location.php:159
+#@ acf
+msgid "or"
+msgstr ""
+
+#: includes/library/acf/core/controllers/field_group.php:365
+#@ acf
+msgid "Parent fields"
+msgstr ""
+
+#: includes/library/acf/core/controllers/field_group.php:366
+#@ acf
+msgid "Sibling fields"
+msgstr ""
+
+#: includes/library/acf/core/controllers/field_group.php:367
+#@ acf
+msgid "Hide / Show All"
+msgstr ""
+
+#: includes/library/acf/core/controllers/field_group.php:396
+#@ acf
+msgid "Location"
+msgstr ""
+
+#: includes/library/acf/core/controllers/field_group.php:397
+#: includes/library/acf-options-page/acf-options-page.php:30
+#: includes/library/acf-options-page/acf-options-page.php:31
+#@ acf
+msgid "Options"
+msgstr ""
+
+#: includes/library/acf/core/controllers/field_group.php:459
+#@ acf
+msgid "Show Field Key:"
+msgstr ""
+
+#: includes/library/acf/core/controllers/field_group.php:460
+#: includes/library/acf/core/fields/page_link.php:138
+#: includes/library/acf/core/fields/page_link.php:159
+#: includes/library/acf/core/fields/post_object.php:328
+#: includes/library/acf/core/fields/post_object.php:349
+#: includes/library/acf/core/fields/select.php:224
+#: includes/library/acf/core/fields/select.php:243
+#: includes/library/acf/core/fields/taxonomy.php:347
+#: includes/library/acf/core/fields/user.php:332
+#: includes/library/acf/core/fields/wysiwyg.php:257
+#: includes/library/acf/core/views/meta_box_fields.php:196
+#: includes/library/acf/core/views/meta_box_fields.php:219
+#: includes/library/acf-flexible-content/views/options.php:260
+#: includes/library/acf-flexible-content/views/options.php:306
+#@ acf
+msgid "No"
+msgstr ""
+
+#: includes/library/acf/core/controllers/field_group.php:461
+#: includes/library/acf/core/fields/page_link.php:137
+#: includes/library/acf/core/fields/page_link.php:158
+#: includes/library/acf/core/fields/post_object.php:327
+#: includes/library/acf/core/fields/post_object.php:348
+#: includes/library/acf/core/fields/select.php:223
+#: includes/library/acf/core/fields/select.php:242
+#: includes/library/acf/core/fields/taxonomy.php:346
+#: includes/library/acf/core/fields/user.php:331
+#: includes/library/acf/core/fields/wysiwyg.php:256
+#: includes/library/acf/core/views/meta_box_fields.php:195
+#: includes/library/acf/core/views/meta_box_fields.php:218
+#: includes/library/acf-flexible-content/views/options.php:259
+#: includes/library/acf-flexible-content/views/options.php:305
+#@ acf
+msgid "Yes"
+msgstr ""
+
+#: includes/library/acf/core/controllers/field_group.php:633
+#@ acf
+msgid "Front Page"
+msgstr ""
+
+#: includes/library/acf/core/controllers/field_group.php:634
+#@ acf
+msgid "Posts Page"
+msgstr ""
+
+#: includes/library/acf/core/controllers/field_group.php:635
+#@ acf
+msgid "Top Level Page (parent of 0)"
+msgstr ""
+
+#: includes/library/acf/core/controllers/field_group.php:636
+#@ acf
+msgid "Parent Page (has children)"
+msgstr ""
+
+#: includes/library/acf/core/controllers/field_group.php:637
+#@ acf
+msgid "Child Page (has parent)"
+msgstr ""
+
+#: includes/library/acf/core/controllers/field_group.php:645
+#@ acf
+msgid "Default Template"
+msgstr ""
+
+#: includes/library/acf/core/controllers/field_group.php:723
+#: includes/library/acf-options-page/acf-options-page.php:488
+#@ default
+#@ acf
+msgid "Publish"
+msgstr "Übernehmen"
+
+#: includes/library/acf/core/controllers/field_group.php:724
+#@ default
+msgid "Pending Review"
+msgstr ""
+
+#: includes/library/acf/core/controllers/field_group.php:725
+#@ default
+msgid "Draft"
+msgstr ""
+
+#: includes/library/acf/core/controllers/field_group.php:726
+#@ default
+msgid "Future"
+msgstr ""
+
+#: includes/library/acf/core/controllers/field_group.php:727
+#@ default
+msgid "Private"
+msgstr ""
+
+#: includes/library/acf/core/controllers/field_group.php:728
+#@ default
+msgid "Revision"
+msgstr ""
+
+#: includes/library/acf/core/controllers/field_group.php:729
+#@ default
+msgid "Trash"
+msgstr ""
+
+#: includes/library/acf/core/controllers/field_group.php:742
+#@ default
+msgid "Super Admin"
+msgstr ""
+
+#: includes/library/acf/core/controllers/field_groups.php:216
+#: includes/library/acf/core/controllers/field_groups.php:253
+#@ acf
+msgid "Changelog"
+msgstr ""
+
+#: includes/library/acf/core/controllers/field_groups.php:217
+#@ acf
+msgid "See what's new in"
+msgstr ""
+
+#: includes/library/acf/core/controllers/field_groups.php:217
+#@ acf
+msgid "version"
+msgstr ""
+
+#: includes/library/acf/core/controllers/field_groups.php:219
+#@ acf
+msgid "Resources"
+msgstr ""
+
+#: includes/library/acf/core/controllers/field_groups.php:221
+#@ acf
+msgid "Getting Started"
+msgstr ""
+
+#: includes/library/acf/core/controllers/field_groups.php:222
+#@ acf
+msgid "Field Types"
+msgstr ""
+
+#: includes/library/acf/core/controllers/field_groups.php:223
+#@ acf
+msgid "Functions"
+msgstr ""
+
+#: includes/library/acf/core/controllers/field_groups.php:224
+#@ acf
+msgid "Actions"
+msgstr ""
+
+#: includes/library/acf/core/controllers/field_groups.php:225
+#: includes/library/acf/core/fields/relationship.php:644
+#@ acf
+msgid "Filters"
+msgstr ""
+
+#: includes/library/acf/core/controllers/field_groups.php:226
+#@ acf
+msgid "'How to' guides"
+msgstr ""
+
+#: includes/library/acf/core/controllers/field_groups.php:227
+#@ acf
+msgid "Tutorials"
+msgstr ""
+
+#: includes/library/acf/core/controllers/field_groups.php:232
+#@ acf
+msgid "Created by"
+msgstr ""
+
+#: includes/library/acf/core/controllers/field_groups.php:244
+#@ acf
+msgid "Welcome to Advanced Custom Fields"
+msgstr ""
+
+#: includes/library/acf/core/controllers/field_groups.php:245
+#@ acf
+msgid "Thank you for updating to the latest version!"
+msgstr ""
+
+#: includes/library/acf/core/controllers/field_groups.php:245
+#@ acf
+msgid "is more polished and enjoyable than ever before. We hope you like it."
+msgstr ""
+
+#: includes/library/acf/core/controllers/field_groups.php:252
+#@ acf
+msgid "What’s New"
+msgstr ""
+
+#: includes/library/acf/core/controllers/field_groups.php:255
+#@ acf
+msgid "Download Add-ons"
+msgstr ""
+
+#: includes/library/acf/core/controllers/field_groups.php:309
+#@ acf
+msgid "Activation codes have grown into plugins!"
+msgstr ""
+
+#: includes/library/acf/core/controllers/field_groups.php:310
+#@ acf
+msgid "Add-ons are now activated by downloading and installing individual plugins. Although these plugins will not be hosted on the wordpress.org repository, each Add-on will continue to receive updates in the usual way."
+msgstr ""
+
+#: includes/library/acf/core/controllers/field_groups.php:316
+#@ acf
+msgid "All previous Add-ons have been successfully installed"
+msgstr ""
+
+#: includes/library/acf/core/controllers/field_groups.php:320
+#@ acf
+msgid "This website uses premium Add-ons which need to be downloaded"
+msgstr ""
+
+#: includes/library/acf/core/controllers/field_groups.php:320
+#@ acf
+msgid "Download your activated Add-ons"
+msgstr ""
+
+#: includes/library/acf/core/controllers/field_groups.php:325
+#@ acf
+msgid "This website does not use premium Add-ons and will not be affected by this change."
+msgstr ""
+
+#: includes/library/acf/core/controllers/field_groups.php:335
+#@ acf
+msgid "Easier Development"
+msgstr ""
+
+#: includes/library/acf/core/controllers/field_groups.php:337
+#@ acf
+msgid "New Field Types"
+msgstr ""
+
+#: includes/library/acf/core/controllers/field_groups.php:339
+#@ acf
+msgid "Taxonomy Field"
+msgstr ""
+
+#: includes/library/acf/core/controllers/field_groups.php:340
+#@ acf
+msgid "User Field"
+msgstr ""
+
+#: includes/library/acf/core/controllers/field_groups.php:341
+#@ acf
+msgid "Email Field"
+msgstr ""
+
+#: includes/library/acf/core/controllers/field_groups.php:342
+#@ acf
+msgid "Password Field"
+msgstr ""
+
+#: includes/library/acf/core/controllers/field_groups.php:344
+#@ acf
+msgid "Custom Field Types"
+msgstr ""
+
+#: includes/library/acf/core/controllers/field_groups.php:345
+#@ acf
+msgid "Creating your own field type has never been easier! Unfortunately, version 3 field types are not compatible with version 4."
+msgstr ""
+
+#: includes/library/acf/core/controllers/field_groups.php:346
+#@ acf
+msgid "Migrating your field types is easy, please"
+msgstr ""
+
+#: includes/library/acf/core/controllers/field_groups.php:346
+#@ acf
+msgid "follow this tutorial"
+msgstr ""
+
+#: includes/library/acf/core/controllers/field_groups.php:346
+#@ acf
+msgid "to learn more."
+msgstr ""
+
+#: includes/library/acf/core/controllers/field_groups.php:348
+#@ acf
+msgid "Actions &amp; Filters"
+msgstr ""
+
+#: includes/library/acf/core/controllers/field_groups.php:349
+#@ acf
+msgid "All actions & filters have received a major facelift to make customizing ACF even easier! Please"
+msgstr ""
+
+#: includes/library/acf/core/controllers/field_groups.php:349
+#@ acf
+msgid "read this guide"
+msgstr ""
+
+#: includes/library/acf/core/controllers/field_groups.php:349
+#@ acf
+msgid "to find the updated naming convention."
+msgstr ""
+
+#: includes/library/acf/core/controllers/field_groups.php:351
+#@ acf
+msgid "Preview draft is now working!"
+msgstr ""
+
+#: includes/library/acf/core/controllers/field_groups.php:352
+#@ acf
+msgid "This bug has been squashed along with many other little critters!"
+msgstr ""
+
+#: includes/library/acf/core/controllers/field_groups.php:352
+#@ acf
+msgid "See the full changelog"
+msgstr ""
+
+#: includes/library/acf/core/controllers/field_groups.php:356
+#@ acf
+msgid "Important"
+msgstr ""
+
+#: includes/library/acf/core/controllers/field_groups.php:358
+#@ acf
+msgid "Database Changes"
+msgstr ""
+
+#: includes/library/acf/core/controllers/field_groups.php:359
+#@ acf
+msgid "Absolutely <strong>no</strong> changes have been made to the database between versions 3 and 4. This means you can roll back to version 3 without any issues."
+msgstr ""
+
+#: includes/library/acf/core/controllers/field_groups.php:361
+#@ acf
+msgid "Potential Issues"
+msgstr ""
+
+#: includes/library/acf/core/controllers/field_groups.php:362
+#@ acf
+msgid "Do to the sizable changes surounding Add-ons, field types and action/filters, your website may not operate correctly. It is important that you read the full"
+msgstr ""
+
+#: includes/library/acf/core/controllers/field_groups.php:362
+#@ acf
+msgid "Migrating from v3 to v4"
+msgstr ""
+
+#: includes/library/acf/core/controllers/field_groups.php:362
+#@ acf
+msgid "guide to view the full list of changes."
+msgstr ""
+
+#: includes/library/acf/core/controllers/field_groups.php:365
+#@ acf
+msgid "Really Important!"
+msgstr ""
+
+#: includes/library/acf/core/controllers/field_groups.php:365
+#@ acf
+msgid "If you updated the ACF plugin without prior knowledge of such changes, please roll back to the latest"
+msgstr ""
+
+#: includes/library/acf/core/controllers/field_groups.php:365
+#@ acf
+msgid "version 3"
+msgstr ""
+
+#: includes/library/acf/core/controllers/field_groups.php:365
+#@ acf
+msgid "of this plugin."
+msgstr ""
+
+#: includes/library/acf/core/controllers/field_groups.php:370
+#@ acf
+msgid "Thank You"
+msgstr ""
+
+#: includes/library/acf/core/controllers/field_groups.php:371
+#@ acf
+msgid "A <strong>BIG</strong> thank you to everyone who has helped test the version 4 beta and for all the support I have received."
+msgstr ""
+
+#: includes/library/acf/core/controllers/field_groups.php:372
+#@ acf
+msgid "Without you all, this release would not have been possible!"
+msgstr ""
+
+#: includes/library/acf/core/controllers/field_groups.php:376
+#@ acf
+msgid "Changelog for"
+msgstr ""
+
+#: includes/library/acf/core/controllers/field_groups.php:393
+#@ acf
+msgid "Learn more"
+msgstr ""
+
+#: includes/class-car-dealer-fields.php:324
+#: includes/library/acf/core/controllers/field_groups.php:399
+#@ progression-car-dealer
+#@ acf
+msgid "Overview"
+msgstr "Überblick"
+
+#: includes/library/acf/core/controllers/field_groups.php:401
+#@ acf
+msgid "Previously, all Add-ons were unlocked via an activation code (purchased from the ACF Add-ons store). New to v4, all Add-ons act as separate plugins which need to be individually downloaded, installed and updated."
+msgstr ""
+
+#: includes/library/acf/core/controllers/field_groups.php:403
+#@ acf
+msgid "This page will assist you in downloading and installing each available Add-on."
+msgstr ""
+
+#: includes/library/acf/core/controllers/field_groups.php:405
+#@ acf
+msgid "Available Add-ons"
+msgstr ""
+
+#: includes/library/acf/core/controllers/field_groups.php:407
+#@ acf
+msgid "The following Add-ons have been detected as activated on this website."
+msgstr ""
+
+#: includes/library/acf/core/controllers/field_groups.php:421
+#@ acf
+msgid "Activation Code"
+msgstr ""
+
+#: includes/library/acf/core/controllers/field_groups.php:453
+#: includes/library/acf-flexible-content/flexible-content.php:22
+#@ acf
+msgid "Flexible Content"
+msgstr ""
+
+#: includes/library/acf/core/controllers/field_groups.php:463
+#@ acf
+msgid "Installation"
+msgstr ""
+
+#: includes/library/acf/core/controllers/field_groups.php:465
+#@ acf
+msgid "For each Add-on available, please perform the following:"
+msgstr ""
+
+#: includes/library/acf/core/controllers/field_groups.php:467
+#@ acf
+msgid "Download the Add-on plugin (.zip file) to your desktop"
+msgstr ""
+
+#: includes/library/acf/core/controllers/field_groups.php:468
+#@ acf
+msgid "Navigate to"
+msgstr ""
+
+#: includes/library/acf/core/controllers/field_groups.php:468
+#@ acf
+msgid "Plugins > Add New > Upload"
+msgstr ""
+
+#: includes/library/acf/core/controllers/field_groups.php:469
+#@ acf
+msgid "Use the uploader to browse, select and install your Add-on (.zip file)"
+msgstr ""
+
+#: includes/library/acf/core/controllers/field_groups.php:470
+#@ acf
+msgid "Once the plugin has been uploaded and installed, click the 'Activate Plugin' link"
+msgstr ""
+
+#: includes/library/acf/core/controllers/field_groups.php:471
+#@ acf
+msgid "The Add-on is now installed and activated!"
+msgstr ""
+
+#: includes/library/acf/core/controllers/field_groups.php:485
+#@ acf
+msgid "Awesome. Let's get to work"
+msgstr ""
+
+#: includes/library/acf/core/controllers/input.php:63
+#@ acf
+msgid "Expand Details"
+msgstr ""
+
+#: includes/library/acf/core/controllers/input.php:64
+#@ acf
+msgid "Collapse Details"
+msgstr ""
+
+#: includes/library/acf/core/controllers/input.php:67
+#@ acf
+msgid "Validation Failed. One or more fields below are required."
+msgstr ""
+
+#: includes/library/acf/core/controllers/upgrade.php:74
+#@ acf
+msgid "Upgrade"
+msgstr ""
+
+#: includes/library/acf/core/controllers/upgrade.php:596
+#@ acf
+msgid "Modifying field group options 'show on page'"
+msgstr ""
+
+#: includes/library/acf/core/controllers/upgrade.php:650
+#@ acf
+msgid "Modifying field option 'taxonomy'"
+msgstr ""
+
+#: includes/library/acf/core/controllers/upgrade.php:747
+#@ acf
+msgid "Moving user custom fields from wp_options to wp_usermeta'"
+msgstr ""
+
+#: includes/library/acf/core/fields/_base.php:124
+#: includes/library/acf/core/views/meta_box_location.php:74
+#@ acf
+msgid "Basic"
+msgstr ""
+
+#: includes/library/acf/core/fields/checkbox.php:19
+#: includes/library/acf/core/fields/taxonomy.php:323
+#@ acf
+msgid "Checkbox"
+msgstr ""
+
+#: includes/library/acf/core/fields/checkbox.php:20
+#: includes/library/acf/core/fields/radio.php:19
+#: includes/library/acf/core/fields/select.php:19
+#: includes/library/acf/core/fields/true_false.php:20
+#@ acf
+msgid "Choice"
+msgstr ""
+
+#: includes/library/acf/core/fields/checkbox.php:147
+#: includes/library/acf/core/fields/select.php:178
+#@ acf
+msgid "Enter each choice on a new line."
+msgstr ""
+
+#: includes/library/acf/core/fields/checkbox.php:148
+#: includes/library/acf/core/fields/select.php:179
+#@ acf
+msgid "For more control, you may specify both a value and label like this:"
+msgstr ""
+
+#: includes/library/acf/core/fields/checkbox.php:149
+#: includes/library/acf/core/fields/radio.php:153
+#: includes/library/acf/core/fields/select.php:180
+#@ acf
+msgid "red : Red"
+msgstr ""
+
+#: includes/library/acf/core/fields/checkbox.php:149
+#: includes/library/acf/core/fields/radio.php:154
+#: includes/library/acf/core/fields/select.php:180
+#@ acf
+msgid "blue : Blue"
+msgstr ""
+
+#: includes/library/acf/core/fields/checkbox.php:166
+#: includes/library/acf/core/fields/color_picker.php:89
+#: includes/library/acf/core/fields/email.php:106
+#: includes/library/acf/core/fields/number.php:116
+#: includes/library/acf/core/fields/radio.php:196
+#: includes/library/acf/core/fields/select.php:197
+#: includes/library/acf/core/fields/text.php:116
+#: includes/library/acf/core/fields/textarea.php:103
+#: includes/library/acf/core/fields/true_false.php:94
+#: includes/library/acf/core/fields/wysiwyg.php:199
+#@ acf
+msgid "Default Value"
+msgstr ""
+
+#: includes/library/acf/core/fields/checkbox.php:167
+#: includes/library/acf/core/fields/select.php:198
+#@ acf
+msgid "Enter each default value on a new line"
+msgstr ""
+
+#: includes/library/acf/core/fields/checkbox.php:183
+#: includes/library/acf/core/fields/message.php:20
+#: includes/library/acf/core/fields/radio.php:212
+#: includes/library/acf/core/fields/tab.php:20
+#: includes/library/acf-flexible-content/flexible-content.php:23
+#: includes/library/acf-flexible-content/views/options.php:16
+#: includes/library/acf-flexible-content/views/options.php:47
+#@ acf
+msgid "Layout"
+msgstr ""
+
+#: includes/library/acf/core/fields/checkbox.php:194
+#: includes/library/acf/core/fields/radio.php:223
+#@ acf
+msgid "Vertical"
+msgstr ""
+
+#: includes/library/acf/core/fields/checkbox.php:195
+#: includes/library/acf/core/fields/radio.php:224
+#@ acf
+msgid "Horizontal"
+msgstr ""
+
+#: includes/library/acf/core/fields/color_picker.php:19
+#@ acf
+msgid "Color Picker"
+msgstr ""
+
+#: includes/library/acf/core/fields/color_picker.php:20
+#: includes/library/acf/core/fields/date_picker/date_picker.php:20
+#: includes/library/acf/core/fields/google-map.php:19
+#@ acf
+msgid "jQuery"
+msgstr ""
+
+#: includes/library/acf/core/fields/date_picker/date_picker.php:19
+#@ acf
+msgid "Date Picker"
+msgstr ""
+
+#: includes/library/acf/core/fields/date_picker/date_picker.php:55
+#@ acf
+msgid "Done"
+msgstr ""
+
+#: includes/library/acf/core/fields/date_picker/date_picker.php:56
+#@ acf
+msgid "Today"
+msgstr ""
+
+#: includes/library/acf/core/fields/date_picker/date_picker.php:59
+#@ acf
+msgid "Show a different month"
+msgstr ""
+
+#: includes/library/acf/core/fields/date_picker/date_picker.php:126
+#@ acf
+msgid "Save format"
+msgstr ""
+
+#: includes/library/acf/core/fields/date_picker/date_picker.php:127
+#@ acf
+msgid "This format will determin the value saved to the database and returned via the API"
+msgstr ""
+
+#: includes/library/acf/core/fields/date_picker/date_picker.php:128
+#@ acf
+msgid "\"yymmdd\" is the most versatile save format. Read more about"
+msgstr ""
+
+#: includes/library/acf/core/fields/date_picker/date_picker.php:128
+#: includes/library/acf/core/fields/date_picker/date_picker.php:144
+#@ acf
+msgid "jQuery date formats"
+msgstr ""
+
+#: includes/library/acf/core/fields/date_picker/date_picker.php:142
+#@ acf
+msgid "Display format"
+msgstr ""
+
+#: includes/library/acf/core/fields/date_picker/date_picker.php:143
+#@ acf
+msgid "This format will be seen by the user when entering a value"
+msgstr ""
+
+#: includes/library/acf/core/fields/date_picker/date_picker.php:144
+#@ acf
+msgid "\"dd/mm/yy\" or \"mm/dd/yy\" are the most used display formats. Read more about"
+msgstr ""
+
+#: includes/library/acf/core/fields/date_picker/date_picker.php:158
+#@ acf
+msgid "Week Starts On"
+msgstr ""
+
+#: includes/library/acf/core/fields/dummy.php:19
+#@ default
+msgid "Dummy"
+msgstr ""
+
+#: includes/library/acf/core/fields/email.php:19
+#@ acf
+msgid "Email"
+msgstr ""
+
+#: includes/library/acf/core/fields/email.php:107
+#: includes/library/acf/core/fields/number.php:117
+#: includes/library/acf/core/fields/text.php:117
+#: includes/library/acf/core/fields/textarea.php:104
+#: includes/library/acf/core/fields/wysiwyg.php:200
+#@ acf
+msgid "Appears when creating a new post"
+msgstr ""
+
+#: includes/library/acf/core/fields/email.php:123
+#: includes/library/acf/core/fields/number.php:133
+#: includes/library/acf/core/fields/password.php:105
+#: includes/library/acf/core/fields/text.php:131
+#: includes/library/acf/core/fields/textarea.php:118
+#@ acf
+msgid "Placeholder Text"
+msgstr ""
+
+#: includes/library/acf/core/fields/email.php:124
+#: includes/library/acf/core/fields/number.php:134
+#: includes/library/acf/core/fields/password.php:106
+#: includes/library/acf/core/fields/text.php:132
+#: includes/library/acf/core/fields/textarea.php:119
+#@ acf
+msgid "Appears within the input"
+msgstr ""
+
+#: includes/library/acf/core/fields/email.php:138
+#: includes/library/acf/core/fields/number.php:148
+#: includes/library/acf/core/fields/password.php:120
+#: includes/library/acf/core/fields/text.php:146
+#@ acf
+msgid "Prepend"
+msgstr ""
+
+#: includes/library/acf/core/fields/email.php:139
+#: includes/library/acf/core/fields/number.php:149
+#: includes/library/acf/core/fields/password.php:121
+#: includes/library/acf/core/fields/text.php:147
+#@ acf
+msgid "Appears before the input"
+msgstr ""
+
+#: includes/library/acf/core/fields/email.php:154
+#: includes/library/acf/core/fields/number.php:164
+#: includes/library/acf/core/fields/password.php:136
+#: includes/library/acf/core/fields/text.php:162
+#@ acf
+msgid "Appears after the input"
+msgstr ""
+
+#: includes/library/acf/core/fields/file.php:19
+#@ acf
+msgid "File"
+msgstr ""
+
+#: includes/library/acf/core/fields/file.php:20
+#: includes/library/acf/core/fields/image.php:20
+#: includes/library/acf/core/fields/wysiwyg.php:37
+#: includes/library/acf-gallery/gallery.php:23
+#@ acf
+msgid "Content"
+msgstr ""
+
+#: includes/library/acf/core/fields/file.php:26
+#@ acf
+msgid "Select File"
+msgstr ""
+
+#: includes/library/acf/core/fields/file.php:27
+#@ acf
+msgid "Edit File"
+msgstr ""
+
+#: includes/library/acf/core/fields/file.php:28
+#@ acf
+msgid "Update File"
+msgstr ""
+
+#: includes/library/acf/core/fields/file.php:29
+#: includes/library/acf/core/fields/image.php:30
+#: includes/library/acf-gallery/gallery.php:32
+#@ acf
+msgid "uploaded to this post"
+msgstr ""
+
+#: includes/library/acf/core/fields/file.php:113
+#@ acf
+msgid "Size"
+msgstr ""
+
+#: includes/library/acf/core/fields/file.php:123
+#@ acf
+msgid "No File Selected"
+msgstr ""
+
+#: includes/library/acf/core/fields/file.php:123
+#@ acf
+msgid "Add File"
+msgstr ""
+
+#: includes/library/acf/core/fields/file.php:153
+#: includes/library/acf/core/fields/image.php:118
+#: includes/library/acf/core/fields/taxonomy.php:371
+#@ acf
+msgid "Return Value"
+msgstr ""
+
+#: includes/library/acf/core/fields/file.php:164
+#@ acf
+msgid "File Object"
+msgstr ""
+
+#: includes/library/acf/core/fields/file.php:165
+#@ acf
+msgid "File URL"
+msgstr ""
+
+#: includes/library/acf/core/fields/file.php:166
+#@ acf
+msgid "File ID"
+msgstr ""
+
+#: includes/library/acf/core/fields/file.php:175
+#: includes/library/acf/core/fields/image.php:158
+#: includes/library/acf-gallery/gallery.php:257
+#@ acf
+msgid "Library"
+msgstr ""
+
+#: includes/library/acf/core/fields/file.php:187
+#: includes/library/acf/core/fields/image.php:171
+#: includes/library/acf-gallery/gallery.php:270
+#@ acf
+msgid "Uploaded to post"
+msgstr ""
+
+#: includes/library/acf/core/fields/google-map.php:18
+#@ acf
+msgid "Google Map"
+msgstr ""
+
+#: includes/library/acf/core/fields/google-map.php:33
+#@ acf
+msgid "Locating"
+msgstr ""
+
+#: includes/library/acf/core/fields/google-map.php:34
+#@ acf
+msgid "Sorry, this browser does not support geolocation"
+msgstr ""
+
+#: includes/library/acf/core/fields/google-map.php:120
+#@ acf
+msgid "Clear location"
+msgstr ""
+
+#: includes/library/acf/core/fields/google-map.php:125
+#@ acf
+msgid "Find current location"
+msgstr ""
+
+#: includes/library/acf/core/fields/google-map.php:126
+#@ acf
+msgid "Search for address..."
+msgstr ""
+
+#: includes/library/acf/core/fields/google-map.php:162
+#@ acf
+msgid "Center"
+msgstr ""
+
+#: includes/library/acf/core/fields/google-map.php:163
+#@ acf
+msgid "Center the initial map"
+msgstr ""
+
+#: includes/library/acf/core/fields/google-map.php:199
+#@ acf
+msgid "Zoom"
+msgstr ""
+
+#: includes/library/acf/core/fields/google-map.php:200
+#@ acf
+msgid "Set the initial zoom level"
+msgstr ""
+
+#: includes/library/acf/core/fields/google-map.php:217
+#@ acf
+msgid "Height"
+msgstr ""
+
+#: includes/library/acf/core/fields/google-map.php:218
+#@ acf
+msgid "Customise the map height"
+msgstr ""
+
+#: includes/library/acf/core/fields/image.php:19
+#@ acf
+msgid "Image"
+msgstr ""
+
+#: includes/library/acf/core/fields/image.php:27
+#@ acf
+msgid "Select Image"
+msgstr ""
+
+#: includes/library/acf/core/fields/image.php:28
+#: includes/library/acf-gallery/gallery.php:30
+#@ acf
+msgid "Edit Image"
+msgstr ""
+
+#: includes/library/acf/core/fields/image.php:29
+#: includes/library/acf-gallery/gallery.php:31
+#@ acf
+msgid "Update Image"
+msgstr ""
+
+#: includes/library/acf/core/fields/image.php:83
+#: includes/library/acf-gallery/gallery.php:153
+#: includes/library/acf-gallery/gallery.php:204
+#@ acf
+msgid "Remove"
+msgstr ""
+
+#: includes/library/acf/core/fields/image.php:90
+#@ acf
+msgid "No image selected"
+msgstr ""
+
+#: includes/library/acf/core/fields/image.php:90
+#: includes/library/acf-gallery/gallery.php:165
+#@ acf
+msgid "Add Image"
+msgstr ""
+
+#: includes/library/acf/core/fields/image.php:119
+#: includes/library/acf/core/fields/relationship.php:576
+#@ acf
+msgid "Specify the returned value on front end"
+msgstr ""
+
+#: includes/library/acf/core/fields/image.php:129
+#@ acf
+msgid "Image Object"
+msgstr ""
+
+#: includes/library/acf/core/fields/image.php:130
+#@ acf
+msgid "Image URL"
+msgstr ""
+
+#: includes/library/acf/core/fields/image.php:131
+#@ acf
+msgid "Image ID"
+msgstr ""
+
+#: includes/library/acf/core/fields/image.php:139
+#: includes/library/acf-gallery/gallery.php:238
+#@ acf
+msgid "Preview Size"
+msgstr ""
+
+#: includes/library/acf/core/fields/image.php:140
+#: includes/library/acf-gallery/gallery.php:239
+#@ acf
+msgid "Shown when entering data"
+msgstr ""
+
+#: includes/library/acf/core/fields/image.php:159
+#: includes/library/acf-gallery/gallery.php:258
+#@ acf
+msgid "Limit the media library choice"
+msgstr ""
+
+#: includes/class-car-dealer-fields.php:358
+#: includes/library/acf/core/fields/message.php:19
+#: includes/library/acf/core/fields/message.php:70
+#: includes/library/acf/core/fields/true_false.php:79
+#@ progression-car-dealer
+#@ acf
+msgid "Message"
+msgstr "Hinweis"
+
+#: includes/library/acf/core/fields/message.php:71
+#@ acf
+msgid "Text &amp; HTML entered here will appear inline with the fields"
+msgstr ""
+
+#: includes/library/acf/core/fields/message.php:72
+#@ acf
+msgid "Please note that all text will first be passed through the wp function "
+msgstr ""
+
+#: includes/library/acf/core/fields/number.php:19
+#@ acf
+msgid "Number"
+msgstr ""
+
+#: includes/library/acf/core/fields/number.php:178
+#@ acf
+msgid "Minimum Value"
+msgstr ""
+
+#: includes/library/acf/core/fields/number.php:194
+#@ acf
+msgid "Maximum Value"
+msgstr ""
+
+#: includes/library/acf/core/fields/number.php:210
+#@ acf
+msgid "Step Size"
+msgstr ""
+
+#: includes/library/acf/core/fields/page_link.php:18
+#@ acf
+msgid "Page Link"
+msgstr ""
+
+#: includes/library/acf/core/fields/page_link.php:19
+#: includes/library/acf/core/fields/post_object.php:19
+#: includes/library/acf/core/fields/relationship.php:19
+#: includes/library/acf/core/fields/taxonomy.php:19
+#: includes/library/acf/core/fields/user.php:19
+#@ acf
+msgid "Relational"
+msgstr ""
+
+#: includes/library/acf/core/fields/page_link.php:103
+#: includes/library/acf/core/fields/post_object.php:268
+#: includes/library/acf/core/fields/relationship.php:595
+#: includes/library/acf/core/fields/relationship.php:674
+#: includes/library/acf/core/views/meta_box_location.php:75
+#@ acf
+msgid "Post Type"
+msgstr ""
+
+#: includes/library/acf/core/fields/page_link.php:127
+#: includes/library/acf/core/fields/post_object.php:317
+#: includes/library/acf/core/fields/select.php:214
+#: includes/library/acf/core/fields/taxonomy.php:337
+#: includes/library/acf/core/fields/user.php:322
+#@ acf
+msgid "Allow Null?"
+msgstr ""
+
+#: includes/library/acf/core/fields/page_link.php:148
+#: includes/library/acf/core/fields/post_object.php:338
+#: includes/library/acf/core/fields/select.php:233
+#@ acf
+msgid "Select multiple values?"
+msgstr ""
+
+#: includes/library/acf/core/fields/password.php:19
+#@ acf
+msgid "Password"
+msgstr ""
+
+#: includes/library/acf/core/fields/post_object.php:18
+#@ acf
+msgid "Post Object"
+msgstr ""
+
+#: includes/library/acf/core/fields/post_object.php:292
+#: includes/library/acf/core/fields/relationship.php:619
+#@ acf
+msgid "Filter from Taxonomy"
+msgstr ""
+
+#: includes/library/acf/core/fields/radio.php:18
+#@ acf
+msgid "Radio Button"
+msgstr ""
+
+#: includes/library/acf/core/fields/radio.php:105
+#: includes/library/acf/core/views/meta_box_location.php:91
+#@ acf
+msgid "Other"
+msgstr "Andere"
+
+#: includes/library/acf/core/fields/radio.php:148
+#@ acf
+msgid "Enter your choices one per line"
+msgstr ""
+
+#: includes/library/acf/core/fields/radio.php:175
+#@ acf
+msgid "Add 'other' choice to allow for custom values"
+msgstr ""
+
+#: includes/library/acf/core/fields/radio.php:187
+#@ acf
+msgid "Save 'other' values to the field's choices"
+msgstr ""
+
+#: includes/library/acf/core/fields/relationship.php:18
+#@ acf
+msgid "Relationship"
+msgstr ""
+
+#: includes/library/acf/core/fields/relationship.php:29
+#@ acf
+msgid "Maximum values reached ( {max} values )"
+msgstr ""
+
+#: includes/library/acf/core/fields/relationship.php:429
+#@ acf
+msgid "Search..."
+msgstr ""
+
+#: includes/library/acf/core/fields/relationship.php:440
+#@ acf
+msgid "Filter by post type"
+msgstr ""
+
+#: includes/library/acf/core/fields/relationship.php:575
+#@ acf
+msgid "Return Format"
+msgstr ""
+
+#: includes/library/acf/core/fields/relationship.php:586
+#@ acf
+msgid "Post Objects"
+msgstr ""
+
+#: includes/library/acf/core/fields/relationship.php:587
+#@ acf
+msgid "Post IDs"
+msgstr ""
+
+#: includes/library/acf/core/fields/relationship.php:653
+#@ acf
+msgid "Search"
+msgstr ""
+
+#: includes/library/acf/core/fields/relationship.php:654
+#@ acf
+msgid "Post Type Select"
+msgstr ""
+
+#: includes/library/acf/core/fields/relationship.php:662
+#@ acf
+msgid "Elements"
+msgstr ""
+
+#: includes/library/acf/core/fields/relationship.php:663
+#@ acf
+msgid "Selected elements will be displayed in each result"
+msgstr ""
+
+#: includes/library/acf/core/fields/relationship.php:672
+#: includes/library/acf/core/views/meta_box_options.php:106
+#@ acf
+msgid "Featured Image"
+msgstr ""
+
+#: includes/library/acf/core/fields/relationship.php:673
+#@ acf
+msgid "Post Title"
+msgstr ""
+
+#: includes/library/acf/core/fields/relationship.php:685
+#@ acf
+msgid "Maximum posts"
+msgstr ""
+
+#: includes/library/acf/core/fields/select.php:18
+#: includes/library/acf/core/fields/select.php:109
+#: includes/library/acf/core/fields/taxonomy.php:328
+#: includes/library/acf/core/fields/user.php:313
+#@ acf
+msgid "Select"
+msgstr ""
+
+#: includes/library/acf/core/fields/tab.php:19
+#@ acf
+msgid "Tab"
+msgstr ""
+
+#: includes/library/acf/core/fields/tab.php:68
+#@ acf
+msgid "Use \"Tab Fields\" to better organize your edit screen by grouping your fields together under separate tab headings."
+msgstr ""
+
+#: includes/library/acf/core/fields/tab.php:69
+#@ acf
+msgid "All the fields following this \"tab field\" (or until another \"tab field\" is defined) will be grouped together."
+msgstr ""
+
+#: includes/library/acf/core/fields/tab.php:70
+#@ acf
+msgid "Use multiple tabs to divide your fields into sections."
+msgstr ""
+
+#: includes/library/acf/core/fields/taxonomy.php:18
+#: includes/library/acf/core/fields/taxonomy.php:278
+#@ acf
+msgid "Taxonomy"
+msgstr ""
+
+#: includes/library/acf/core/fields/taxonomy.php:222
+#: includes/library/acf/core/fields/taxonomy.php:231
+#@ acf
+msgid "None"
+msgstr ""
+
+#: includes/library/acf/core/fields/taxonomy.php:312
+#: includes/library/acf/core/fields/user.php:298
+#: includes/library/acf/core/views/meta_box_fields.php:77
+#: includes/library/acf/core/views/meta_box_fields.php:159
+#: includes/library/acf-flexible-content/views/options.php:140
+#: includes/library/acf-flexible-content/views/options.php:217
+#@ acf
+msgid "Field Type"
+msgstr ""
+
+#: includes/library/acf/core/fields/taxonomy.php:322
+#: includes/library/acf/core/fields/user.php:307
+#@ acf
+msgid "Multiple Values"
+msgstr ""
+
+#: includes/library/acf/core/fields/taxonomy.php:324
+#: includes/library/acf/core/fields/user.php:309
+#@ acf
+msgid "Multi Select"
+msgstr ""
+
+#: includes/library/acf/core/fields/taxonomy.php:326
+#: includes/library/acf/core/fields/user.php:311
+#@ acf
+msgid "Single Value"
+msgstr ""
+
+#: includes/library/acf/core/fields/taxonomy.php:327
+#@ acf
+msgid "Radio Buttons"
+msgstr ""
+
+#: includes/library/acf/core/fields/taxonomy.php:356
+#@ acf
+msgid "Load & Save Terms to Post"
+msgstr ""
+
+#: includes/library/acf/core/fields/taxonomy.php:364
+#@ acf
+msgid "Load value based on the post's terms and update the post's terms on save"
+msgstr ""
+
+#: includes/library/acf/core/fields/taxonomy.php:381
+#@ acf
+msgid "Term Object"
+msgstr ""
+
+#: includes/library/acf/core/fields/taxonomy.php:382
+#@ acf
+msgid "Term ID"
+msgstr ""
+
+#: includes/library/acf/core/fields/text.php:19
+#@ acf
+msgid "Text"
+msgstr ""
+
+#: includes/library/acf/core/fields/text.php:176
+#: includes/library/acf/core/fields/textarea.php:164
+#@ acf
+msgid "Formatting"
+msgstr ""
+
+#: includes/library/acf/core/fields/text.php:177
+#: includes/library/acf/core/fields/textarea.php:165
+#@ acf
+msgid "Effects value on front end"
+msgstr ""
+
+#: includes/library/acf/core/fields/text.php:186
+#: includes/library/acf/core/fields/textarea.php:174
+#@ acf
+msgid "No formatting"
+msgstr ""
+
+#: includes/library/acf/core/fields/text.php:187
+#: includes/library/acf/core/fields/textarea.php:176
+#@ acf
+msgid "Convert HTML into tags"
+msgstr ""
+
+#: includes/library/acf/core/fields/text.php:195
+#: includes/library/acf/core/fields/textarea.php:133
+#@ acf
+msgid "Character Limit"
+msgstr ""
+
+#: includes/library/acf/core/fields/text.php:196
+#: includes/library/acf/core/fields/textarea.php:134
+#@ acf
+msgid "Leave blank for no limit"
+msgstr ""
+
+#: includes/library/acf/core/fields/textarea.php:19
+#@ acf
+msgid "Text Area"
+msgstr ""
+
+#: includes/library/acf/core/fields/textarea.php:148
+#@ acf
+msgid "Rows"
+msgstr ""
+
+#: includes/library/acf/core/fields/textarea.php:149
+#@ acf
+msgid "Sets the textarea height"
+msgstr ""
+
+#: includes/library/acf/core/fields/textarea.php:175
+#@ acf
+msgid "Convert new lines into &lt;br /&gt; tags"
+msgstr ""
+
+#: includes/library/acf/core/fields/true_false.php:19
+#@ acf
+msgid "True / False"
+msgstr ""
+
+#: includes/library/acf/core/fields/true_false.php:80
+#@ acf
+msgid "eg. Show extra content"
+msgstr ""
+
+#: includes/library/acf/core/fields/user.php:18
+#: includes/library/acf/core/views/meta_box_location.php:94
+#@ acf
+msgid "User"
+msgstr ""
+
+#: includes/library/acf/core/fields/user.php:271
+#@ acf
+msgid "Filter by role"
+msgstr ""
+
+#: includes/library/acf/core/fields/wysiwyg.php:36
+#@ acf
+msgid "Wysiwyg Editor"
+msgstr ""
+
+#: includes/library/acf/core/fields/wysiwyg.php:214
+#@ acf
+msgid "Toolbar"
+msgstr ""
+
+#: includes/library/acf/core/fields/wysiwyg.php:246
+#@ acf
+msgid "Show Media Upload Buttons?"
+msgstr ""
+
+#: includes/library/acf/core/views/meta_box_fields.php:24
+#: includes/library/acf-flexible-content/views/options.php:38
+#@ acf
+msgid "New Field"
+msgstr ""
+
+#: includes/library/acf/core/views/meta_box_fields.php:58
+#@ acf
+msgid "Field type does not exist"
+msgstr ""
+
+#: includes/library/acf/core/views/meta_box_fields.php:74
+#: includes/library/acf-flexible-content/views/options.php:137
+#@ acf
+msgid "Field Order"
+msgstr ""
+
+#: includes/library/acf/core/views/meta_box_fields.php:75
+#: includes/library/acf/core/views/meta_box_fields.php:127
+#: includes/library/acf-flexible-content/views/options.php:138
+#: includes/library/acf-flexible-content/views/options.php:186
+#@ acf
+msgid "Field Label"
+msgstr ""
+
+#: includes/library/acf/core/views/meta_box_fields.php:76
+#: includes/library/acf/core/views/meta_box_fields.php:143
+#: includes/library/acf-flexible-content/views/options.php:139
+#: includes/library/acf-flexible-content/views/options.php:202
+#@ acf
+msgid "Field Name"
+msgstr ""
+
+#: includes/library/acf/core/views/meta_box_fields.php:78
+#@ acf
+msgid "Field Key"
+msgstr ""
+
+#: includes/library/acf/core/views/meta_box_fields.php:90
+#@ acf
+msgid "No fields. Click the <strong>+ Add Field</strong> button to create your first field."
+msgstr ""
+
+#: includes/library/acf/core/views/meta_box_fields.php:105
+#: includes/library/acf/core/views/meta_box_fields.php:108
+#: includes/library/acf-flexible-content/views/options.php:165
+#: includes/library/acf-flexible-content/views/options.php:168
+#@ acf
+msgid "Edit this Field"
+msgstr ""
+
+#: includes/library/acf/core/views/meta_box_fields.php:109
+#: includes/library/acf-flexible-content/views/options.php:169
+#@ acf
+msgid "Read documentation for this field"
+msgstr ""
+
+#: includes/library/acf/core/views/meta_box_fields.php:109
+#: includes/library/acf-flexible-content/views/options.php:169
+#@ acf
+msgid "Docs"
+msgstr ""
+
+#: includes/library/acf/core/views/meta_box_fields.php:110
+#: includes/library/acf-flexible-content/views/options.php:170
+#@ acf
+msgid "Duplicate this Field"
+msgstr ""
+
+#: includes/library/acf/core/views/meta_box_fields.php:110
+#: includes/library/acf-flexible-content/views/options.php:55
+#: includes/library/acf-flexible-content/views/options.php:170
+#@ acf
+msgid "Duplicate"
+msgstr ""
+
+#: includes/library/acf/core/views/meta_box_fields.php:111
+#: includes/library/acf-flexible-content/views/options.php:171
+#@ acf
+msgid "Delete this Field"
+msgstr ""
+
+#: includes/library/acf/core/views/meta_box_fields.php:111
+#: includes/library/acf-flexible-content/views/options.php:50
+#: includes/library/acf-flexible-content/views/options.php:171
+#@ acf
+msgid "Delete"
+msgstr ""
+
+#: includes/library/acf/core/views/meta_box_fields.php:128
+#@ acf
+msgid "This is the name which will appear on the EDIT page"
+msgstr ""
+
+#: includes/library/acf/core/views/meta_box_fields.php:144
+#: includes/library/acf-flexible-content/views/options.php:203
+#@ acf
+msgid "Single word, no spaces. Underscores and dashes allowed"
+msgstr ""
+
+#: includes/library/acf/core/views/meta_box_fields.php:173
+#: includes/library/acf-flexible-content/views/options.php:232
+#@ acf
+msgid "Field Instructions"
+msgstr ""
+
+#: includes/library/acf/core/views/meta_box_fields.php:174
+#@ acf
+msgid "Instructions for authors. Shown when submitting data"
+msgstr ""
+
+#: includes/library/acf/core/views/meta_box_fields.php:187
+#: includes/library/acf-flexible-content/views/options.php:251
+#@ acf
+msgid "Required?"
+msgstr ""
+
+#: includes/library/acf/core/views/meta_box_fields.php:210
+#: includes/library/acf-flexible-content/views/options.php:297
+#@ acf
+msgid "Conditional Logic"
+msgstr ""
+
+#: includes/library/acf/core/views/meta_box_fields.php:261
+#: includes/library/acf/core/views/meta_box_location.php:117
+#: includes/library/acf-flexible-content/views/options.php:348
+#@ acf
+msgid "is equal to"
+msgstr ""
+
+#: includes/library/acf/core/views/meta_box_fields.php:262
+#: includes/library/acf/core/views/meta_box_location.php:118
+#: includes/library/acf-flexible-content/views/options.php:349
+#@ acf
+msgid "is not equal to"
+msgstr ""
+
+#: includes/library/acf/core/views/meta_box_fields.php:280
+#: includes/library/acf-flexible-content/views/options.php:367
+#@ acf
+msgid "Show this field when"
+msgstr ""
+
+#: includes/library/acf/core/views/meta_box_fields.php:286
+#: includes/library/acf-flexible-content/views/options.php:373
+#@ acf
+msgid "all"
+msgstr ""
+
+#: includes/library/acf/core/views/meta_box_fields.php:287
+#: includes/library/acf-flexible-content/views/options.php:374
+#@ acf
+msgid "any"
+msgstr ""
+
+#: includes/library/acf/core/views/meta_box_fields.php:290
+#: includes/library/acf-flexible-content/views/options.php:377
+#@ acf
+msgid "these rules are met"
+msgstr ""
+
+#: includes/library/acf/core/views/meta_box_fields.php:304
+#: includes/library/acf-flexible-content/views/options.php:389
+#@ acf
+msgid "Close Field"
+msgstr ""
+
+#: includes/library/acf/core/views/meta_box_fields.php:317
+#: includes/library/acf-flexible-content/views/options.php:404
+#@ acf
+msgid "Drag and drop to reorder"
+msgstr ""
+
+#: includes/library/acf/core/views/meta_box_fields.php:318
+#@ acf
+msgid "+ Add Field"
+msgstr ""
+
+#: includes/library/acf/core/views/meta_box_location.php:48
+#@ acf
+msgid "Rules"
+msgstr ""
+
+#: includes/library/acf/core/views/meta_box_location.php:49
+#@ acf
+msgid "Create a set of rules to determine which edit screens will use these advanced custom fields"
+msgstr ""
+
+#: includes/library/acf/core/views/meta_box_location.php:60
+#@ acf
+msgid "Show this field group if"
+msgstr ""
+
+#: includes/library/acf/core/views/meta_box_location.php:76
+#@ acf
+msgid "Logged in User Type"
+msgstr ""
+
+#: includes/library/acf/core/views/meta_box_location.php:78
+#: includes/library/acf/core/views/meta_box_location.php:79
+#@ acf
+msgid "Post"
+msgstr ""
+
+#: includes/library/acf/core/views/meta_box_location.php:80
+#@ acf
+msgid "Post Category"
+msgstr ""
+
+#: includes/library/acf/core/views/meta_box_location.php:81
+#@ acf
+msgid "Post Format"
+msgstr ""
+
+#: includes/library/acf/core/views/meta_box_location.php:82
+#@ acf
+msgid "Post Status"
+msgstr ""
+
+#: includes/library/acf/core/views/meta_box_location.php:83
+#@ acf
+msgid "Post Taxonomy"
+msgstr ""
+
+#: includes/library/acf/core/views/meta_box_location.php:85
+#: includes/library/acf/core/views/meta_box_location.php:86
+#@ acf
+msgid "Page"
+msgstr ""
+
+#: includes/library/acf/core/views/meta_box_location.php:87
+#@ acf
+msgid "Page Type"
+msgstr ""
+
+#: includes/library/acf/core/views/meta_box_location.php:88
+#@ acf
+msgid "Page Parent"
+msgstr ""
+
+#: includes/library/acf/core/views/meta_box_location.php:89
+#@ acf
+msgid "Page Template"
+msgstr ""
+
+#: includes/library/acf/core/views/meta_box_location.php:92
+#@ acf
+msgid "Attachment"
+msgstr ""
+
+#: includes/library/acf/core/views/meta_box_location.php:93
+#@ acf
+msgid "Taxonomy Term"
+msgstr ""
+
+#: includes/library/acf/core/views/meta_box_location.php:146
+#@ acf
+msgid "and"
+msgstr ""
+
+#: includes/library/acf/core/views/meta_box_location.php:161
+#@ acf
+msgid "Add rule group"
+msgstr ""
+
+#: includes/library/acf/core/views/meta_box_options.php:25
+#@ acf
+msgid "Order No."
+msgstr ""
+
+#: includes/library/acf/core/views/meta_box_options.php:26
+#@ acf
+msgid "Field groups are created in order <br />from lowest to highest"
+msgstr ""
+
+#: includes/library/acf/core/views/meta_box_options.php:42
+#@ acf
+msgid "Position"
+msgstr ""
+
+#: includes/library/acf/core/views/meta_box_options.php:52
+#@ acf
+msgid "High (after title)"
+msgstr ""
+
+#: includes/library/acf/core/views/meta_box_options.php:53
+#@ acf
+msgid "Normal (after content)"
+msgstr ""
+
+#: includes/library/acf/core/views/meta_box_options.php:54
+#@ acf
+msgid "Side"
+msgstr ""
+
+#: includes/library/acf/core/views/meta_box_options.php:64
+#@ acf
+msgid "Style"
+msgstr ""
+
+#: includes/library/acf/core/views/meta_box_options.php:74
+#@ acf
+msgid "Seamless (no metabox)"
+msgstr ""
+
+#: includes/library/acf/core/views/meta_box_options.php:75
+#@ acf
+msgid "Standard (WP metabox)"
+msgstr ""
+
+#: includes/library/acf/core/views/meta_box_options.php:84
+#@ acf
+msgid "Hide on screen"
+msgstr ""
+
+#: includes/library/acf/core/views/meta_box_options.php:85
+#@ acf
+msgid "<b>Select</b> items to <b>hide</b> them from the edit screen"
+msgstr ""
+
+#: includes/library/acf/core/views/meta_box_options.php:86
+#@ acf
+msgid "If multiple field groups appear on an edit screen, the first field group's options will be used. (the one with the lowest order number)"
+msgstr ""
+
+#: includes/library/acf/core/views/meta_box_options.php:96
+#@ acf
+msgid "Permalink"
+msgstr ""
+
+#: includes/library/acf/core/views/meta_box_options.php:97
+#@ acf
+msgid "Content Editor"
+msgstr ""
+
+#: includes/library/acf/core/views/meta_box_options.php:98
+#@ acf
+msgid "Excerpt"
+msgstr ""
+
+#: includes/library/acf/core/views/meta_box_options.php:100
+#@ acf
+msgid "Discussion"
+msgstr ""
+
+#: includes/library/acf/core/views/meta_box_options.php:101
+#@ acf
+msgid "Comments"
+msgstr ""
+
+#: includes/library/acf/core/views/meta_box_options.php:102
+#@ acf
+msgid "Revisions"
+msgstr ""
+
+#: includes/library/acf/core/views/meta_box_options.php:103
+#@ acf
+msgid "Slug"
+msgstr ""
+
+#: includes/library/acf/core/views/meta_box_options.php:104
+#@ acf
+msgid "Author"
+msgstr ""
+
+#: includes/library/acf/core/views/meta_box_options.php:105
+#@ acf
+msgid "Format"
+msgstr ""
+
+#: includes/library/acf/core/views/meta_box_options.php:107
+#@ acf
+msgid "Categories"
+msgstr ""
+
+#: includes/library/acf/core/views/meta_box_options.php:108
+#@ acf
+msgid "Tags"
+msgstr ""
+
+#: includes/library/acf/core/views/meta_box_options.php:109
+#@ acf
+msgid "Send Trackbacks"
+msgstr ""
+
+#: includes/library/acf-flexible-content/flexible-content.php:28
+#@ acf
+msgid "Add Row"
+msgstr ""
+
+#: includes/library/acf-flexible-content/flexible-content.php:31
+#@ acf
+msgid "layout"
+msgstr ""
+
+#: includes/library/acf-flexible-content/flexible-content.php:32
+#@ acf
+msgid "layouts"
+msgstr ""
+
+#: includes/library/acf-flexible-content/flexible-content.php:33
+#@ acf
+msgid "remove {layout}?"
+msgstr ""
+
+#: includes/library/acf-flexible-content/flexible-content.php:34
+#@ acf
+msgid "This field requires at least {min} {identifier}"
+msgstr ""
+
+#: includes/library/acf-flexible-content/flexible-content.php:35
+#@ acf
+msgid "This field has a limit of {max} {identifier}"
+msgstr ""
+
+#: includes/library/acf-flexible-content/flexible-content.php:36
+#@ acf
+msgid "This field requires at least {min} {label} {identifier}"
+msgstr ""
+
+#: includes/library/acf-flexible-content/flexible-content.php:37
+#@ acf
+msgid "Maximum {label} limit reached ({max} {identifier})"
+msgstr ""
+
+#: includes/library/acf-flexible-content/flexible-content.php:38
+#@ acf
+msgid "{available} {label} {identifier} available (max {max})"
+msgstr ""
+
+#: includes/library/acf-flexible-content/flexible-content.php:39
+#@ acf
+msgid "{required} {label} {identifier} required (min {min})"
+msgstr ""
+
+#: includes/library/acf-flexible-content/flexible-content.php:133
+#@ acf
+msgid "Flexible Content requires at least 1 layout"
+msgstr ""
+
+#: includes/library/acf-flexible-content/views/field.php:75
+#, php-format
+#@ acf
+msgid "Click the \"%s\" button below to start creating your layout"
+msgstr "Klicke den %s Button um dein eigenes Feldlayout zu erstellen"
+
+#: includes/library/acf-flexible-content/views/options.php:39
+#@ acf
+msgid "new_field"
+msgstr ""
+
+#: includes/library/acf-flexible-content/views/options.php:49
+#@ acf
+msgid "Reorder Layout"
+msgstr ""
+
+#: includes/library/acf-flexible-content/views/options.php:49
+#@ acf
+msgid "Reorder"
+msgstr ""
+
+#: includes/library/acf-flexible-content/views/options.php:50
+#@ acf
+msgid "Delete Layout"
+msgstr ""
+
+#: includes/library/acf-flexible-content/views/options.php:54
+#@ acf
+msgid "Add New Layout"
+msgstr "Neue Feldgruppe hinzufügen"
+
+#: includes/library/acf-flexible-content/views/options.php:55
+#@ acf
+msgid "Duplicate Layout"
+msgstr ""
+
+#: includes/library/acf-flexible-content/views/options.php:90
+#@ acf
+msgid "Display"
+msgstr ""
+
+#: includes/library/acf-flexible-content/views/options.php:99
+#@ acf
+msgid "Row"
+msgstr ""
+
+#: includes/library/acf-flexible-content/views/options.php:100
+#@ acf
+msgid "Table"
+msgstr ""
+
+#: includes/library/acf-flexible-content/views/options.php:149
+#@ acf
+msgid "No fields. Click the \"+ Add Sub Field button\" to create your first field."
+msgstr ""
+
+#: includes/library/acf-flexible-content/views/options.php:187
+#@ acf
+msgid "This is the name which will appear on the edit page"
+msgstr ""
+
+#: includes/library/acf-flexible-content/views/options.php:269
+#@ acf
+msgid "Column Width"
+msgstr ""
+
+#: includes/library/acf-flexible-content/views/options.php:270
+#@ acf
+msgid "Leave blank for auto"
+msgstr ""
+
+#: includes/library/acf-flexible-content/views/options.php:389
+#@ acf
+msgid "Close Sub Field"
+msgstr ""
+
+#: includes/library/acf-flexible-content/views/options.php:405
+#@ acf
+msgid "+ Add Sub Field"
+msgstr ""
+
+#: includes/library/acf-flexible-content/views/options.php:414
+#@ acf
+msgid "Button Label"
+msgstr ""
+
+#: includes/library/acf-flexible-content/views/options.php:430
+#@ acf
+msgid "Minimum Layouts"
+msgstr ""
+
+#: includes/library/acf-flexible-content/views/options.php:444
+#@ acf
+msgid "Maximum Layouts"
+msgstr ""
+
+#: includes/library/acf-gallery/acf-gallery-update.php:104
+#: includes/library/acf-options-page/acf-options-page-update.php:104
+#@ acf
+msgid "What's new"
+msgstr ""
+
+#: includes/library/acf-gallery/gallery.php:22
+#@ acf
+msgid "Gallery"
+msgstr ""
+
+#: includes/library/acf-gallery/gallery.php:29
+#@ acf
+msgid "Add Image to Gallery"
+msgstr ""
+
+#: includes/library/acf-gallery/gallery.php:33
+#@ acf
+msgid "No images selected"
+msgstr ""
+
+#: includes/library/acf-gallery/gallery.php:34
+#@ acf
+msgid "1 image selected"
+msgstr ""
+
+#: includes/library/acf-gallery/gallery.php:35
+#, php-format
+#@ acf
+msgid "%d images selected"
+msgstr ""
+
+#: includes/library/acf-gallery/gallery.php:136
+#: includes/library/acf-gallery/gallery.php:187
+#@ acf
+msgid "Alternate Text"
+msgstr ""
+
+#: includes/library/acf-gallery/gallery.php:140
+#: includes/library/acf-gallery/gallery.php:191
+#@ acf
+msgid "Caption"
+msgstr ""
+
+#: includes/library/acf-gallery/gallery.php:144
+#: includes/library/acf-gallery/gallery.php:195
+#@ acf
+msgid "Description"
+msgstr ""
+
+#: includes/library/acf-gallery/gallery.php:166
+#@ acf
+msgid "Grid"
+msgstr ""
+
+#: includes/library/acf-gallery/gallery.php:167
+#@ acf
+msgid "List"
+msgstr ""
+
+#: includes/library/acf-options-page/acf-options-page.php:332
+#@ acf
+msgid "Options Updated"
+msgstr ""
+
+#: includes/library/acf-options-page/acf-options-page.php:477
+#@ acf
+msgid "No Custom Field Group found for the options page"
+msgstr ""
+
+#: includes/library/acf-options-page/acf-options-page.php:477
+#@ acf
+msgid "Create a Custom Field Group"
+msgstr ""
+
+#: includes/library/acf-options-page/acf-options-page.php:492
+#@ acf
+msgid "Save Options"
+msgstr "Einstellungen speichern"
+
+#. translators: plugin header field 'Name'
+#: progression-car-dealer.php:0
+#@ progression-car-dealer
+msgid "Progression Car Dealer"
+msgstr ""
+
+#. translators: plugin header field 'PluginURI'
+#: progression-car-dealer.php:0
+#@ progression-car-dealer
+msgid "http://cars.progressionstudios.com/"
+msgstr ""
+
+#. translators: plugin header field 'Description'
+#: progression-car-dealer.php:0
+#@ progression-car-dealer
+msgid "Show your car inventory with WordPress"
+msgstr "Präsentiere deinen Fuhrpark mit WordPress"
+
+#. translators: plugin header field 'Author'
+#: progression-car-dealer.php:0
+#@ progression-car-dealer
+msgid "Progression Studios"
+msgstr ""
+
+#. translators: plugin header field 'AuthorURI'
+#: progression-car-dealer.php:0
+#@ progression-car-dealer
+msgid "http://progressionstudios.com/"
+msgstr ""
+
+#. translators: plugin header field 'Version'
+#: progression-car-dealer.php:0
+#@ progression-car-dealer
+msgid "1.0.0"
+msgstr ""
+
+#: includes/class-car-dealer-fields.php:781
+#@ progression-car-dealer
+msgid "Selected fields will not be used"
+msgstr "Markierte Felder werden nicht benutzt"
+
+#: includes/class-car-dealer-fields.php:325
+#@ progression-car-dealer
+msgid "Pricing"
+msgstr "Preis"
+
+#: includes/class-car-dealer-fields.php:326
+#@ progression-car-dealer
+msgid "Specifications"
+msgstr "Spezifikationen"
+
+#: includes/class-car-dealer-fields.php:327
+#@ progression-car-dealer
+msgid "Media"
+msgstr "Medien"
+
+#: includes/class-car-dealer-fields.php:337
+#@ progression-car-dealer
+msgid "Images"
+msgstr "Bilder"
+
+#: includes/class-car-dealer-fields.php:348
+#@ progression-car-dealer
+msgid "Description Text"
+msgstr "Beschreibungstext"
+
+#: includes/class-car-dealer-fields.php:382
+#@ progression-car-dealer
+msgid "Vehicle Data"
+msgstr "Fahrzeugdaten"
+
+#: includes/class-car-dealer-fields.php:90
+#@ progression-car-dealer
+msgid "MSRP"
+msgstr "Preisempfehlung"
+
+#: includes/class-car-dealer-fields.php:362
+#@ progression-car-dealer
+msgid "settings page"
+msgstr "Einstellungen"
+
+#: includes/class-car-dealer-fields.php:361
+#, php-format
+#@ progression-car-dealer
+msgid "See %s for money formatting options."
+msgstr "Für Formatierungsoptionen zur Währung, siehe %s."
+
+#: includes/class-car-dealer-fields.php:268
+#@ progression-car-dealer
+msgid "title"
+msgstr ""
+
+#: includes/class-car-dealer-fields.php:296
+#: includes/class-car-dealer-shortcodes.php:223
+#: includes/class-car-dealer-shortcodes.php:541
+#@ progression-car-dealer
+msgid "instructions"
+msgstr ""
+
+#: includes/class-car-dealer-fields.php:301
+#: includes/class-car-dealer-fields.php:303
+#@ progression-car-dealer
+msgid "message"
+msgstr ""
+
+#: includes/class-car-dealer-fields.php:748
+#@ progression-car-dealer
+msgid "Before numbers"
+msgstr "Vor dem Wert"
+
+#: includes/class-car-dealer-fields.php:749
+#@ progression-car-dealer
+msgid "After numbers"
+msgstr "Hinter dem Wert"
+
+#: includes/class-car-dealer-fields.php:935
+#@ progression-car-dealer
+msgid "2. Copy your generated shortcode:"
+msgstr "2. Kopiere deinen erzeugten Shortcode:"
+
+#: includes/class-car-dealer-fields.php:901
+#@ progression-car-dealer
+msgid "The <b>number</b> field requires an upper and lower value boundary for the range to filter. The <b>choices</b> field will ask for a comma-separated list of values."
+msgstr "Das <b>Kennzahlen</b>feld benötigt eine Ober- und Untergrenze für den Filter. Das <b>Auswahl</b>feld benötigt eine kommagetrennte Liste an Werten."
+
+#: includes/class-car-dealer-fields.php:181
+#@ progression-car-dealer
+msgid "The displacement the engine gives in Litres"
+msgstr "Der Verbrauch in Litern"
+
+#: includes/class-car-dealer-fields.php:708
+#@ progression-car-dealer
+msgid "General"
+msgstr "Allgemein"
+

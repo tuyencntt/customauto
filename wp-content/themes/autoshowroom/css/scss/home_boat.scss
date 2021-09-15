@@ -1,0 +1,333 @@
+@import "mixins";
+
+.content-vehicle-types {
+  @include position(relative);
+  overflow: hidden;
+  @include margin($bottom: 30px);
+
+  img {
+    width: 100%;
+    height: 270px;
+    object-fit: cover;
+  }
+
+  .vehicle-wrapper {
+    @include position(absolute, 0, 0, 0, 0);
+    z-index: 2;
+  }
+
+  .title {
+    @include position(absolute, $left: 30px, $bottom: 30px);
+    @include Montserrat_bold(18px, 22px, 0);
+    color: $write;
+    text-transform: capitalize;
+    z-index: 10;
+
+    a {
+      color: $write;
+      text-decoration: none;
+      @include transition();
+
+      &:hover,
+      &:active,
+      &:focus {
+        color: $main-color;
+      }
+    }
+  }
+
+  .vehicle-count {
+    @include position(absolute, $top: 20px, $left: 20px);
+    @include Muli_regular(12px, 22px, 0);
+    @include padding-default(5px 20px);
+    @include border-radius(20px);
+    color: $write;
+    background: $main-color;
+
+    &::before {
+      content: '';
+      @include position(absolute, -5px, -5px, -5px, -5px);
+      @include border-radius(20px);
+      background: rgba(255, 255, 255, 0.2);
+    }
+  }
+
+  &::after {
+    content: '';
+    @include position(absolute, 0, 0, 0, 0);
+    background: $bg-overlay-20;
+  }
+}
+
+.full_url {
+  @include position(absolute, 0, 0, 0, 0);
+  z-index: 9;
+}
+
+.autoshowroom-footer {
+  &.type5 {
+
+    .tzwidget-social {
+      a {
+        @include border-radius(50%);
+        background: $color-f1;
+
+        &:hover {
+          background: $main-color;
+        }
+      }
+    }
+
+    .autoshowroom-footer-top,
+    .autoshowroom-footer-bottom {
+      background: $write;
+    }
+
+    .autoshowroom-footer-bottom {
+      @include border('top', 1px, solid, $bd-footer-bt);
+
+      .autoshowroom-footer-bottom-left {
+        .widget {
+          p {
+            color: $color868;
+          }
+        }
+      }
+    }
+
+    .autoshowroom-footer-top {
+      &::after {
+        content: none;
+      }
+
+      .footerattr {
+        .widget {
+          h3 {
+            &.widget-title {
+              color: $color222;
+            }
+          }
+        }
+      }
+
+      .tz-newsletter3 {
+        .tz-newsletter-border {
+          padding-bottom: 115px;
+          position: relative;
+          margin-bottom: 64px;
+          @include border('bottom', 1px, solid, $bd-footer-bt);
+
+          .container {
+            padding-left: 0;
+            padding-right: 0;
+          }
+
+          .tz_border {
+            border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+            width: 97.5%;
+            position: absolute;
+            bottom: 0;
+            left: 50%;
+            transform: translateX(-50%);
+          }
+
+          .newsletter-title {
+            p {
+              @include Muli_regular(14px, 23px, 0);
+              color: $color888;
+            }
+
+            h3 {
+              &.title {
+                @include Montserrat_bold(20px, 27px, 0);
+                color: $color222;
+                text-transform: uppercase;
+                margin-bottom: 10px;
+              }
+            }
+
+          }
+
+          .newsletter-content {
+            form {
+              &.newsletter {
+                display: flex;
+                margin-top: 5px;
+
+                label {
+                  display: none;
+                }
+
+                .tnp-field-email {
+                  width: 75%;
+
+                  .tnp-email {
+                    width: 100%;
+                    padding: 15px 20px;
+                    font-family: "Muli", "sans-serif";
+                    font-weight: 400;
+                    font-size: 14px;
+                    color: #868686;
+                    border: none;
+                    background: #f1f1f1;
+                  }
+                }
+
+                .tnp-field-button {
+                  width: 25%;
+
+                  .tnp-button {
+                    width: 100%;
+                    padding: 15px 10px;
+                    background: #ff5400;
+                    border: none;
+                    color: #fff;
+                    font-family: "Montserrat", "sans-serif";
+                    font-size: 14px;
+                    font-weight: 400;
+                    text-transform: uppercase;
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
+
+.autoshowroom-quote-type5 {
+  padding: 0;
+  text-align: left;
+
+  .autoshowroom-quote-item {
+    box-shadow: 0 2px 2px 1px rgba(0, 0, 0, 0.1);
+    @include padding-default(40px 30px);
+    margin: 2px;
+    background-color: $write;
+    text-align: center;
+
+    .autoshowroom-quote-info {
+      .autoshowroom-quote-content {
+        color: #565656;
+        @include Muli_regular(16px, 25px, 0);
+      }
+
+      .autoshowroom-quote-image {
+        .autoshowroom-quote-image-box {
+          display: flex;
+          @include justify(center);
+          @include align(center);
+          @include margin($bottom: 20px);
+          img {
+            width: auto;
+          }
+        }
+      }
+
+      .autoshowroom-name-employment {
+        padding-top: 15px;
+        text-align: center;
+
+        .autoshowroom-quote-name {
+          color: $main-color;
+          font-weight: bold;
+          font-size: 14px;
+        }
+
+        .autoshowroom-quote-employment {
+          color: #bdbdbd;
+          @include Muli_regular(12px, 20px, 0);
+        }
+      }
+    }
+  }
+
+  .owl-controls {
+    display: block;
+
+    .owl-dots {
+      margin-top: 58px;
+      margin-bottom: 0;
+      margin-left: 23px;
+      display: flex;
+      @include justify(center);
+
+      .owl-dot {
+        width: 30px;
+        height: 4px;
+        background-color: #e4e4e4;
+        margin-right: 20px;
+
+        &.active {
+          background-color: $main-color;
+        }
+      }
+    }
+  }
+}
+.tz_button {
+  &.type2 {
+    .tz_buttonrp {
+      background: $main-color;
+
+      &:hover {
+        background: $color222;
+      }
+    }
+  }
+}
+.TZ-Vehicle-Feature {
+  &.type3 {
+    .item {
+      background: $write;
+      .pcd-specs {
+        span {
+          @include Muli_regular(12px, 33px, 0.1px);
+        }
+      }
+      .has-location {
+        .pcd-specs {
+          span {
+            width: 25%;
+
+            &.location {
+              width: 50%;
+            }
+          }
+        }
+      }
+      .vehicle-specs-3 {
+        &.has-location {
+          .pcd-specs {
+            span {
+              width: 25%;
+              &.location {
+                width: 50%;
+              }
+            }
+          }
+        }
+      }
+      .vehicle-specs-2 {
+        &.has-location {
+          .pcd-specs {
+            span {
+              width: 50%;
+            }
+          }
+        }
+      }
+      .vehicle-specs-1 {
+        &.has-location {
+          .pcd-specs {
+            span {
+              width: 100%;
+            }
+          }
+        }
+      }
+    }
+  }
+}

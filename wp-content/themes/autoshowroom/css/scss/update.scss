@@ -1,0 +1,158 @@
+@import "mixins";
+header.tz_hservice {
+  border: none;
+  .tz-menu-header {
+    position: absolute;
+    left: 0;
+    right: 0;
+    z-index: 2;
+    background: transparent;
+    nav ul.navbar-nav li > a {
+      font-weight: 600;
+      color: $write;
+    }
+    .container{
+      padding-right:0;
+      padding-left: 0;
+    }
+  }
+  .tzmenu_fixed.menu_fixed {
+    position: fixed;
+    background: rgba(0, 0, 0, 0.7);
+  }
+  .tz-top-header {
+    .textwidget ul li a{
+      color: #888888;
+      font-weight: 400;
+    }
+    p{
+      color: #888888;
+      font-weight: 400;
+    }
+    .container{
+      padding-left: 0;
+      padding-right: 0;
+    }
+  }
+}
+.tz_button.tz_btn_align_center{
+  text-align: center;
+}
+.tz_button.tz_btn_align_right{
+  text-align: right;
+}
+.tz_button{
+  a{
+    display: inline-block;
+    background: #333336;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-weight: 700;
+    font-size: 14px;
+    text-transform: uppercase;
+    color: #fff;
+    font-family: 'Montserrat', sans-serif;
+  }
+}
+.vc_row-o-equal-height.vc_row-o-content-middle{
+  .row{
+    @include flex-box(flex);
+    align-items: center;
+  }
+}
+.autoshowroom-list ul li, .autoshowroom-title.autoshowroom-title-left p{
+  font-weight: 400;
+}
+.autoshowroom-title h2{
+  b{
+    color: #ff5400;
+  }
+}
+.tz_custom_img{
+  position: relative;
+  left: 70px;
+  img{
+    width: auto;
+    max-width: unset!important;
+  }
+}
+.autoshowroom-ads.autoshowroom-ads-type3{
+  .autoshowroom-ads-image{
+    width: 48%;
+  }
+  .autoshowroom-ads-text{
+    width: 52%;
+  }
+  .autoshowroom-ads-image img{
+    object-fit: cover;
+    height: 100%;
+  }
+  .autoshowroom-ads-text{
+    .autoshowroom-ads-text-box{
+      padding: 0;
+      letter-spacing: -0.05px;
+      h2,h3,h4{
+        span {
+          line-height: 2em;
+        }
+      }
+      p{
+        margin-top: 5px;
+        width: 85%;
+        font-weight: 400;
+        letter-spacing: 0.5px;
+      }
+    }
+  }
+  .autoshowroom-button{
+    margin-top: 0;
+    a{
+      background-color: #222222 !important;
+      border: none;
+      padding: 13px 20px;
+      font-size: 14px;
+    }
+  }
+}
+.autoshowroom-ads.autoshowroom-ads-type3.autoshowroom-ads-image-text{
+  .autoshowroom-ads-image img{
+    object-position: right;
+  }
+}
+.autoshowroom-ads.autoshowroom-ads-type3.autoshowroom-ads-text-image{
+  .autoshowroom-ads-image img{
+    object-position: left;
+  }
+  .autoshowroom-ads-text{
+    padding-left: 60px;
+    .autoshowroom-ads-text-box p{
+      width: 90%;
+    }
+  }
+}
+.autoshowroom-ads .tz_newsletter{
+  form{
+    label{
+      display: none;
+    }
+    input{
+      height: 40px;
+      border: none;
+      background: #fff;
+      font-size: 14px;
+      font-weight: 400;
+      color: #868686;
+    }
+    input.tnp-email{
+      width: 260px;
+      padding-left: 20px;
+    }
+    input.submit{
+      width: 100px;
+      text-align: center;
+    }
+    @include flex-box(flex);
+  }
+}

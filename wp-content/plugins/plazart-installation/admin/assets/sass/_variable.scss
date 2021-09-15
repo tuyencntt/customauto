@@ -1,0 +1,33 @@
+
+$gb-color:                #595959;
+$gb-bd-color:             #ebebeb;
+$gb-title-color:          #2a2a2a;
+$nav-bd-color:            $gb-bd-color;
+$gb-warning-color:        #E18114;
+$gb-primary-color:        #23759B;
+$gb-success-color:        #5cb85c;
+$gb-danger-color:         #ff6776;
+$gb-info-color:           #2a88ab;
+
+$btn-fb-bg-color:         #3b5998;
+$btn-tweet-bg-color:      #1da1f2;
+$btn-google-bg-color:     #dd4b39;
+
+$badge-bg-danger-color:   $gb-danger-color;
+$badge-bg-primary-color:  $gb-primary-color;
+$badge-bg-warning-color:  $gb-warning-color;
+$badge-bg-success-color:  $gb-success-color;
+$badge-bg-info-color:     $gb-info-color;
+
+$checkbox-bg-hover:       #fafafa;
+
+$alert-bg-danger:         $gb-danger-color;
+$alert-bg-primary:        $gb-primary-color;
+$alert-bg-warning:        $gb-warning-color;
+$alert-bg-success:        $gb-success-color;
+
+$columns:                 12;
+$btn-padding-y:           .375rem;
+$btn-padding-x:           .75rem;
+
+$btn-transition:          color .15s ease-in-out, background-color .15s ease-in-out, border-color .15s ease-in-out, box-shadow .15s ease-in-out !default;

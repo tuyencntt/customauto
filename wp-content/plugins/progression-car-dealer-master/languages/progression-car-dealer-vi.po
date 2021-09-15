@@ -1,0 +1,702 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Progression Car Dealer\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-09-18 14:06+0700\n"
+"PO-Revision-Date: 2017-11-02 03:58+0000\n"
+"Last-Translator: Mary Doe <tuyennv@templaza.com>\n"
+"Language-Team: Vietnamese\n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: includes/car-taxonomy-image.php:31 includes/car-taxonomy-image.php:80
+#: includes/car-taxonomy-image.php:278
+msgid "Image"
+msgstr ""
+
+#: includes/car-taxonomy-image.php:34 includes/car-taxonomy-image.php:84
+#: includes/car-taxonomy-image.php:260
+msgid "Upload/Add image"
+msgstr ""
+
+#: includes/car-taxonomy-image.php:85 includes/car-taxonomy-image.php:261
+msgid "Remove image"
+msgstr ""
+
+#: includes/car-taxonomy-image.php:90 includes/class-car-dealer-customs.php:28
+#: includes/class-car-dealer-fields.php:49
+#: includes/class-car-dealer-widgets.php:174
+msgid "Vehicle Type"
+msgstr ""
+
+#: includes/car-taxonomy-image.php:123 includes/class-car-dealer-customs.php:51
+#: includes/class-car-dealer-fields.php:57
+msgid "Make"
+msgstr ""
+
+#: includes/car-taxonomy-image.php:296
+msgid "Thumbnail"
+msgstr ""
+
+#: includes/class-car-dealer-customs.php:29
+msgid "Vehicle Types"
+msgstr ""
+
+#: includes/class-car-dealer-customs.php:37
+#: includes/class-car-dealer-customs.php:60
+#: includes/class-car-dealer-customs.php:83
+#: includes/class-car-dealer-customs.php:117
+#, php-format
+msgid "Search %s"
+msgstr ""
+
+#: includes/class-car-dealer-customs.php:38
+#: includes/class-car-dealer-customs.php:61
+#: includes/class-car-dealer-customs.php:84
+#: includes/class-car-dealer-customs.php:109
+#, php-format
+msgid "All %s"
+msgstr ""
+
+#: includes/class-car-dealer-customs.php:39
+#: includes/class-car-dealer-customs.php:62
+#: includes/class-car-dealer-customs.php:85
+#: includes/class-car-dealer-customs.php:120
+#, php-format
+msgid "Parent %s"
+msgstr ""
+
+#: includes/class-car-dealer-customs.php:40
+#: includes/class-car-dealer-customs.php:63
+#: includes/class-car-dealer-customs.php:86
+#, php-format
+msgid "Parent %s:"
+msgstr ""
+
+#: includes/class-car-dealer-customs.php:41
+#: includes/class-car-dealer-customs.php:64
+#: includes/class-car-dealer-customs.php:87
+#: includes/class-car-dealer-customs.php:113
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#: includes/class-car-dealer-customs.php:42
+#: includes/class-car-dealer-customs.php:65
+#: includes/class-car-dealer-customs.php:88
+#, php-format
+msgid "Update %s"
+msgstr ""
+
+#: includes/class-car-dealer-customs.php:43
+#: includes/class-car-dealer-customs.php:66
+#: includes/class-car-dealer-customs.php:89
+#, php-format
+msgid "Add New %s"
+msgstr ""
+
+#: includes/class-car-dealer-customs.php:44
+#: includes/class-car-dealer-customs.php:67
+#: includes/class-car-dealer-customs.php:90
+#, php-format
+msgid "New %s Name"
+msgstr ""
+
+#: includes/class-car-dealer-customs.php:52
+msgid "Makes"
+msgstr ""
+
+#: includes/class-car-dealer-customs.php:74
+#: includes/class-car-dealer-fields.php:67
+msgid "Model"
+msgstr ""
+
+#: includes/class-car-dealer-customs.php:75
+msgid "Models"
+msgstr ""
+
+#: includes/class-car-dealer-customs.php:100
+msgid "Vehicle"
+msgstr ""
+
+#: includes/class-car-dealer-customs.php:101
+msgid "Vehicles"
+msgstr ""
+
+#: includes/class-car-dealer-customs.php:104
+msgid "This is where you can create and manage vehicles."
+msgstr ""
+
+#: includes/class-car-dealer-customs.php:110
+msgid "Add New"
+msgstr ""
+
+#: includes/class-car-dealer-customs.php:111
+#, php-format
+msgid "Add %s"
+msgstr ""
+
+#: includes/class-car-dealer-customs.php:112
+msgid "Edit"
+msgstr ""
+
+#: includes/class-car-dealer-customs.php:114
+#, php-format
+msgid "New %s"
+msgstr ""
+
+#: includes/class-car-dealer-customs.php:115
+#: includes/class-car-dealer-customs.php:116
+#, php-format
+msgid "View %s"
+msgstr ""
+
+#: includes/class-car-dealer-customs.php:118
+#, php-format
+msgid "No %s found"
+msgstr ""
+
+#: includes/class-car-dealer-customs.php:119
+#, php-format
+msgid "No %s found in trash"
+msgstr ""
+
+#: includes/class-car-dealer-fields.php:28
+msgid "Silver"
+msgstr "Bạc"
+
+#: includes/class-car-dealer-fields.php:29
+#: includes/class-car-dealer-fields.php:40
+msgid "Black"
+msgstr "Đen"
+
+#: includes/class-car-dealer-fields.php:30
+#: includes/class-car-dealer-fields.php:41
+msgid "White"
+msgstr ""
+
+#: includes/class-car-dealer-fields.php:31
+msgid "Red"
+msgstr ""
+
+#: includes/class-car-dealer-fields.php:32
+msgid "Blue"
+msgstr ""
+
+#: includes/class-car-dealer-fields.php:33
+msgid "Brown/Beige"
+msgstr ""
+
+#: includes/class-car-dealer-fields.php:34
+msgid "Yellow"
+msgstr ""
+
+#: includes/class-car-dealer-fields.php:35
+msgid "Green"
+msgstr ""
+
+#: includes/class-car-dealer-fields.php:42
+msgid "Brown (Leather)"
+msgstr ""
+
+#: includes/class-car-dealer-fields.php:77
+msgid "Text Price"
+msgstr ""
+
+#: includes/class-car-dealer-fields.php:80
+msgid "Contact get price"
+msgstr ""
+
+#: includes/class-car-dealer-fields.php:82
+msgid "Price Contact"
+msgstr ""
+
+#: includes/class-car-dealer-fields.php:87
+#: includes/class-car-dealer-fields.php:92
+msgid "Url Price"
+msgstr ""
+
+#: includes/class-car-dealer-fields.php:90
+msgid "URL get price"
+msgstr ""
+
+#: includes/class-car-dealer-fields.php:97
+#: includes/class-car-dealer-shortcodes.php:313
+msgid "Price"
+msgstr ""
+
+#: includes/class-car-dealer-fields.php:99
+msgid "The price that the customer will have to pay."
+msgstr ""
+
+#: includes/class-car-dealer-fields.php:112
+msgid "MSRP"
+msgstr ""
+
+#: includes/class-car-dealer-fields.php:114
+msgid "Use integers to set the listing price."
+msgstr ""
+
+#: includes/class-car-dealer-fields.php:127
+#, fuzzy
+msgid "Registration date"
+msgstr "Ngày đăng ký"
+
+#: includes/class-car-dealer-fields.php:130
+msgid "The year of first registration"
+msgstr ""
+
+#: includes/class-car-dealer-fields.php:132
+msgid "e.g. 2009"
+msgstr ""
+
+#: includes/class-car-dealer-fields.php:139
+msgid "Mileage"
+msgstr ""
+
+#: includes/class-car-dealer-fields.php:142
+msgid "The number of miles travelled or covered"
+msgstr ""
+
+#: includes/class-car-dealer-fields.php:144
+msgid "e.g. 70000"
+msgstr ""
+
+#: includes/class-car-dealer-fields.php:150
+msgid "Condition"
+msgstr "Tình trạng xe"
+
+#: includes/class-car-dealer-fields.php:155
+msgid "New"
+msgstr "Mới"
+
+#: includes/class-car-dealer-fields.php:156
+msgid "Used"
+msgstr ""
+
+#: includes/class-car-dealer-fields.php:157
+msgid "Certified Pre-Owned"
+msgstr ""
+
+#: includes/class-car-dealer-fields.php:164
+msgid "Exterior Color"
+msgstr "Mầu xe"
+
+#: includes/class-car-dealer-fields.php:175
+msgid "Interior Color"
+msgstr ""
+
+#: includes/class-car-dealer-fields.php:186
+msgid "Transmission"
+msgstr ""
+
+#: includes/class-car-dealer-fields.php:190
+msgid "Automatic"
+msgstr ""
+
+#: includes/class-car-dealer-fields.php:191
+msgid "Manual"
+msgstr ""
+
+#: includes/class-car-dealer-fields.php:198
+msgid "Engine"
+msgstr ""
+
+#: includes/class-car-dealer-fields.php:200
+msgid "The displacement the engine gives in Litres"
+msgstr ""
+
+#: includes/class-car-dealer-fields.php:209
+msgid "Drivetrain"
+msgstr ""
+
+#: includes/class-car-dealer-fields.php:213
+msgid "FWD"
+msgstr ""
+
+#: includes/class-car-dealer-fields.php:214
+msgid "RWD"
+msgstr ""
+
+#: includes/class-car-dealer-fields.php:215
+msgid "4WD"
+msgstr ""
+
+#: includes/class-car-dealer-fields.php:347
+msgid "Overview"
+msgstr ""
+
+#: includes/class-car-dealer-fields.php:348
+msgid "Pricing"
+msgstr ""
+
+#: includes/class-car-dealer-fields.php:349
+msgid "Specifications"
+msgstr ""
+
+#: includes/class-car-dealer-fields.php:350
+msgid "Media"
+msgstr ""
+
+#: includes/class-car-dealer-fields.php:360
+msgid "Images"
+msgstr ""
+
+#: includes/class-car-dealer-fields.php:371
+msgid "Description Text"
+msgstr ""
+
+#: includes/class-car-dealer-fields.php:381
+msgid "Message"
+msgstr ""
+
+#: includes/class-car-dealer-fields.php:384
+#, php-format
+msgid "See %s for money formatting options."
+msgstr ""
+
+#: includes/class-car-dealer-fields.php:385
+msgid "settings page"
+msgstr ""
+
+#: includes/class-car-dealer-fields.php:405
+msgid "Vehicle Data"
+msgstr ""
+
+#: includes/class-car-dealer-fields.php:721
+#: includes/class-car-dealer-fields.php:738
+#: includes/admin/class-car-dealer-admin.php:260
+msgid "Settings"
+msgstr ""
+
+#: includes/class-car-dealer-fields.php:742
+msgid "General"
+msgstr ""
+
+#: includes/class-car-dealer-fields.php:748
+msgid "Mileage unit"
+msgstr ""
+
+#: includes/class-car-dealer-fields.php:752
+msgid "Miles (mi)"
+msgstr ""
+
+#: includes/class-car-dealer-fields.php:753
+msgid "Kilometer (km)"
+msgstr ""
+
+#: includes/class-car-dealer-fields.php:762
+msgid "Currency symbol"
+msgstr ""
+
+#: includes/class-car-dealer-fields.php:778
+msgid "Symbol placement"
+msgstr ""
+
+#: includes/class-car-dealer-fields.php:782
+msgid "Before numbers"
+msgstr ""
+
+#: includes/class-car-dealer-fields.php:783
+msgid "After numbers"
+msgstr ""
+
+#: includes/class-car-dealer-fields.php:792
+msgid "Thousands separator"
+msgstr ""
+
+#: includes/class-car-dealer-fields.php:796
+msgid "Space"
+msgstr ""
+
+#: includes/class-car-dealer-fields.php:797
+msgid "Comma"
+msgstr ""
+
+#: includes/class-car-dealer-fields.php:798
+msgid "Dot"
+msgstr ""
+
+#: includes/class-car-dealer-fields.php:806
+msgid "Fields"
+msgstr ""
+
+#: includes/class-car-dealer-fields.php:812
+msgid "Fields to exclude"
+msgstr ""
+
+#: includes/class-car-dealer-fields.php:815
+msgid "Selected fields will not be used"
+msgstr ""
+
+#: includes/class-car-dealer-fields.php:822
+#: includes/class-car-dealer-fields.php:932
+msgid "Add custom fields"
+msgstr ""
+
+#: includes/class-car-dealer-fields.php:827
+msgid "Number field"
+msgstr ""
+
+#: includes/class-car-dealer-fields.php:835
+#: includes/class-car-dealer-fields.php:898
+#: includes/class-car-dealer-shortcodes.php:314
+#: includes/admin/class-car-dealer-admin.php:73
+msgid "Name"
+msgstr ""
+
+#: includes/class-car-dealer-fields.php:840
+msgid "E.g. \"Horsepower\""
+msgstr ""
+
+#: includes/class-car-dealer-fields.php:848
+msgid "Minimum value"
+msgstr ""
+
+#: includes/class-car-dealer-fields.php:862
+msgid "Maximum value"
+msgstr ""
+
+#: includes/class-car-dealer-fields.php:876
+msgid "Append"
+msgstr ""
+
+#: includes/class-car-dealer-fields.php:881
+msgid "e.g. \"PS\""
+msgstr ""
+
+#: includes/class-car-dealer-fields.php:890
+msgid "Options field"
+msgstr ""
+
+#: includes/class-car-dealer-fields.php:903
+msgid "E.g. \"Fuel Type\""
+msgstr ""
+
+#: includes/class-car-dealer-fields.php:911
+msgid "Choices"
+msgstr ""
+
+#: includes/class-car-dealer-fields.php:914
+msgid "Options separated by comma e.g. Petrol, Diesel, Gas, Hybrid"
+msgstr ""
+
+#: includes/class-car-dealer-fields.php:926
+msgid "Add new custom field"
+msgstr ""
+
+#: includes/class-car-dealer-fields.php:935
+msgid ""
+"The <b>number</b> field requires an upper and lower value boundary for the "
+"range to filter. The <b>choices</b> field will ask for a comma-separated "
+"list of values."
+msgstr ""
+
+#: includes/class-car-dealer-fields.php:939
+msgid "Shortcodes"
+msgstr ""
+
+#: includes/class-car-dealer-fields.php:945
+msgid "1. Select vehicles:"
+msgstr ""
+
+#: includes/class-car-dealer-fields.php:966
+#: includes/class-car-dealer-fields.php:973
+msgid "Your Shortcode"
+msgstr ""
+
+#: includes/class-car-dealer-fields.php:969
+msgid "2. Copy your generated shortcode:"
+msgstr ""
+
+#: includes/class-car-dealer-fields.php:976
+msgid "3. Paste your shortcode to a text widget or post or page"
+msgstr ""
+
+#: includes/class-car-dealer-fields.php:1003
+msgid "Make Association"
+msgstr ""
+
+#: includes/class-car-dealer-fields.php:1007
+msgid "Associated Make"
+msgstr ""
+
+#: includes/class-car-dealer-fields.php:1039
+msgid "Type Association"
+msgstr ""
+
+#: includes/class-car-dealer-fields.php:1043
+msgid "Associated Type"
+msgstr ""
+
+#: includes/class-car-dealer-install.php:33
+msgid "Car"
+msgstr ""
+
+#: includes/class-car-dealer-install.php:34
+msgid "Motorcycle"
+msgstr ""
+
+#: includes/class-car-dealer-install.php:35
+msgid "Truck"
+msgstr ""
+
+#: includes/class-car-dealer-shortcodes.php:113
+msgid "MSRP.:"
+msgstr ""
+
+#: includes/class-car-dealer-shortcodes.php:116
+msgid "Our Price:"
+msgstr ""
+
+#: includes/class-car-dealer-shortcodes.php:140
+msgid "Search Inventory"
+msgstr ""
+
+#: includes/class-car-dealer-shortcodes.php:236
+#: includes/class-car-dealer-widgets.php:132
+msgid "All"
+msgstr ""
+
+#: includes/class-car-dealer-shortcodes.php:295
+msgid "Keyword:"
+msgstr ""
+
+#: includes/class-car-dealer-shortcodes.php:296
+msgid "Search ..."
+msgstr ""
+
+#: includes/class-car-dealer-shortcodes.php:309
+msgid "Sorting:"
+msgstr ""
+
+#: includes/class-car-dealer-shortcodes.php:311
+msgid "Order by"
+msgstr ""
+
+#: includes/class-car-dealer-shortcodes.php:312
+msgid "Date"
+msgstr ""
+
+#: includes/class-car-dealer-shortcodes.php:317
+msgid "Sort order"
+msgstr ""
+
+#: includes/class-car-dealer-shortcodes.php:318
+msgid "Descending"
+msgstr ""
+
+#: includes/class-car-dealer-shortcodes.php:319
+msgid "Ascending"
+msgstr ""
+
+#: includes/class-car-dealer-shortcodes.php:680
+msgid "Lowest value to accept"
+msgstr ""
+
+#: includes/class-car-dealer-shortcodes.php:682
+#: includes/class-car-dealer-shortcodes.php:694
+msgid "Any"
+msgstr ""
+
+#: includes/class-car-dealer-shortcodes.php:692
+msgid "Highest value to accept"
+msgstr ""
+
+#: includes/class-car-dealer-widgets.php:155
+msgid "Display a list of the most recent vehicles on your site."
+msgstr ""
+
+#: includes/class-car-dealer-widgets.php:157
+msgid "Recent Vehicle Listings"
+msgstr ""
+
+#: includes/class-car-dealer-widgets.php:161
+msgid "Recent Vehicles"
+msgstr ""
+
+#: includes/class-car-dealer-widgets.php:162
+msgid "Title"
+msgstr ""
+
+#: includes/class-car-dealer-widgets.php:170
+msgid "Number of vehicles to show"
+msgstr ""
+
+#: includes/admin/class-car-dealer-admin.php:69
+msgid "Quotes List"
+msgstr ""
+
+#: includes/admin/class-car-dealer-admin.php:72
+msgid "No"
+msgstr ""
+
+#: includes/admin/class-car-dealer-admin.php:74
+msgid "Phone Number"
+msgstr ""
+
+#: includes/admin/class-car-dealer-admin.php:75
+msgid "Email"
+msgstr ""
+
+#: includes/admin/class-car-dealer-admin.php:76
+msgid "ZipCode"
+msgstr ""
+
+#: includes/admin/class-car-dealer-admin.php:77
+msgid "Car Info"
+msgstr ""
+
+#: includes/admin/class-car-dealer-admin.php:78
+msgid "Status"
+msgstr ""
+
+#: includes/admin/class-car-dealer-admin.php:79
+msgid "Delete"
+msgstr ""
+
+#: includes/admin/class-car-dealer-admin.php:118
+msgid "Make: "
+msgstr ""
+
+#: includes/admin/class-car-dealer-admin.php:125
+msgid "Model: "
+msgstr ""
+
+#: includes/admin/class-car-dealer-admin.php:132
+msgid "Year: "
+msgstr ""
+
+#: includes/admin/class-car-dealer-admin.php:139
+msgid "Mileage: "
+msgstr ""
+
+#: includes/admin/class-car-dealer-admin.php:147
+msgid "Read"
+msgstr ""
+
+#: includes/admin/class-car-dealer-admin.php:149
+msgid "UnRead"
+msgstr ""
+
+#: includes/admin/class-car-dealer-admin.php:227
+#: includes/admin/class-car-dealer-admin.php:237
+#: includes/admin/class-car-dealer-admin.php:244
+msgid "Edit assoziated Make"
+msgstr ""
+
+#: includes/admin/class-car-dealer-menu.php:43
+msgid "Car Dealer Archive"
+msgstr ""
+
+#: includes/admin/class-car-dealer-menu.php:56
+msgid "Archive"
+msgstr ""
+
+#: includes/admin/class-car-dealer-menu.php:80
+msgid "Add to Menu"
+msgstr ""
